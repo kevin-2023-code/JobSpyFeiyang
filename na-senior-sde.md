@@ -1,6 +1,6 @@
 # North America Senior SDE Roles
 
-Last updated: **2026-09-16 12:43 UTC** · **57** active roles.
+Last updated: **2026-09-16 19:01 UTC** · **56** active roles.
 
 <!-- TABLE_SLICE_NA_SENIOR_SDE_START -->
 | Company | Position | Location | Posting | Age |
@@ -28,7 +28,6 @@ Last updated: **2026-09-16 12:43 UTC** · **57** active roles.
 | <a href="https://www.anthropic.com/"><strong>Anthropic</strong></a> | Staff Software Engineer, Web Platform | San Francisco, CA | <a href="https://job-boards.greenhouse.io/anthropic/jobs/5305402008"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 59d |
 | <a href="https://simplify.jobs/c/Microsoft"><strong>Microsoft</strong></a> | Software Engineer 2 / Senior Software Engineer - Commerce Platforms | Redmond, WA | <a href="https://apply.careers.microsoft.com/careers/job/1970393556928670"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 62d |
 | <a href="https://scale.com/"><strong>Scale AI</strong></a> | Staff Software Engineer, Full Stack - Gen AI | New York, NY; San Francisco, CA; Seattle, WA; New York, NY | <a href="https://job-boards.greenhouse.io/scaleai/jobs/4713608005"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 69d |
-| <a href="https://openai.com/"><strong>OpenAI</strong></a> | Principal Software Engineer, Codex Cyber | San Francisco, United States | <a href="https://jobs.ashbyhq.com/openai/6c552323-f0bd-4756-a5fb-db2cda70173f/application"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 69d |
 | <a href="https://scale.com/"><strong>Scale AI</strong></a> | Senior Software Engineer, Identity | San Francisco, CA; New York, NY; Washington, DC | <a href="https://job-boards.greenhouse.io/scaleai/jobs/4711898005"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 70d |
 | <a href="https://simplify.jobs/c/GDIT"><strong>General Dynamics Information Technology</strong></a> | Senior Software Engineer - Software Engineering | Annapolis Junction, MD | <a href="https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Software-Engineer-1_RQ222853-1"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 71d |
 | <a href="https://simplify.jobs/c/Northrop-Grumman"><strong>Northrop Grumman</strong></a> | Software Engineer/Principal Software Engineer - Java | San Diego, CA | <a href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Software-Engineer-Principal-Software-Engineer---JAVA_R10237701"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 76d |
@@ -62,7 +61,7 @@ Last updated: **2026-09-16 12:43 UTC** · **57** active roles.
 | <a href="https://www.databricks.com/"><strong>Databricks</strong></a> | Staff Software Engineer - Backend | Vancouver, Canada | <a href="https://databricks.com/company/careers/open-positions/job?gh_jid=8093293002"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 418d |
 | <a href="https://scale.com/"><strong>Scale AI</strong></a> | Staff Software Engineer, Enterprise GenAI | San Francisco, CA; New York, NY | <a href="https://job-boards.greenhouse.io/scaleai/jobs/4569678005"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 477d |
 
-_53 live, 3 unverified_
+_52 live, 3 unverified_
 <!-- TABLE_SLICE_NA_SENIOR_SDE_END -->
 
 _1 hidden as first_seen >180d. Full set in jobs.db._
