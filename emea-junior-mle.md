@@ -1,6 +1,6 @@
 # EMEA Junior ML Engineer / Applied Scientist Roles
 
-Last updated: **2026-09-19 12:05 UTC** · **154** active roles.
+Last updated: **2026-09-19 18:03 UTC** · **154** active roles.
 
 <!-- TABLE_SLICE_EMEA_JUNIOR_MLE_START -->
 | Company | Position | Location | Posting | Age |
@@ -115,8 +115,8 @@ Last updated: **2026-09-19 12:05 UTC** · **154** active roles.
 | <a href="https://www.anthropic.com/"><strong>Anthropic</strong></a> | Research Engineer, Cybersecurity RL (Reinforcement Learning) | Zürich, CH | <a href="https://job-boards.greenhouse.io/anthropic/jobs/5412334008"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 12d |
 | <a href="https://simplify.jobs/c/Airbus"><strong>Airbus</strong></a> | Airframe Data Scientist Placement | Filton, Bristol, UK | <a href="https://ag.wd3.myworkdayjobs.com/Airbus/job/Filton/Airframe-Data-Scientist-Placement--125-months-_JR10427455"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 12d |
 | <a href="https://simplify.jobs/c/Airbus"><strong>Airbus</strong></a> | Graduate AI Engineer | Filton, Bristol, UK | <a href="https://ag.wd3.myworkdayjobs.com/Airbus/job/Filton/AGGP2027---Graduate-AI-Engineer_JR10427632"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 18d |
-| <a href="https://www.valeo.com"><strong>Valeo</strong></a> | Graduate Embedded AI Engineer - 12 month Fixed Term Contract | Tuam, Ireland | <a href="https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Tuam/Graduate-Embedded-AI-Engineer---12-month-Fixed-Term-Contract_REQ2026077128"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 23d |
 | <a href="https://simplify.jobs/c/Iambic-Therapeutics"><strong>Iambic Therapeutics</strong></a> | Machine Learning Scientist - Large Multimodal Models - Post-Training | Bristol, UK | <a href="https://jobs.ashbyhq.com/iambic-therapeutics/1232cf39-832c-494f-99b9-1b4ee7266a42/application?embed=true"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 23d |
+| <a href="https://www.valeo.com"><strong>Valeo</strong></a> | Graduate Embedded AI Engineer - 12 month Fixed Term Contract | Tuam, Ireland | <a href="https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Tuam/Graduate-Embedded-AI-Engineer---12-month-Fixed-Term-Contract_REQ2026077128"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 24d |
 | <a href="https://www.anthropic.com/"><strong>Anthropic</strong></a> | Applied AI Engineer, Enterprise | Paris, France | <a href="https://job-boards.greenhouse.io/anthropic/jobs/5390754008"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 30d |
 | <a href="https://www.anthropic.com/"><strong>Anthropic</strong></a> | Applied AI Engineer, Enterprise | Munich, Germany | <a href="https://job-boards.greenhouse.io/anthropic/jobs/5390795008"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 31d |
 | <a href="https://openai.com/"><strong>OpenAI</strong></a> | Applied AI Engineer | Abu Dhabi, UAE | <a href="https://jobs.ashbyhq.com/openai/2226c39d-371b-4dec-bf60-2d76dbe4c445/application"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 32d |
