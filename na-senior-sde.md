@@ -1,6 +1,6 @@
 # North America Senior SDE Roles
 
-Last updated: **2026-09-22 12:40 UTC** · **54** active roles.
+Last updated: **2026-09-22 18:48 UTC** · **52** active roles.
 
 <!-- TABLE_SLICE_NA_SENIOR_SDE_START -->
 | Company | Position | Location | Posting | Age |
@@ -49,17 +49,15 @@ Last updated: **2026-09-22 12:40 UTC** · **54** active roles.
 | <a href="https://scale.com/"><strong>Scale AI</strong></a> | Staff Software Engineer, Data Platform | San Francisco, CA; New York, NY | <a href="https://job-boards.greenhouse.io/scaleai/jobs/4649903005"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 250d |
 | <a href="https://cohere.com/"><strong>Cohere</strong></a> | Staff Software Engineer, Inference Infrastructure | San Francisco, United States · New York, United States · Toronto, Canada | <a href="https://jobs.ashbyhq.com/cohere/41f23dad-9da2-451a-bd1e-a1800437cb64/application"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 253d |
 | <a href="https://www.anthropic.com/"><strong>Anthropic</strong></a> | Staff Software Engineer, Product | San Francisco, CA · New York City, NY · Seattle, WA | <a href="https://job-boards.greenhouse.io/anthropic/jobs/5026097008"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 278d |
-| <a href="https://scale.com/"><strong>Scale AI</strong></a> | Senior Software Engineer,  Full-Stack – Scale GP | San Francisco, CA; New York, NY | <a href="https://job-boards.greenhouse.io/scaleai/jobs/4637484005"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 291d |
 | <a href="https://www.anthropic.com/"><strong>Anthropic</strong></a> | Staff Software Engineer, Android | San Francisco, CA · New York City, NY · Seattle, WA | <a href="https://job-boards.greenhouse.io/anthropic/jobs/4899511008"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 390d |
 | <a href="https://www.anthropic.com/"><strong>Anthropic</strong></a> | Staff Software Engineer, iOS | San Francisco, CA, New York City, NY, Seattle, WA | <a href="https://job-boards.greenhouse.io/anthropic/jobs/4572744008"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 390d |
-| <a href="https://scale.com/"><strong>Scale AI</strong></a> | Senior Software Engineer, GenAI | San Francisco, CA; New York, NY | <a href="https://job-boards.greenhouse.io/scaleai/jobs/4591298005"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 413d |
 | <a href="https://www.databricks.com/"><strong>Databricks</strong></a> | Senior Software Engineer - Fullstack | Vancouver, Canada | <a href="https://databricks.com/company/careers/open-positions/job?gh_jid=8099342002"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 419d |
 | <a href="https://www.databricks.com/"><strong>Databricks</strong></a> | Staff Software Engineer - Fullstack | Vancouver, Canada | <a href="https://databricks.com/company/careers/open-positions/job?gh_jid=8099343002"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 419d |
 | <a href="https://www.databricks.com/"><strong>Databricks</strong></a> | Senior Software Engineer - Backend | Vancouver, Canada | <a href="https://databricks.com/company/careers/open-positions/job?gh_jid=8093295002"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 424d |
 | <a href="https://www.databricks.com/"><strong>Databricks</strong></a> | Staff Software Engineer - Backend | Vancouver, Canada | <a href="https://databricks.com/company/careers/open-positions/job?gh_jid=8093293002"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 424d |
 | <a href="https://scale.com/"><strong>Scale AI</strong></a> | Staff Software Engineer, Enterprise GenAI | San Francisco, CA; New York, NY | <a href="https://job-boards.greenhouse.io/scaleai/jobs/4569678005"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 483d |
 
-_49 live, 4 unverified_
+_47 live, 4 unverified_
 <!-- TABLE_SLICE_NA_SENIOR_SDE_END -->
 
 _1 hidden as first_seen >180d. Full set in jobs.db._
