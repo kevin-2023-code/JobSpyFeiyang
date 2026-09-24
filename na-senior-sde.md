@@ -1,10 +1,11 @@
 # North America Senior SDE Roles
 
-Last updated: **2026-09-24 12:52 UTC** · **53** active roles.
+Last updated: **2026-09-24 19:04 UTC** · **54** active roles.
 
 <!-- TABLE_SLICE_NA_SENIOR_SDE_START -->
 | Company | Position | Location | Posting | Age |
 |---|---|---|---|---|
+| <a href="https://stripe.com/"><strong>Stripe</strong></a> | Senior Software Engineer, Backend | Seattle, WA | <a href="https://stripe.com/jobs/search?gh_jid=8230952"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 0d |
 | <a href="https://simplify.jobs/c/GlobalFoundries"><strong>GlobalFoundries</strong></a> | Principal Engineer Intern - Silicon Photonics Compact Modeling | Malta, NY | <a href="https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Principal-Eng-Device-Engineering--Silicon-Phonics-Compact-Modeling--2027-New-College-Grad-_JR-2604295"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 1d |
 | <a href="https://www.anthropic.com/"><strong>Anthropic</strong></a> | Staff Software Engineer: Compute | San Francisco, CA · New York City, NY | <a href="https://job-boards.greenhouse.io/anthropic/jobs/5432558008"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 1d |
 | <a href="https://cohere.com/"><strong>Cohere</strong></a> | Senior Full-Stack Engineer, Internal Applications | Toronto, Canada · Canada, Canada | <a href="https://jobs.ashbyhq.com/cohere/7133d205-5421-4336-a8e2-6037b5f55073/application"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 9d |
@@ -58,7 +59,7 @@ Last updated: **2026-09-24 12:52 UTC** · **53** active roles.
 | <a href="https://www.databricks.com/"><strong>Databricks</strong></a> | Staff Software Engineer - Backend | Vancouver, Canada | <a href="https://databricks.com/company/careers/open-positions/job?gh_jid=8093293002"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 426d |
 | <a href="https://scale.com/"><strong>Scale AI</strong></a> | Staff Software Engineer, Enterprise GenAI | San Francisco, CA; New York, NY | <a href="https://job-boards.greenhouse.io/scaleai/jobs/4569678005"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 485d |
 
-_47 live, 5 unverified_
+_48 live, 5 unverified_
 <!-- TABLE_SLICE_NA_SENIOR_SDE_END -->
 
 _1 hidden as first_seen >180d. Full set in jobs.db._
