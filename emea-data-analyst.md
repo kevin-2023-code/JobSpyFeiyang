@@ -1,6 +1,6 @@
 # EMEA Data Analyst Roles
 
-Last updated: **2026-09-27 13:06 UTC** · **129** active roles.
+Last updated: **2026-09-27 19:11 UTC** · **130** active roles.
 
 <!-- TABLE_SLICE_EMEA_DATA_ANALYST_START -->
 | Company | Position | Location | Posting | Age |
@@ -91,6 +91,7 @@ Last updated: **2026-09-27 13:06 UTC** · **129** active roles.
 | <a href="https://at.indeed.com/cmp/T--Mobile"><strong>T-Mobile</strong></a> | Data Analyst (w/m/d) Customer Relations | Wien, W, AT | <a href="https://at.indeed.com/viewjob?jk=801a21fcdbd00c5f"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 5d |
 | <a href="https://ie.indeed.com/cmp/Sumitomo-Group-2"><strong>Sumitomo Group</strong></a> | MI/BI Data Analyst - Transaction Banking | DUBLIN 2, D, IE | <a href="https://ie.indeed.com/viewjob?jk=c20cde12501ce16b"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 5d |
 | <a href="https://fr.indeed.com/cmp/Procter-&-Gamble"><strong>Procter & Gamble</strong></a> | Analysis & Insights Internship (Stagiaire Data Analyst) | Paris, A8, FR | <a href="https://fr.indeed.com/viewjob?jk=503e34ce01a88f43"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 5d |
+| <a href="https://nl.indeed.com/cmp/Mr-Marvis-1"><strong>MR MARVIS</strong></a> | Freelance CRM Data Analyst | Amsterdam Centrum, NH, NL | <a href="https://nl.indeed.com/viewjob?jk=1aaf92e9554e4fa2"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 5d |
 | <a href="https://fr.indeed.com/cmp/Licorne-Society-2"><strong>Licorne Society</strong></a> | Consultant - Analytics Engineer | Paris, A8, FR | <a href="https://fr.indeed.com/viewjob?jk=cee8656895baf7a4"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 5d |
 | <a href="https://fr.indeed.com/cmp/Licorne-Society-2"><strong>Licorne Society</strong></a> | Analytics Engineer | Paris, A8, FR | <a href="https://fr.indeed.com/viewjob?jk=3de80e9a8388eae9"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 5d |
 | <a href="https://cz.indeed.com/cmp/Idc-Research-Inc."><strong>IDC Research Inc.</strong></a> | Data Analytics Engineer | Praha, A, CZ | <a href="https://cz.indeed.com/viewjob?jk=4c920321725abe41"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 5d |
@@ -133,7 +134,7 @@ Last updated: **2026-09-27 13:06 UTC** · **129** active roles.
 | <a href="https://simplify.jobs/c/TikTok"><strong>TikTok</strong></a> | Data Analyst Project Intern - Data Science | London, UK | <a href="https://lifeattiktok.com/search/7620775575152462085"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 187d |
 | <a href="https://simplify.jobs/c/TikTok"><strong>TikTok</strong></a> | Data Analyst Project Intern | London, UK | <a href="https://lifeattiktok.com/search/7616659899507591477"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 198d |
 
-_5 live, 122 unverified_
+_5 live, 123 unverified_
 <!-- TABLE_SLICE_EMEA_DATA_ANALYST_END -->
 
 _2 hidden as first_seen >180d. Full set in jobs.db._
