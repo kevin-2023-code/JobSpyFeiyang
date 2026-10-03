@@ -1,6 +1,6 @@
 # EMEA Data Analyst Roles
 
-Last updated: **2026-10-03 12:31 UTC** · **108** active roles.
+Last updated: **2026-10-03 18:47 UTC** · **107** active roles.
 
 <!-- TABLE_SLICE_EMEA_DATA_ANALYST_START -->
 | Company | Position | Location | Posting | Age |
@@ -39,7 +39,6 @@ Last updated: **2026-10-03 12:31 UTC** · **108** active roles.
 | <a href="https://uk.indeed.com/cmp/Veezu"><strong>Veezu</strong></a> | Data Analyst | Sheffield, ENG, GB | <a href="https://uk.indeed.com/viewjob?jk=2ac70c00de77807a"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 2d |
 | <a href="https://fr.indeed.com/cmp/Shine-Germany"><strong>Shine Germany</strong></a> | Senior Data Analyst | Paris, A8, FR | <a href="https://fr.indeed.com/viewjob?jk=4f67b3254af6a976"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 2d |
 | <a href="https://fr.indeed.com/cmp/Shine"><strong>Shine</strong></a> | Senior Data Analyst | Paris, A8, FR | <a href="https://fr.indeed.com/viewjob?jk=ec2856039f903ece"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 2d |
-| <a href="https://fr.indeed.com/cmp/Qonto"><strong>Qonto</strong></a> | Senior Marketing Data Analyst | Paris, A8, FR | <a href="https://fr.indeed.com/viewjob?jk=df243bb956a19c7d"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 2d |
 | <a href="https://il.indeed.com/cmp/Nespresso-47fe2ab2"><strong>Nespresso</strong></a> | Data Analyst למחלקת השיווק חברת נספרסו | פתח תקווה, M, IL | <a href="https://il.indeed.com/viewjob?jk=8155e3ef74b09aad"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 2d |
 | <a href="https://uk.indeed.com/cmp/Ltm-Limited"><strong>LTM Limited</strong></a> | Data Analyst/Engineer | Sheffield, ENG, GB | <a href="https://uk.indeed.com/viewjob?jk=cd2080f34e88ceae"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 2d |
 | <a href="https://uk.indeed.com/cmp/Kwalee-Ltd"><strong>Kwalee Ltd</strong></a> | Senior Data Analyst | Leamington Spa, ENG, GB | <a href="https://uk.indeed.com/viewjob?jk=38afc135b72aed03"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 2d |
@@ -112,7 +111,7 @@ Last updated: **2026-10-03 12:31 UTC** · **108** active roles.
 | <a href="https://simplify.jobs/c/TikTok"><strong>TikTok</strong></a> | Data Analyst Project Intern - Data Science | London, UK | <a href="https://lifeattiktok.com/search/7620775575152462085"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 193d |
 | <a href="https://simplify.jobs/c/TikTok"><strong>TikTok</strong></a> | Data Analyst Project Intern | London, UK | <a href="https://lifeattiktok.com/search/7616659899507591477"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 204d |
 
-_5 live, 101 unverified_
+_5 live, 100 unverified_
 <!-- TABLE_SLICE_EMEA_DATA_ANALYST_END -->
 
 _2 hidden as first_seen >180d. Full set in jobs.db._
