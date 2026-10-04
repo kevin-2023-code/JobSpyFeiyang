@@ -1,6 +1,6 @@
 # North America Senior SDE Roles
 
-Last updated: **2026-10-04 13:19 UTC** · **49** active roles.
+Last updated: **2026-10-04 18:48 UTC** · **48** active roles.
 
 <!-- TABLE_SLICE_NA_SENIOR_SDE_START -->
 | Company | Position | Location | Posting | Age |
@@ -31,7 +31,6 @@ Last updated: **2026-10-04 13:19 UTC** · **49** active roles.
 | <a href="https://www.anthropic.com/"><strong>Anthropic</strong></a> | Staff Software Engineer, GTM Systems | San Francisco, CA | <a href="https://job-boards.greenhouse.io/anthropic/jobs/5368166008"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 73d |
 | <a href="https://www.anthropic.com/"><strong>Anthropic</strong></a> | Staff Software Engineer, Growth | San Francisco, CA · New York City, NY · Seattle, WA | <a href="https://job-boards.greenhouse.io/anthropic/jobs/5363469008"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 76d |
 | <a href="https://scale.com/"><strong>Scale AI</strong></a> | Staff Software Engineer, Full Stack - Gen AI | New York, NY; San Francisco, CA; Seattle, WA; New York, NY | <a href="https://job-boards.greenhouse.io/scaleai/jobs/4713608005"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 87d |
-| <a href="https://simplify.jobs/c/Northrop-Grumman"><strong>Northrop Grumman</strong></a> | Software Engineer/Principal Software Engineer - Java | San Diego, CA · El Segundo, CA | <a href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Software-Engineer-Principal-Software-Engineer---Java_R10239296-1"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 87d |
 | <a href="https://simplify.jobs/c/Onto-Innovation"><strong>Onto Innovation</strong></a> | Senior Software Engineer | Burlington, MA | <a href="https://onto.wd1.myworkdayjobs.com/onto_careers/job/Wilmington-MA-Upton/Senior-Software-Engineer_R-4963"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 92d |
 | <a href="https://openai.com/"><strong>OpenAI</strong></a> | Senior Software Engineer - Research Platform, Consumer Devices | San Francisco, United States | <a href="https://jobs.ashbyhq.com/openai/6d9925f4-3d0a-4710-8304-032d0080d12d/application"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 100d |
 | <a href="https://www.anthropic.com/"><strong>Anthropic</strong></a> | Staff + Senior Software Engineer, Inference Infrastructure | San Francisco, CA · New York City, NY · Seattle, WA | <a href="https://job-boards.greenhouse.io/anthropic/jobs/5245851008"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 118d |
@@ -54,7 +53,7 @@ Last updated: **2026-10-04 13:19 UTC** · **49** active roles.
 | <a href="https://www.databricks.com/"><strong>Databricks</strong></a> | Staff Software Engineer - Backend | Vancouver, Canada | <a href="https://databricks.com/company/careers/open-positions/job?gh_jid=8093293002"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 436d |
 | <a href="https://scale.com/"><strong>Scale AI</strong></a> | Staff Software Engineer, Enterprise GenAI | San Francisco, CA; New York, NY | <a href="https://job-boards.greenhouse.io/scaleai/jobs/4569678005"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 495d |
 
-_42 live, 6 unverified_
+_41 live, 6 unverified_
 <!-- TABLE_SLICE_NA_SENIOR_SDE_END -->
 
 _1 hidden as first_seen >180d. Full set in jobs.db._
