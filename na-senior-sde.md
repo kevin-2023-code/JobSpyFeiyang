@@ -1,11 +1,12 @@
 # North America Senior SDE Roles
 
-Last updated: **2026-10-15 12:45 UTC** · **51** active roles.
+Last updated: **2026-10-15 19:12 UTC** · **52** active roles.
 
 <!-- TABLE_SLICE_NA_SENIOR_SDE_START -->
 | Company | Position | Location | Posting | Age |
 |---|---|---|---|---|
-| <a href="https://cohere.com/"><strong>Cohere</strong></a> | Senior Full-Stack Engineer, Cohere Dashboard | Toronto, Canada · New York, United States · Ottawa, Canada | <a href="https://jobs.ashbyhq.com/cohere/7e0e08ed-4b12-4aaa-8dda-ad6292992061/application"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 2d |
+| <a href="https://cohere.com/"><strong>Cohere</strong></a> | Senior/Staff Software Engineer (Back-End), Inference | Canada, Canada · San Francisco, United States · United States, United States | <a href="https://jobs.ashbyhq.com/cohere/14aef6d9-763e-4f56-a498-206fb31dd0c6/application"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 0d |
+| <a href="https://cohere.com/"><strong>Cohere</strong></a> | Senior Full-Stack Engineer, Cohere Dashboard | Toronto, Canada · Ottawa, Canada · Montreal, Canada | <a href="https://jobs.ashbyhq.com/cohere/7e0e08ed-4b12-4aaa-8dda-ad6292992061/application"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 2d |
 | <a href="https://simplify.jobs/c/GlobalFoundries"><strong>GlobalFoundries</strong></a> | Principal Engineer - Device Engineering | Malta, NY | <a href="https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Principal-Engineer--Device-Engineering--2027-New-College-Graduate-_JR-2604445"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 6d |
 | <a href="https://simplify.jobs/c/Halliburton"><strong>Halliburton</strong></a> | Senior Software Developer - Subsurface Applications | Calgary, AB, Canada | <a href="https://jobs.halliburton.com/job/Calgary-Software-Developer,-Subsurface-Applications-(Associate-Senior)-Landmark-AB-T2P-3V4/1438393900/?ats=successfactors"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 7d |
 | <a href="https://simplify.jobs/c/Truveta"><strong>Truveta</strong></a> | Principal Software Engineer - Clinical Analytics | Seattle, WA | <a href="https://job-boards.greenhouse.io/truveta/jobs/6217536004"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 10d |
@@ -57,5 +58,5 @@ Last updated: **2026-10-15 12:45 UTC** · **51** active roles.
 | <a href="https://www.databricks.com/"><strong>Databricks</strong></a> | Staff Software Engineer - Backend | Vancouver, Canada | <a href="https://databricks.com/company/careers/open-positions/job?gh_jid=8093293002"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 447d |
 | <a href="https://scale.com/"><strong>Scale AI</strong></a> | Staff Software Engineer, Enterprise GenAI | San Francisco, CA; New York, NY | <a href="https://job-boards.greenhouse.io/scaleai/jobs/4569678005"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 506d |
 
-_43 live, 8 unverified_
+_44 live, 8 unverified_
 <!-- TABLE_SLICE_NA_SENIOR_SDE_END -->
