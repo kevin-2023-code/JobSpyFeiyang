@@ -39,7 +39,14 @@ issue #302), Google Jobs is heavily restricted in the EU/EEA from
 server-side IPs (DMA fallout), and 0 rows ever landed in `jobs.db`
 from it. (NA is fed entirely by SimplifyJobs, no JobSpy needed there.)
 
-**CI vs local matrix.** GitHub Actions IPs get blanket-403'd by
+**No CI any more (Oct 2026).** The GitHub Actions cron
+(`.github/workflows/scrape.yml`) and the upstream PyPI publish workflow were
+deleted so the repo spends no Actions minutes; the monitor runs locally only.
+Do not re-add a workflow without asking. The notes below on CI behaviour
+(`sites_skip_in_ci`, the commit-back step) describe the old setup and the code
+paths that still exist for it.
+
+**CI vs local matrix (historical).** GitHub Actions IPs get blanket-403'd by
 LinkedIn / Glassdoor / Bayt's edge WAFs before the request reaches
 application code, regardless of UA / TLS fingerprint / per-source
 header tweaks. So `sites_skip_in_ci: [linkedin, glassdoor, bayt]` on
