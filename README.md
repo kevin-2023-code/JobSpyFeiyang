@@ -78,13 +78,14 @@ surfaced via Indeed + SimplifyJobs appears once.
 
 ## How it runs
 
-GitHub Actions cron at **07:00 UTC** and **15:00 UTC** runs
-`python -m monitor.run`, which:
+Runs **locally only**, by hand: `python -m monitor.run` (see
+[Running locally](#running-locally)). The GitHub Actions cron was removed in
+Oct 2026 so the repo spends no Actions minutes; the old workflow is in git
+history (`.github/workflows/scrape.yml`) if it is ever wanted back. A run:
 
-1. Expands `monitor/config.yaml` into ~900 searches in CI (~1100 locally) and
-   calls each source.
-2. Upserts results into `monitor/jobs.db` (committed back to the repo for
-   state across runs; pruned to 180 days).
+1. Expands `monitor/config.yaml` into ~1100 searches and calls each source.
+2. Upserts results into `monitor/jobs.db` (commit it yourself after a run to
+   keep state across machines; pruned to 180 days).
 3. Marks any previously-active row not seen this run as `gone`.
 4. Re-renders `JOBS.md`, `INDEX.md`, the per-region graduate files, and
    every slice listed in [`monitor/slices.yaml`](monitor/slices.yaml).
@@ -113,7 +114,7 @@ The pipeline isn't EMEA / junior-specific; everything that filters is in
   module under `monitor/external/`.
 
 Then set the `NTFY_TOPIC` repo secret to an unguessable string, subscribe
-your phone to that topic, and enable Actions. Setup notes are in
+your phone to that topic, and run it locally. Setup notes are in
 [`monitor/README.md`](monitor/README.md).
 
 ## Running locally
