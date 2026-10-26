@@ -1,6 +1,6 @@
 # North America Senior SDE Roles
 
-Last updated: **2026-10-26 14:17 UTC** · **59** active roles.
+Last updated: **2026-10-26 20:35 UTC** · **59** active roles.
 
 <!-- TABLE_SLICE_NA_SENIOR_SDE_START -->
 | Company | Position | Location | Posting | Age |
@@ -10,9 +10,9 @@ Last updated: **2026-10-26 14:17 UTC** · **59** active roles.
 | <a href="https://simplify.jobs/c/Formlabs"><strong>Formlabs</strong></a> | Senior Software Engineer - API & Automation | Somerville, MA | <a href="https://careers.formlabs.com/job/8316018/apply/?gh_jid=8316018"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 4d |
 | <a href="https://cohere.com/"><strong>Cohere</strong></a> | Staff/Senior Staff Software Engineer, Agent Infrastructure | Toronto, Canada · Canada, Canada · United States, United States | <a href="https://jobs.ashbyhq.com/cohere/529b2dd6-4be3-49db-97cd-781f4897540b/application"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 4d |
 | <a href="https://www.anthropic.com/"><strong>Anthropic</strong></a> | Staff Software Engineer, Finance Engineering | San Francisco, CA · Seattle, WA | <a href="https://job-boards.greenhouse.io/anthropic/jobs/5457716008"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 5d |
+| <a href="https://www.anthropic.com/"><strong>Anthropic</strong></a> | Principal Engineer Capacity/Compute | San Francisco, CA | <a href="https://job-boards.greenhouse.io/anthropic/jobs/5456039008"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 8d |
 | <a href="https://www.anthropic.com/"><strong>Anthropic</strong></a> | Principal Engineer Capacity/Compute | Seattle, WA | <a href="https://job-boards.greenhouse.io/anthropic/jobs/5456406008"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 8d |
 | <a href="https://www.anthropic.com/"><strong>Anthropic</strong></a> | Principal Engineer Capacity/Compute | New York City, NY | <a href="https://job-boards.greenhouse.io/anthropic/jobs/5456405008"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 8d |
-| <a href="https://www.anthropic.com/"><strong>Anthropic</strong></a> | Principal Engineer Capacity/Compute | San Francisco, CA | <a href="https://job-boards.greenhouse.io/anthropic/jobs/5456039008"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 8d |
 | <a href="https://cohere.com/"><strong>Cohere</strong></a> | Senior/Staff Software Engineer (Back-End), Inference | Canada, Canada · San Francisco, United States · United States, United States | <a href="https://jobs.ashbyhq.com/cohere/14aef6d9-763e-4f56-a498-206fb31dd0c6/application"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 11d |
 | <a href="https://cohere.com/"><strong>Cohere</strong></a> | Senior Full-Stack Engineer, Cohere Dashboard | Toronto, Canada · Ottawa, Canada · Montreal, Canada | <a href="https://jobs.ashbyhq.com/cohere/7e0e08ed-4b12-4aaa-8dda-ad6292992061/application"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 13d |
 | <a href="https://scale.com/"><strong>Scale AI</strong></a> | Senior Software Engineer, Orchestration Platform | San Francisco, CA; New York, NY | <a href="https://job-boards.greenhouse.io/scaleai/jobs/4739920005"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 25d |
