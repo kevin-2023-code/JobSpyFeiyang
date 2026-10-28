@@ -1,10 +1,12 @@
 # North America Quant & Trading Roles
 
-Last updated: **2026-10-28 07:24 UTC** · **40** active roles.
+Last updated: **2026-10-28 15:28 UTC** · **42** active roles.
 
 <!-- TABLE_SLICE_NA_QUANT_START -->
 | Company | Position | Location | Salary | Posting | Age |
 |---|---|---|---|---|---|
+| <a href="https://simplify.jobs/c/Infleqtion"><strong>Infleqtion</strong></a> | Quantum Software Intern - Quantum Software | Chicago, IL |  | <a href="https://apply.workable.com/coldquanta/j/EB77DE8198/apply"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 0d |
+| **Infleqtion** | Quantum Software Intern | Chicago, IL |  | <a href="https://go.vansh.nyc/Xz"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 0d |
 | <a href="https://www.gelbergroup.com"><strong>Gelber Group</strong></a> | Associate Software Engineer- Trading Integrations Team | Chicago, IL |  | <a href="https://job-boards.greenhouse.io/gelbergroup/jobs/4724799006"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 0d |
 | <a href="https://simplify.jobs/c/Keysight-Technologies-Inc"><strong>Keysight Technologies</strong></a> | Quantum R&D Engineer Intern | Cambridge, MA |  | <a href="https://jobs.keysight.com/jobs/55183?icims=1"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 1d |
 | <a href="https://www.grahamcapital.com"><strong>Graham Capital Management</strong></a> | Trading Technology Software Developer | Rowayton, CT +1 |  | <a href="https://boards.greenhouse.io/grahamcapitalmanagement/jobs/4745292005?gh_jid=4745292005"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 6d |
@@ -45,7 +47,7 @@ Last updated: **2026-10-28 07:24 UTC** · **40** active roles.
 | **Susquehanna** | Trading System Engineering Intern | Bala Cynwyd, PA |  | <a href="https://go.vansh.nyc/2M"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 159d |
 | **Point72** | Quantitative Developer Intern | New York, NY |  | <a href="https://go.vansh.nyc/1e"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 192d |
 
-_7 live, 32 unverified_
+_7 live, 34 unverified_
 <!-- TABLE_SLICE_NA_QUANT_END -->
 
 _1 hidden as first_seen >180d. Full set in jobs.db._

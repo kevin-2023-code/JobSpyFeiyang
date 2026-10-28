@@ -1,11 +1,12 @@
 # North America Junior ML Engineer / Applied Scientist Roles
 
-Last updated: **2026-10-28 07:24 UTC** · **583** active roles.
+Last updated: **2026-10-28 15:28 UTC** · **584** active roles.
 
 <!-- TABLE_SLICE_NA_JUNIOR_MLE_START -->
 | Company | Position | Location | Salary | Posting | Age |
 |---|---|---|---|---|---|
 | <a href="https://simplify.jobs/c/Onsemi"><strong>onsemi</strong></a> | AI Engineer | Scottsdale, AZ |  | <a href="https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506767"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 0d |
+| <a href="https://simplify.jobs/c/Oxbridge-Health"><strong>Oxbridge Health</strong></a> | AI Engineer | Norwalk, CT |  | <a href="https://ats.rippling.com/oxbridge-health/jobs/196c59b6-8360-4766-a205-f873a3d2c2f4"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 0d |
 | **Workiva** | Machine Learning Engineering Intern | Remote · United States |  | <a href="https://go.vansh.nyc/W7"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 1d |
 | <a href="https://simplify.jobs/c/Micron-Technology"><strong>Micron Technology</strong></a> | HBM Data Scientist Intern | Richardson, TX |  | <a href="https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---HBM-Data-Scientist_JR115127"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 1d |
 | **Micron Technology** | AI Engineer Intern, Platform | Boise, ID |  | <a href="https://go.vansh.nyc/VX"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 1d |
@@ -496,7 +497,7 @@ Last updated: **2026-10-28 07:24 UTC** · **583** active roles.
 | <a href="https://simplify.jobs/c/Jump-Trading"><strong>Jump Trading</strong></a> | Campus AI Research Engineer Intern - Deep Learning | Chicago, IL · NYC |  | <a href="https://boards.greenhouse.io/embed/job_app?token=8052338"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 112d |
 | <a href="https://simplify.jobs/c/TikTok"><strong>TikTok</strong></a> | Applied Scientist Intern - Recommendation AI Lab | San Jose, CA |  | <a href="https://lifeattiktok.com/search/7659527183984019765"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 113d |
 | <a href="https://simplify.jobs/c/Revenue-Analytics"><strong>Revenue Analytics</strong></a> | Data Scientist | Atlanta, GA |  | <a href="https://jobs.lever.co/revenueanalytics/d1d069f6-be13-431b-94c9-626f5bed83c6/apply"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 113d |
-| <a href="https://simplify.jobs/c/LLNL"><strong>Lawrence Livermore National Laboratory (LLNL)</strong></a> | Machine Learning Postdoctoral Researcher Intern | Livermore, CA |  | <a href="https://jobs.smartrecruiters.com/LLNL/3743990012255026"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 114d |
+| <a href="https://simplify.jobs/c/LLNL"><strong>Lawrence Livermore National Laboratory (LLNL)</strong></a> | Machine Learning Postdoctoral Researcher | Livermore, CA |  | <a href="https://jobs.smartrecruiters.com/LLNL/3743990016432706"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 114d |
 | <a href="https://simplify.jobs/c/Applied-Materials"><strong>Applied Materials</strong></a> | Computer Vision/Machine Learning/Deep Learning Algorithm Developer | Santa Clara, CA |  | <a href="https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/CV-ML-DL-Algorithm-Developer_R2622877-1"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 114d |
 | <a href="https://www.anthropic.com/"><strong>Anthropic</strong></a> | Research Engineer, Life Sciences | San Francisco, CA |  | <a href="https://job-boards.greenhouse.io/anthropic/jobs/5265365008"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 117d |
 | <a href="https://simplify.jobs/c/IMC-Trading"><strong>IMC Trading</strong></a> | Graduate Machine Learning Researcher | Chicago, IL |  | <a href="https://job-boards.eu.greenhouse.io/imc/jobs/4907416101"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 119d |
@@ -504,9 +505,8 @@ Last updated: **2026-10-28 07:24 UTC** · **583** active roles.
 | <a href="https://simplify.jobs/c/Human-Computer-Lab"><strong>Human Computer Lab</strong></a> | Software/ML Engineering Intern | Toronto, ON, Canada · SF |  | <a href="https://jobs.ashbyhq.com/human-computer-lab/7d13ae27-1f02-4d9b-8d39-e3d9d67df705/application"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 119d |
 | <a href="https://www.anthropic.com/"><strong>Anthropic</strong></a> | Research Engineer, Computer Use | San Francisco, CA · New York City, NY · Seattle, WA |  | <a href="https://job-boards.greenhouse.io/anthropic/jobs/5285246008"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 120d |
 | <a href="https://simplify.jobs/c/Jumio"><strong>Jumio</strong></a> | Research Engineer - Machine Learning & Robotics | Lenexa, KS |  | <a href="https://job-boards.greenhouse.io/jumio/jobs/4709633005"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 124d |
-| <a href="https://openai.com/"><strong>OpenAI</strong></a> | Research Engineer/Research Scientist - Personal AGI, North Stars | San Francisco, United States |  | <a href="https://jobs.ashbyhq.com/openai/171ebca6-de53-4d6e-a312-30332f353957/application"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 125d |
 
-_213 live, 287 unverified_
+_212 live, 288 unverified_
 <!-- TABLE_SLICE_NA_JUNIOR_MLE_END -->
 
-_showing newest 500 of 579 active rows (cap 500); 4 hidden as first_seen >180d. Full set in jobs.db._
+_showing newest 500 of 580 active rows (cap 500); 4 hidden as first_seen >180d. Full set in jobs.db._

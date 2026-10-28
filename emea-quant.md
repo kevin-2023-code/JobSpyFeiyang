@@ -1,14 +1,12 @@
 # EMEA Quant & Trading Roles
 
-Last updated: **2026-10-28 07:24 UTC** · **24** active roles.
+Last updated: **2026-10-28 15:28 UTC** · **22** active roles.
 
 <!-- TABLE_SLICE_EMEA_QUANT_START -->
 | Company | Position | Location | Posting | Age |
 |---|---|---|---|---|
 | <a href="https://uk.indeed.com/cmp/Tp-Icap"><strong>TP ICAP</strong></a> | Associate Quantitative Engineer | London, ENG, GB | <a href="https://uk.indeed.com/viewjob?jk=e15a06697fa112e7"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 5d |
 | <a href="https://uk.indeed.com/cmp/Jpmorganchase-2"><strong>JPMorganChase</strong></a> | Trader Voice Infrastructure Engineer | London, ENG, GB | <a href="https://uk.indeed.com/viewjob?jk=cc026091d37f6f81"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 6d |
-| <a href="https://uk.indeed.com/cmp/G--research"><strong>G-Research</strong></a> | Quantitative Data Engineer | London, ENG, GB | <a href="https://uk.indeed.com/viewjob?jk=cb19cc11f71a51c9"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 6d |
-| <a href="https://uk.indeed.com/cmp/Goliath-Partners"><strong>Goliath Partners</strong></a> | Quantitative Developer | London, ENG, GB | <a href="https://uk.indeed.com/viewjob?jk=31ac0965c5191c82"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 7d |
 | <a href="https://simplify.jobs/c/Oxford-Quantum-Circuits"><strong>Oxford Quantum Circuits</strong></a> | Associate Quantum Software Engineer | Reading, UK | <a href="https://apply.workable.com/oxford-quantum-circuits-8/j/5A9494E612/apply"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 14d |
 | <a href="https://simplify.jobs/c/Fasanara"><strong>Fasanara</strong></a> | High-Frequency Trading Operations Engineer | London, UK | <a href="https://apply.workable.com/fasanara/j/188FC5244B/apply"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 20d |
 | <a href="https://encord.com/"><strong>Encord</strong></a> | Quant Developer in AI | London, United Kingdom | <a href="https://jobs.ashbyhq.com/encord/39a4dc33-d4a9-4191-9daa-7712e1fb9bc4"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 26d |
@@ -29,7 +27,7 @@ Last updated: **2026-10-28 07:24 UTC** · **24** active roles.
 | <a href="https://uk.indeed.com/cmp/Phasecraft"><strong>PhaseCraft</strong></a> | Quantum Algorithms Scientist - Implementations | Bristol, ENG, GB | <a href="https://uk.indeed.com/viewjob?jk=e7af5196d11f23a4"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 134d |
 | <a href="https://simplify.jobs/c/Squarepoint-Capital"><strong>Squarepoint Capital</strong></a> | Graduate Quant Developer | Montreal, QC, Canada · London, UK | <a href="https://boards.greenhouse.io/embed/job_app?token=7918610"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 169d |
 
-_1 live, 22 unverified_
+_1 live, 20 unverified_
 <!-- TABLE_SLICE_EMEA_QUANT_END -->
 
 _1 hidden as first_seen >180d. Full set in jobs.db._
