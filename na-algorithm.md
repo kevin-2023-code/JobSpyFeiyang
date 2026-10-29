@@ -1,14 +1,15 @@
 # North America Algorithm Engineer Roles (算法岗)
 
-Last updated: **2026-10-29 07:25 UTC** · **431** active roles.
+Last updated: **2026-10-29 15:25 UTC** · **432** active roles.
 
 <!-- TABLE_SLICE_NA_ALGORITHM_START -->
 | Company | Position | Location | Salary | Posting | Age |
 |---|---|---|---|---|---|
+| **Microsoft** | Applied Scientist Intern, Turing | Redmond, WA |  | <a href="https://go.vansh.nyc/Z4"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 0d |
 | <a href="https://openai.com/"><strong>OpenAI</strong></a> | Research Engineer / Research Scientist, Human Flourishing | San Francisco, United States |  | <a href="https://jobs.ashbyhq.com/openai/0f600ed1-d70a-4648-820f-a1d1da3f7617/application"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 1d |
 | <a href="https://simplify.jobs/c/Amazon"><strong>Amazon</strong></a> | Robotics Applied Scientist 2 Intern | Seattle, WA · North Reading, MA · NYC |  | <a href="https://amazon.jobs/en/jobs/10591833/2027-applied-science-internship-robotics-united-states"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 1d |
 | <a href="https://simplify.jobs/c/Saviynt"><strong>Saviynt</strong></a> | Research Scientist Intern | Milpitas, CA |  | <a href="https://jobs.lever.co/saviynt/183188c3-c043-4f91-b3f0-30ec4961f4c7/apply"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 2d |
-| <a href="https://simplify.jobs/c/Samsung-Research-America"><strong>Samsung Research America</strong></a> | Health AI Scholar - Digital Health Algorithms Team | Mountain View, CA |  | <a href="https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8918278002"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 2d |
+| <a href="https://simplify.jobs/c/Samsung-Research-America"><strong>Samsung Research America</strong></a> | Health AI Scholar Intern - Digital Health Algorithms Team | Mountain View, CA |  | <a href="https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8918278002"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 2d |
 | **Mercor** | Research Engineer Intern, Benchmarking | San Francisco, CA |  | <a href="https://go.vansh.nyc/WT"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 2d |
 | **Mercor** | Research Engineer Intern, Environments, Data and Post-Training | San Francisco, CA |  | <a href="https://go.vansh.nyc/WU"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 2d |
 | <a href="https://simplify.jobs/c/Fab2"><strong>Fab2</strong></a> | Computer Vision Software Engineer | Austin, TX |  | <a href="https://jobs.ashbyhq.com/fab2/d9edb922-6cae-4e65-9b20-ba452f3e2edf/application?embed=true"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 2d |
@@ -433,7 +434,7 @@ Last updated: **2026-10-29 07:25 UTC** · **431** active roles.
 | <a href="https://www.anthropic.com/"><strong>Anthropic</strong></a> | Research Engineer, Knowledge Team | Remote-Friendly (Travel-Required) · San Francisco, CA · Seattle, WA |  | <a href="https://job-boards.greenhouse.io/anthropic/jobs/4017331008"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 919d |
 | <a href="https://www.anthropic.com/"><strong>Anthropic</strong></a> | Staff+ Research Scientist, Multi-Agent | San Francisco, CA · New York City, NY · Seattle, WA |  | <a href="https://job-boards.greenhouse.io/anthropic/jobs/4017544008"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 920d |
 
-_319 live, 108 unverified_
+_320 live, 108 unverified_
 <!-- TABLE_SLICE_NA_ALGORITHM_END -->
 
 _4 hidden as first_seen >180d. Full set in jobs.db._

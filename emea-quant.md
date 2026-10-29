@@ -1,10 +1,11 @@
 # EMEA Quant & Trading Roles
 
-Last updated: **2026-10-29 07:25 UTC** · **22** active roles.
+Last updated: **2026-10-29 15:25 UTC** · **24** active roles.
 
 <!-- TABLE_SLICE_EMEA_QUANT_START -->
 | Company | Position | Location | Posting | Age |
 |---|---|---|---|---|
+| <a href="https://uk.indeed.com/cmp/UK-Research-and-Innovation-1"><strong>UK Research and Innovation</strong></a> | Quantum Applications Engineer | Harwell, ENG, GB | <a href="https://uk.indeed.com/viewjob?jk=1dfada0acc514ed7"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 6d |
 | <a href="https://uk.indeed.com/cmp/Tp-Icap"><strong>TP ICAP</strong></a> | Associate Quantitative Engineer | London, ENG, GB | <a href="https://uk.indeed.com/viewjob?jk=e15a06697fa112e7"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 6d |
 | <a href="https://simplify.jobs/c/Oxford-Quantum-Circuits"><strong>Oxford Quantum Circuits</strong></a> | Associate Quantum Software Engineer | Reading, UK | <a href="https://apply.workable.com/oxford-quantum-circuits-8/j/5A9494E612/apply"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 15d |
 | <a href="https://dk.indeed.com/cmp/Sparrow-Quantum"><strong>Sparrow Quantum</strong></a> | Quantum Applications Scientist | Frederiksberg, D84, DK | <a href="https://dk.indeed.com/viewjob?jk=cbe7931cee1e2951"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 20d |
@@ -14,6 +15,7 @@ Last updated: **2026-10-29 07:25 UTC** · **22** active roles.
 | <a href="https://www.winton.com"><strong>Winton</strong></a> | Quantitative Developer - Graduate | London, United Kingdom | <a href="https://job-boards.eu.greenhouse.io/winton/jobs/4986765101"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 33d |
 | <a href="https://simplify.jobs/c/Winton"><strong>Winton</strong></a> | Quantitative Developer - Fundamental Commodities | London, UK | <a href="https://job-boards.eu.greenhouse.io/winton/jobs/4986765101"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 34d |
 | <a href="https://simplify.jobs/c/Talos"><strong>Talos</strong></a> | Software Engineer Intern - Trading | London, UK | <a href="https://jobs.ashbyhq.com/Talos-Trading/42cad756-c312-4142-a9b7-18ed76f61c5d/application?embed=true"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 43d |
+| <a href="https://simplify.jobs/c/Qube-Research-Technologies"><strong>Qube Research & Technologies</strong></a> | Software Engineering Intern - Quantitative Development | Aarhus, Denmark · London, UK · Wrocław, Poland | <a href="https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8773084002"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 51d |
 | <a href="https://simplify.jobs/c/Wintermute"><strong>Wintermute</strong></a> | Algorithmic Trader | London, UK · NYC | <a href="https://jobs.lever.co/wintermute-trading/28c7e15f-b3a0-48c6-8322-2e9f25371fd0/apply"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 56d |
 | <a href="https://simplify.jobs/c/Marshall-Wace"><strong>Marshall Wace</strong></a> | Quant Developer - Quant Association Programme | London, UK | <a href="https://job-boards.greenhouse.io/mw-tech-grad/jobs/8646947002"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 64d |
 | <a href="https://sig.com"><strong>Susquehanna International Group</strong></a> | Quantitative Strategy Developer Internship: Summer 2027 - Dublin | Dublin, Ireland | <a href="https://careers-sig.icims.com/jobs/11332/quantitative-strategy-developer-internship%3a-summer-2027-%28dublin%29/job"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 68d |
@@ -27,7 +29,7 @@ Last updated: **2026-10-29 07:25 UTC** · **22** active roles.
 | <a href="https://uk.indeed.com/cmp/Phasecraft"><strong>PhaseCraft</strong></a> | Quantum Algorithms Scientist - Implementations | Bristol, ENG, GB | <a href="https://uk.indeed.com/viewjob?jk=e7af5196d11f23a4"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 135d |
 | <a href="https://simplify.jobs/c/Squarepoint-Capital"><strong>Squarepoint Capital</strong></a> | Graduate Quant Developer | Montreal, QC, Canada · London, UK | <a href="https://boards.greenhouse.io/embed/job_app?token=7918610"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 170d |
 
-_1 live, 20 unverified_
+_1 live, 22 unverified_
 <!-- TABLE_SLICE_EMEA_QUANT_END -->
 
 _1 hidden as first_seen >180d. Full set in jobs.db._
