@@ -5,49 +5,49 @@ Auto-generated tracker of tech roles in EMEA and North America across junior, se
 ## Browse by slice
 
 ### EMEA
-- [Junior SDE](emea-junior-sde.md) — 674 active
-  - Last liveness sweep: 2026-10-28 15:28 UTC, 23% verified live
-- [Junior MLE / Applied Scientist](emea-junior-mle.md) — 151 active
-  - Last liveness sweep: 2026-10-28 15:28 UTC, 28% verified live
-- [Internships](emea-internships.md) — 426 active
-  - Last liveness sweep: 2026-10-28 15:28 UTC, 31% verified live
+- [Junior SDE](emea-junior-sde.md) — 677 active
+  - Last liveness sweep: 2026-10-29 07:25 UTC, 23% verified live
+- [Junior MLE / Applied Scientist](emea-junior-mle.md) — 149 active
+  - Last liveness sweep: 2026-10-28 15:28 UTC, 29% verified live
+- [Internships](emea-internships.md) — 427 active
+  - Last liveness sweep: 2026-10-29 07:25 UTC, 31% verified live
 - [Quant & Finance](emea-quant.md) — 22 active
   - Last liveness sweep: 2026-10-20 19:11 UTC, 5% verified live
-- [Data Analyst](emea-data-analyst.md) — 150 active
-  - Last liveness sweep: 2026-10-24 18:09 UTC, 3% verified live
-- [Algorithm (算法岗)](emea-algorithm.md) — 67 active
+- [Data Analyst](emea-data-analyst.md) — 127 active
+  - Last liveness sweep: 2026-10-24 18:09 UTC, 4% verified live
+- [Algorithm (算法岗)](emea-algorithm.md) — 68 active
   - Last liveness sweep: 2026-10-28 07:24 UTC, 22% verified live
-- [Solutions / Customer / DevOps](emea-solutions-devops.md) — 254 active
+- [Solutions / Customer / DevOps](emea-solutions-devops.md) — 239 active
   - Last liveness sweep: 2026-10-28 15:28 UTC, 6% verified live
-- [Senior SDE](emea-senior-sde.md) — 230 active
+- [Senior SDE](emea-senior-sde.md) — 231 active
   - Last liveness sweep: 2026-10-28 07:24 UTC, 10% verified live
 
 ### North America
-- [Junior SDE](na-junior-sde.md) — 2833 active
-  - Last liveness sweep: 2026-10-28 15:28 UTC, 31% verified live
-- [Junior MLE / Applied Scientist](na-junior-mle.md) — 584 active
-  - Last liveness sweep: 2026-10-28 15:28 UTC, 48% verified live
-- [Internships](na-internships.md) — 3360 active
-  - Last liveness sweep: 2026-10-28 15:28 UTC, 22% verified live
-- [Quant & Finance](na-quant.md) — 42 active
-  - Last liveness sweep: 2026-10-25 12:45 UTC, 17% verified live
-- [Data Analyst](na-data-analyst.md) — 151 active
-  - Last liveness sweep: 2026-10-26 20:35 UTC, 10% verified live
-- [Algorithm (算法岗)](na-algorithm.md) — 432 active
-  - Last liveness sweep: 2026-10-28 15:28 UTC, 74% verified live
-- [Solutions / Customer / DevOps](na-solutions-devops.md) — 113 active
-  - Last liveness sweep: 2026-10-28 15:28 UTC, 32% verified live
+- [Junior SDE](na-junior-sde.md) — 2837 active
+  - Last liveness sweep: 2026-10-29 07:25 UTC, 31% verified live
+- [Junior MLE / Applied Scientist](na-junior-mle.md) — 587 active
+  - Last liveness sweep: 2026-10-29 07:25 UTC, 48% verified live
+- [Internships](na-internships.md) — 3386 active
+  - Last liveness sweep: 2026-10-29 07:25 UTC, 22% verified live
+- [Quant & Finance](na-quant.md) — 45 active
+  - Last liveness sweep: 2026-10-25 12:45 UTC, 16% verified live
+- [Data Analyst](na-data-analyst.md) — 158 active
+  - Last liveness sweep: 2026-10-29 07:25 UTC, 10% verified live
+- [Algorithm (算法岗)](na-algorithm.md) — 431 active
+  - Last liveness sweep: 2026-10-29 07:25 UTC, 74% verified live
+- [Solutions / Customer / DevOps](na-solutions-devops.md) — 112 active
+  - Last liveness sweep: 2026-10-29 07:25 UTC, 32% verified live
 - [Senior SDE](na-senior-sde.md) — 59 active
   - Last liveness sweep: 2026-10-28 15:28 UTC, 81% verified live
 
 ### Remote / Cross-region
-- [Remote Jobs](remote-jobs.md) — 193 active
-  - Last liveness sweep: 2026-10-28 15:28 UTC, 25% verified live
+- [Remote Jobs](remote-jobs.md) — 188 active
+  - Last liveness sweep: 2026-10-29 07:25 UTC, 26% verified live
 
 ## Wider browse (no curated company allowlist)
 
-- [EMEA graduate (all companies)](emea-graduate.md) — 337 active roles, allowlist gate dropped
-- [North America graduate (all companies)](na-graduate.md) — 1726 active roles, allowlist gate dropped
+- [EMEA graduate (all companies)](emea-graduate.md) — 353 active roles, allowlist gate dropped
+- [North America graduate (all companies)](na-graduate.md) — 1718 active roles, allowlist gate dropped
 
 ## Coverage
 
