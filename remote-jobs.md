@@ -1,6 +1,6 @@
 # Remote Jobs
 
-Last updated: **2026-10-30 07:27 UTC** · **43 curated** + **142 other** = **185** active remote roles.
+Last updated: **2026-10-30 15:20 UTC** · **45 curated** + **142 other** = **187** active remote roles.
 
 ## Curated companies (matches the JOBS.md allowlist)
 
@@ -22,6 +22,8 @@ Roles at companies on the curated `filters.include_companies` list in `monitor/c
 | <a href="https://www.anthropic.com/"><strong>Anthropic</strong></a> | IT Systems Engineer, Client Platform Engineer, macOS | Boston, MA; Remote-Friendly (Travel-Required) · San Francisco, CA · Seattle, WA |  | <a href="https://job-boards.greenhouse.io/anthropic/jobs/5445625008"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 23d |
 | <a href="https://www.nvidia.com"><strong>NVIDIA</strong></a> | Software Engineering Intern - Nsight Systems - 2026 | Remote - Warsaw, Poland |  | <a href="https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Poland-Remote/Software-Engineering-Intern--Nsight-Systems---2026_JR2007248"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 24d |
 | <a href="https://www.riotgames.com"><strong>Riot Games</strong></a> | Software Engineering Intern - Summer 2027 - Remote | Los Angeles, CA |  | <a href="https://www.riotgames.com/en/work-with-us/job/8222014?gh_jid=8222014"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 28d |
+| <a href="https://www.pinterest.com"><strong>Pinterest</strong></a> | Software Engineer Intern 2027 - USA | Remote - San Francisco, CA | $52/hr | <a href="https://www.pinterestcareers.com/jobs/?gh_jid=7838577"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 28d |
+| <a href="https://www.pinterest.com"><strong>Pinterest</strong></a> | University Grad Software Engineer 2027 - USA | Remote - San Francisco, CA | $191k/yr | <a href="https://www.pinterestcareers.com/jobs/?gh_jid=7838591"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 28d |
 | <a href="https://openai.com/"><strong>OpenAI</strong></a> | Physical Network & Structured Cabling Engineer | San Francisco, United States · Seattle, United States · US - Remote, United States |  | <a href="https://jobs.ashbyhq.com/openai/9eb3a6a6-adff-4e82-83b6-97df514ba9bd/application"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 29d |
 | <a href="https://simplify.jobs/c/NVIDIA"><strong>NVIDIA</strong></a> | Mixed Signal Design Engineer | Remote in USA · Santa Clara, CA |  | <a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Mixed-Signal-Design-Engineer---New-College-Grad-2026_JR2025693"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 32d |
 | <a href="https://www.anthropic.com/"><strong>Anthropic</strong></a> | Senior+ Software Engineer, Legal Tech | Remote-Friendly (Travel-Required) · San Francisco, CA · Seattle, WA |  | <a href="https://job-boards.greenhouse.io/anthropic/jobs/5435665008"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 32d |
@@ -53,7 +55,7 @@ Roles at companies on the curated `filters.include_companies` list in `monitor/c
 | <a href="https://openai.com/"><strong>OpenAI</strong></a> | Security Engineer, Application Security | San Francisco, United States · US - Remote, United States |  | <a href="https://jobs.ashbyhq.com/openai/0322d6d8-6588-4209-a304-83e768063a25/application"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 758d |
 | <a href="https://www.anthropic.com/"><strong>Anthropic</strong></a> | Research Engineer, Knowledge Team | Remote-Friendly (Travel-Required) · San Francisco, CA · Seattle, WA |  | <a href="https://job-boards.greenhouse.io/anthropic/jobs/4017331008"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 920d |
 
-_43 live, 0 unverified_
+_43 live, 2 unverified_
 <!-- TABLE_SLICE_REMOTE_JOBS_CURATED_END -->
 
 ## All other remote roles

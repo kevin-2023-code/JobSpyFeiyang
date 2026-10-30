@@ -1,10 +1,11 @@
 # North America Data Analyst Roles
 
-Last updated: **2026-10-30 07:27 UTC** · **161** active roles.
+Last updated: **2026-10-30 15:20 UTC** · **162** active roles.
 
 <!-- TABLE_SLICE_NA_DATA_ANALYST_START -->
 | Company | Position | Location | Posting | Age |
 |---|---|---|---|---|
+| <a href="https://simplify.jobs/c/Fussball-Club-Cincinnati"><strong>Fussball Club Cincinnati LLC (“FC Cincinnati”)</strong></a> | Data Analyst Intern | Cincinnati, OH | <a href="https://job-boards.greenhouse.io/fccincinnati/jobs/8105405003"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 0d |
 | <a href="https://simplify.jobs/c/Commonwealth-Of-Massachusetts"><strong>Commonwealth of Massachusetts</strong></a> | HR Business Intelligence Co-op | Boston, MA | <a href="https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=260006KL"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 0d |
 | <a href="https://simplify.jobs/c/Wash-U"><strong>Wash U</strong></a> | Statistical Data Analyst - Infectious Diseases | St. Louis, MO | <a href="https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Statistical-Data-Analyst--Hybrid----Infectious-Diseases_JR98343"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 1d |
 | <a href="https://simplify.jobs/c/Trend-Micro"><strong>Trend Micro</strong></a> | Business Intelligence Engineer | Irving, TX | <a href="https://trendmicro.wd3.myworkdayjobs.com/External/job/Irving-Texas/Business-Intelligence-Engineer_R0010359"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 1d |
@@ -167,5 +168,5 @@ Last updated: **2026-10-30 07:27 UTC** · **161** active roles.
 | <a href="https://simplify.jobs/c/88a12762-7571-4b02-ab44-d4b76f06a26a"><strong>First Quality</strong></a> | Analytics Engineer Intern/Co-op - Analytics Engineer | Anderson, SC | <a href="https://firstquality.wd5.myworkdayjobs.com/firstquality/job/US-SC-Anderson/INTERN-OR-CO-OP---Analytics-Engineer_R9813"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 167d |
 | <a href="https://stripe.com/"><strong>Stripe</strong></a> | Data Analyst | Canada | <a href="https://stripe.com/jobs/search?gh_jid=5416444"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 1094d |
 
-_15 live, 146 unverified_
+_15 live, 147 unverified_
 <!-- TABLE_SLICE_NA_DATA_ANALYST_END -->

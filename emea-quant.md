@@ -1,6 +1,6 @@
 # EMEA Quant & Trading Roles
 
-Last updated: **2026-10-30 07:27 UTC** · **25** active roles.
+Last updated: **2026-10-30 15:20 UTC** · **23** active roles.
 
 <!-- TABLE_SLICE_EMEA_QUANT_START -->
 | Company | Position | Location | Posting | Age |
@@ -8,7 +8,6 @@ Last updated: **2026-10-30 07:27 UTC** · **25** active roles.
 | <a href="https://de.indeed.com/cmp/Planqc"><strong>planqc</strong></a> | Quantum Compiler Engineer | Garching bei München, BY, DE | <a href="https://de.indeed.com/viewjob?jk=4710bc7ce15be0e2"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 1d |
 | <a href="https://simplify.jobs/c/Queueco"><strong>Queueco</strong></a> | Quantitative Developer Graduate | London, UK | <a href="https://apply.workable.com/queueco/j/4E1AB7A939/apply"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 1d |
 | <a href="https://uk.indeed.com/cmp/Keyrock-1"><strong>Keyrock</strong></a> | Innovation Quant Developer: Intern - DeFi/Corporate Development | London, ENG, GB | <a href="https://uk.indeed.com/viewjob?jk=5094e0220443db28"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 1d |
-| <a href="https://uk.indeed.com/cmp/Tp-Icap"><strong>TP ICAP</strong></a> | Associate Quantitative Engineer | London, ENG, GB | <a href="https://uk.indeed.com/viewjob?jk=e15a06697fa112e7"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 7d |
 | <a href="https://simplify.jobs/c/Oxford-Quantum-Circuits"><strong>Oxford Quantum Circuits</strong></a> | Associate Quantum Software Engineer | Reading, UK | <a href="https://apply.workable.com/oxford-quantum-circuits-8/j/5A9494E612/apply"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 16d |
 | <a href="https://dk.indeed.com/cmp/Sparrow-Quantum"><strong>Sparrow Quantum</strong></a> | Quantum Applications Scientist | Frederiksberg, D84, DK | <a href="https://dk.indeed.com/viewjob?jk=cbe7931cee1e2951"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 21d |
 | <a href="https://simplify.jobs/c/Fasanara"><strong>Fasanara</strong></a> | High-Frequency Trading Operations Engineer | London, UK | <a href="https://apply.workable.com/fasanara/j/188FC5244B/apply"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 22d |
@@ -27,10 +26,9 @@ Last updated: **2026-10-30 07:27 UTC** · **25** active roles.
 | <a href="https://simplify.jobs/c/Xantium"><strong>Xantium</strong></a> | Quantitative Developer Intern | London, UK · NYC | <a href="https://job-boards.greenhouse.io/xantium/jobs/4360768009"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 74d |
 | <a href="https://simplify.jobs/c/Jane-Street"><strong>Jane Street</strong></a> | Trading Desk Operations Engineer Intern | London, UK | <a href="https://www.janestreet.com/join-jane-street/apply/8700980002?gh_jid=8700980002"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 77d |
 | <a href="https://simplify.jobs/c/GlobalFoundries"><strong>GlobalFoundries</strong></a> | New Graduate Heterogeneous Integration Engineer - Quantum Cryogenic 3D Packaging | Malta, NY · Burlington, VT · Leuven, Belgium | <a href="https://globalfoundries.wd1.myworkdayjobs.com/External/job/Leuven/NCG-3D-Heterogeneous-Integration-Engineer-Cryogenic-3D-packaging_JR-2601211"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 125d |
-| <a href="https://uk.indeed.com/cmp/Phasecraft"><strong>PhaseCraft</strong></a> | Quantum Algorithms Scientist - Implementations | Bristol, ENG, GB | <a href="https://uk.indeed.com/viewjob?jk=e7af5196d11f23a4"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 136d |
 | <a href="https://simplify.jobs/c/Squarepoint-Capital"><strong>Squarepoint Capital</strong></a> | Graduate Quant Developer | Montreal, QC, Canada · London, UK | <a href="https://boards.greenhouse.io/embed/job_app?token=7918610"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 171d |
 
-_1 live, 23 unverified_
+_1 live, 21 unverified_
 <!-- TABLE_SLICE_EMEA_QUANT_END -->
 
 _1 hidden as first_seen >180d. Full set in jobs.db._
