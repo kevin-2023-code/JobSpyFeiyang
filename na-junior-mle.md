@@ -1,16 +1,17 @@
 # North America Junior ML Engineer / Applied Scientist Roles
 
-Last updated: **2026-10-31 07:24 UTC** · **603** active roles.
+Last updated: **2026-10-31 15:20 UTC** · **604** active roles.
 
 <!-- TABLE_SLICE_NA_JUNIOR_MLE_START -->
 | Company | Position | Location | Salary | Posting | Age |
 |---|---|---|---|---|---|
-| **Northrop Grumman** | Data Scientist Intern, Product Support | San Diego, CA |  | <a href="https://go.vansh.nyc/125"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 0d |
+| <a href="https://simplify.jobs/c/Bristol-Myers-Squibb"><strong>Bristol Myers Squibb</strong></a> | Associate Engineer - Analytical AI Engineering | Princeton, NJ |  | <a href="https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Princeton---NJ---US/Associate-Engineer--Analytical-AI-Engineering_R1608005"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 0d |
 | **VSP Vision** | Agentic & Machine Learning Development Intern, AI | Remote · United States |  | <a href="https://go.vansh.nyc/113"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 1d |
 | <a href="https://simplify.jobs/c/Toyota-Research-Institute"><strong>Toyota Research Institute</strong></a> | Machine Learning/Agentic AI Intern | Cambridge, MA |  | <a href="https://jobs.lever.co/tri/f8c9ed26-4574-4ad2-954b-b7f5ec365495/apply"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 1d |
 | <a href="https://simplify.jobs/c/Stripe"><strong>Stripe</strong></a> | Machine Learning Engineer Intern | Seattle, WA · SF · NYC |  | <a href="https://stripe.com/jobs/search?gh_jid=8328662"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 1d |
 | <a href="https://simplify.jobs/c/Stripe"><strong>Stripe</strong></a> | Machine Learning Engineer Intern | Toronto, ON, Canada |  | <a href="https://stripe.com/jobs/search?gh_jid=8333122"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 1d |
 | <a href="https://simplify.jobs/c/Stripe"><strong>Stripe</strong></a> | PhD Machine Learning Engineer Intern | Toronto, ON, Canada |  | <a href="https://stripe.com/jobs/search?gh_jid=8328664"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 1d |
+| <a href="https://simplify.jobs/c/Northrop-Grumman"><strong>Northrop Grumman</strong></a> | Data Scientist Intern - Product Support | San Diego, CA |  | <a href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Product-Support---Data-Scientist_R10258679"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 1d |
 | <a href="https://simplify.jobs/c/Amazon"><strong>Amazon</strong></a> | Software Engineer Intern - Machine Learning/Automated Reasoning | Boston, MA · Seattle, WA · Austin, TX |  | <a href="https://amazon.jobs/en/jobs/10593521/software-development-engineer-intern-machine-learning-automated-reasoning-summer-2027"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 1d |
 | **Amazon** | Software Development Engineer Intern, Machine Learning/Automated Reasoning | Seattle, WA |  | <a href="https://go.vansh.nyc/10y"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 1d |
 | <a href="https://simplify.jobs/c/Zoom"><strong>Zoom</strong></a> | AI Engineer | Seattle, WA |  | <a href="https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/AI-Engineer_R19823-1"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 2d |
@@ -504,9 +505,8 @@ Last updated: **2026-10-31 07:24 UTC** · **603** active roles.
 | <a href="https://openai.com/"><strong>OpenAI</strong></a> | Applied AI Engineer, Sign in with ChatGPT | San Francisco, United States |  | <a href="https://jobs.ashbyhq.com/openai/c1a28411-266b-487b-8ef3-03efb254fc36/application"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 102d |
 | <a href="https://simplify.jobs/c/aa9cec83-e4a8-4cb9-9ea0-1a92f72ba6db"><strong>Georgian Partners Growth</strong></a> | AI/ML Engineer Intern | Toronto, ON, Canada |  | <a href="https://jobs.ashbyhq.com/georgian/2ae71a4b-dd9d-4068-8ef2-81351ee74cab/application?embed=true"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 102d |
 | <a href="https://www.anthropic.com/"><strong>Anthropic</strong></a> | Machine Learning Infrastructure Engineer, Safeguards Research | San Francisco, CA · New York City, NY |  | <a href="https://job-boards.greenhouse.io/anthropic/jobs/5364804008"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 102d |
-| <a href="https://simplify.jobs/c/TheBrattleGroup"><strong>The Brattle Group</strong></a> | Data and AI Engineer | Boston, MA |  | <a href="https://job-boards.greenhouse.io/thebrattlegroup/jobs/4713471005"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 108d |
 
 _217 live, 283 unverified_
 <!-- TABLE_SLICE_NA_JUNIOR_MLE_END -->
 
-_showing newest 500 of 599 active rows (cap 500); 4 hidden as first_seen >180d. Full set in jobs.db._
+_showing newest 500 of 600 active rows (cap 500); 4 hidden as first_seen >180d. Full set in jobs.db._

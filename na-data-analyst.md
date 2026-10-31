@@ -1,6 +1,6 @@
 # North America Data Analyst Roles
 
-Last updated: **2026-10-31 07:24 UTC** · **162** active roles.
+Last updated: **2026-10-31 15:20 UTC** · **161** active roles.
 
 <!-- TABLE_SLICE_NA_DATA_ANALYST_START -->
 | Company | Position | Location | Posting | Age |
@@ -66,7 +66,6 @@ Last updated: **2026-10-31 07:24 UTC** · **162** active roles.
 | <a href="https://simplify.jobs/c/3M"><strong>3M</strong></a> | Data Analyst | Brockville, ON, Canada | <a href="https://3m.wd1.myworkdayjobs.com/en-US/Search/job/CA-Ontario-Brockville/Data-Analyst_R01169245"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 17d |
 | <a href="https://simplify.jobs/c/I3"><strong>Integration Innovation (i3)</strong></a> | Data Analyst - Junior-Associate | Orlando, FL · Huntsville, AL | <a href="https://i3-corps.jibeapply.com/jobs/5307?icims=1"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 18d |
 | <a href="https://simplify.jobs/c/Chewy"><strong>Chewy</strong></a> | Business Intelligence Analyst 1 | Dayton, OH · Houston, TX · Ocala, FL | <a href="https://wd5.myworkdaysite.com/recruiting/chewy/External/job/Clayton-IN/Business-Intelligence-Analyst-I_R31111"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 18d |
-| <a href="https://simplify.jobs/c/American-Family-Insurance-Group"><strong>American Family Insurance Group</strong></a> | Data Analyst Intern - Agency Performance, Insights and Operations | Madison, WI | <a href="https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Data-Analyst-Intern---Agency-Performance--Insights-and-Operations_R39513"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 19d |
 | <a href="https://simplify.jobs/c/PointClickCare"><strong>PointClickCare</strong></a> | Marketing Data Analytics Engineer | Mississauga, ON, Canada · Remote in Canada | <a href="https://jobs.lever.co/pointclickcare/e826a207-dba8-41ff-b7b0-c4a4210d5f7d/apply"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 22d |
 | <a href="https://simplify.jobs/c/Amazon"><strong>Amazon</strong></a> | Business Intelligence Engineer Intern | Seattle, WA | <a href="https://amazon.jobs/en/jobs/10553765/business-intelligence-engineer-internship-2027-us"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 23d |
 | <a href="https://simplify.jobs/c/HCSC"><strong>HCSC</strong></a> | Enterprise Data Analyst Intern | Chicago, IL · Richardson, TX | <a href="https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Enterprise-Data-Analyst-Intern_R0059505"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 24d |
@@ -167,7 +166,7 @@ Last updated: **2026-10-31 07:24 UTC** · **162** active roles.
 | <a href="https://simplify.jobs/c/88a12762-7571-4b02-ab44-d4b76f06a26a"><strong>First Quality</strong></a> | Analytics Engineer Intern/Co-op - Analytics Engineer | Anderson, SC | <a href="https://firstquality.wd5.myworkdayjobs.com/firstquality/job/US-SC-Anderson/INTERN-OR-CO-OP---Analytics-Engineer_R9813"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 168d |
 | <a href="https://stripe.com/"><strong>Stripe</strong></a> | Data Analyst | Canada | <a href="https://stripe.com/jobs/search?gh_jid=5416444"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 1095d |
 
-_15 live, 146 unverified_
+_15 live, 145 unverified_
 <!-- TABLE_SLICE_NA_DATA_ANALYST_END -->
 
 _1 hidden as first_seen >180d. Full set in jobs.db._

@@ -1,6 +1,6 @@
 # North America Algorithm Engineer Roles (算法岗)
 
-Last updated: **2026-10-31 07:24 UTC** · **435** active roles.
+Last updated: **2026-10-31 15:20 UTC** · **435** active roles.
 
 <!-- TABLE_SLICE_NA_ALGORITHM_START -->
 | Company | Position | Location | Salary | Posting | Age |
@@ -166,6 +166,7 @@ Last updated: **2026-10-31 07:24 UTC** · **435** active roles.
 | <a href="https://simplify.jobs/c/TikTok"><strong>TikTok</strong></a> | Software Engineer Intern - Recommendation Infra - Performance Efficiency | San Jose, CA |  | <a href="https://lifeattiktok.com/search/7675159726676101381"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 72d |
 | <a href="https://www.tiktok.com"><strong>TikTok</strong></a> | Software Engineer Intern - Recommendation Infra - Performance Efficiency - 2027 Fall | San Jose, CA | $60/hr | <a href="https://lifeattiktok.com/search/7675163472469444917"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 73d |
 | <a href="https://www.tiktok.com"><strong>TikTok</strong></a> | Software Engineer Intern - Recommendation Infra - Performance Efficiency - 2027 Summer | San Jose, CA | $60/hr | <a href="https://lifeattiktok.com/search/7675159726676101381"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 73d |
+| <a href="https://simplify.jobs/c/NVIDIA"><strong>NVIDIA</strong></a> | Deep Learning Intern - Deep Learning Applications and Algorithms - Deep Learning Frameworks and Libraries | Santa Clara, CA |  | <a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 73d |
 | <a href="https://simplify.jobs/c/ByteDance"><strong>ByteDance</strong></a> | Research Scientist Graduate - Quantum Chemistry and Machine Learning | San Jose, CA |  | <a href="https://jobs.bytedance.com/en/position/7668595575944186117/detail"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 73d |
 | <a href="https://simplify.jobs/c/ByteDance"><strong>ByteDance</strong></a> | Research Scientist Graduate - Video Codec Algorithm | San Diego, CA |  | <a href="https://jobs.bytedance.com/en/position/7626928937260665093/detail"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 73d |
 | <a href="https://simplify.jobs/c/ByteDance"><strong>ByteDance</strong></a> | Machine Learning Engineer Graduate - E-Commerce Risk Control | San Jose, CA |  | <a href="https://jobs.bytedance.com/en/position/7675477660855781637/detail"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 73d |
@@ -437,7 +438,7 @@ Last updated: **2026-10-31 07:24 UTC** · **435** active roles.
 | <a href="https://www.anthropic.com/"><strong>Anthropic</strong></a> | Research Engineer, Knowledge Team | Remote-Friendly (Travel-Required) · San Francisco, CA · Seattle, WA |  | <a href="https://job-boards.greenhouse.io/anthropic/jobs/4017331008"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 921d |
 | <a href="https://www.anthropic.com/"><strong>Anthropic</strong></a> | Staff+ Research Scientist, Multi-Agent | San Francisco, CA · New York City, NY · Seattle, WA |  | <a href="https://job-boards.greenhouse.io/anthropic/jobs/4017544008"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 922d |
 
-_324 live, 107 unverified_
+_325 live, 107 unverified_
 <!-- TABLE_SLICE_NA_ALGORITHM_END -->
 
-_4 hidden as first_seen >180d. Full set in jobs.db._
+_3 hidden as first_seen >180d. Full set in jobs.db._

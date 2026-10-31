@@ -1,6 +1,6 @@
 # North America Solutions / Customer / DevOps Roles
 
-Last updated: **2026-10-31 07:24 UTC** · **118** active roles.
+Last updated: **2026-10-31 15:20 UTC** · **118** active roles.
 
 <!-- TABLE_SLICE_NA_SOLUTIONS_DEVOPS_START -->
 | Company | Position | Location | Salary | Posting | Age |
