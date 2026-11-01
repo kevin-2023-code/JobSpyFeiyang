@@ -1,6 +1,6 @@
 # EMEA Algorithm Engineer Roles (算法岗)
 
-Last updated: **2026-11-01 07:21 UTC** · **52** active roles.
+Last updated: **2026-11-01 15:23 UTC** · **51** active roles.
 
 <!-- TABLE_SLICE_EMEA_ALGORITHM_START -->
 | Company | Position | Location | Posting | Age |
@@ -25,7 +25,6 @@ Last updated: **2026-11-01 07:21 UTC** · **52** active roles.
 | <a href="https://il.indeed.com/cmp/Skapion"><strong>Skapion</strong></a> | Senior Computer Vision & Tracking Engineer | רמת גן, TA, IL | <a href="https://il.indeed.com/viewjob?jk=6633e7a4113f1a25"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 6d |
 | <a href="https://fr.indeed.com/cmp/Linkup"><strong>LINKUP</strong></a> | Machine Learning Engineer | Paris, A8, FR | <a href="https://fr.indeed.com/viewjob?jk=b0d5a120fa7f807a"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 6d |
 | <a href="https://uk.indeed.com/cmp/Fitch-Group"><strong>Fitch Group</strong></a> | Senior Machine Learning Engineer | London, ENG, GB | <a href="https://uk.indeed.com/viewjob?jk=00ac34211a1a725f"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 6d |
-| <a href="https://il.indeed.com/cmp/Merck-Kgaa-3"><strong>Merck KGaA</strong></a> | Principal AI Research Scientist - Molecular & Biomolecular Foundation Models | ירושלים, JM, IL | <a href="https://il.indeed.com/viewjob?jk=e195439984b2e7e4"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 7d |
 | <a href="https://es.indeed.com/cmp/Matchmatch"><strong>MatchMatch</strong></a> | Guidance & Control Algorithms Engineer | Madrid, MD, ES | <a href="https://es.indeed.com/viewjob?jk=0d49e637f6cb6cfd"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 7d |
 | <a href="https://simplify.jobs/c/Amazon"><strong>Amazon</strong></a> | Applied Scientist Intern | United Kingdom | <a href="https://amazon.jobs/en/jobs/10567694/2027-applied-scientist-internship-phd-amazon-university-talent-acquisition"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 9d |
 | <a href="https://simplify.jobs/c/Graphcore"><strong>Graphcore</strong></a> | Graduate Machine Learning Engineer | Bristol, UK | <a href="https://job-boards.greenhouse.io/graphcore/jobs/8894041002"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 12d |
@@ -56,7 +55,7 @@ Last updated: **2026-11-01 07:21 UTC** · **52** active roles.
 | <a href="https://cohere.com/"><strong>Cohere</strong></a> | Member of Technical Staff, Integration/RL Team (Research Engineer) | Paris, France · London, United Kingdom · New York, United States | <a href="https://jobs.ashbyhq.com/cohere/e9ef9420-88e5-403b-82e8-1c36fa010d4d/application"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 439d |
 | <a href="https://www.anthropic.com/"><strong>Anthropic</strong></a> | [Expression of Interest] Research Engineer / Scientist, Alignment - London | London, UK | <a href="https://job-boards.greenhouse.io/anthropic/jobs/4610158008"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 580d |
 
-_14 live, 36 unverified_
+_14 live, 35 unverified_
 <!-- TABLE_SLICE_EMEA_ALGORITHM_END -->
 
 _2 hidden as first_seen >180d. Full set in jobs.db._

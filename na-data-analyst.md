@@ -1,10 +1,12 @@
 # North America Data Analyst Roles
 
-Last updated: **2026-11-01 07:21 UTC** · **161** active roles.
+Last updated: **2026-11-01 15:23 UTC** · **162** active roles.
 
 <!-- TABLE_SLICE_NA_DATA_ANALYST_START -->
 | Company | Position | Location | Posting | Age |
 |---|---|---|---|---|
+| **ByteDance** | Data Lake Infrastructure & Data Analytics Research Engineer Intern, AML-Ark-US | Seattle, WA | <a href="https://go.vansh.nyc/14c"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 0d |
+| **ByteDance** | Data Lake Infrastructure & Data Analytics Research Engineer Intern, AML-Ark-US | San Jose, CA | <a href="https://go.vansh.nyc/14h"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 0d |
 | <a href="https://simplify.jobs/c/Ascension"><strong>Ascension</strong></a> | Data Analyst | St. Louis, MO | <a href="https://jobs.ascension.org/us/en/job/24746"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 1d |
 | <a href="https://guidehouse.com"><strong>Guidehouse</strong></a> | Data Analyst - Dashboard Developer | Remote - USA | <a href="https://guidehouse.wd1.myworkdayjobs.com/en-US/external/job/US---Remote-Any-location/Data-Analyst--Dashboard-Developer-_44836"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 2d |
 | <a href="https://simplify.jobs/c/Fussball-Club-Cincinnati"><strong>Fussball Club Cincinnati LLC (“FC Cincinnati”)</strong></a> | Data Analyst Intern | Cincinnati, OH | <a href="https://job-boards.greenhouse.io/fccincinnati/jobs/8105405003"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 2d |
@@ -100,7 +102,6 @@ Last updated: **2026-11-01 07:21 UTC** · **161** active roles.
 | <a href="https://simplify.jobs/c/SoundExchange"><strong>SoundExchange</strong></a> | Operations Intern - Royalty Processing & Business Intelligence | Washington, DC | <a href="https://job-boards.greenhouse.io/sxinternships/jobs/5231079007"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 46d |
 | <a href="https://simplify.jobs/c/Emerson-Electric"><strong>Emerson Electric</strong></a> | Analytics Engineering Intern | Austin, TX | <a href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009195"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 47d |
 | <a href="https://simplify.jobs/c/Altard-State"><strong>Altar'd State</strong></a> | Store Operations Data Analyst Intern | Knoxville, TN | <a href="https://standoutforgood.wd12.myworkdayjobs.com/StandOutForGood/job/Knoxville-TN/Spring-2027-Store-Operations-Intern_SOSJ12464"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 47d |
-| <a href="https://simplify.jobs/c/APEX-Analytix"><strong>APEX Analytix</strong></a> | Data Analyst Intern - Summer 2027 | Greensboro, NC | <a href="https://ats.rippling.com/apexanalytix-careers/jobs/e275fd70-45a3-4a64-8688-cace8a3f87ef"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 47d |
 | <a href="https://simplify.jobs/c/Constellation-Energy"><strong>Constellation Energy</strong></a> | PMO/Data Analyst Intern | Chicago, IL | <a href="https://jobs.constellationenergy.com/jobs/138735?icims=1"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 48d |
 | <a href="https://simplify.jobs/c/Applied-Materials"><strong>Applied Materials</strong></a> | Business Intelligence Analyst 1 | Santa Clara, CA | <a href="https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Business-Intelligence-Analyst-I--New-College-Grad--Bachelor-s--Santa-Clara--CA-_R2626650"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 48d |
 | <a href="https://simplify.jobs/c/SCOR"><strong>SCOR</strong></a> | Strategy & Business Intelligence Intern | Charlotte, NC | <a href="https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/5394"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 51d |
@@ -166,7 +167,7 @@ Last updated: **2026-11-01 07:21 UTC** · **161** active roles.
 | <a href="https://simplify.jobs/c/88a12762-7571-4b02-ab44-d4b76f06a26a"><strong>First Quality</strong></a> | Analytics Engineer Intern/Co-op - Analytics Engineer | Anderson, SC | <a href="https://firstquality.wd5.myworkdayjobs.com/firstquality/job/US-SC-Anderson/INTERN-OR-CO-OP---Analytics-Engineer_R9813"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 169d |
 | <a href="https://stripe.com/"><strong>Stripe</strong></a> | Data Analyst | Canada | <a href="https://stripe.com/jobs/search?gh_jid=5416444"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 1096d |
 
-_15 live, 145 unverified_
+_17 live, 144 unverified_
 <!-- TABLE_SLICE_NA_DATA_ANALYST_END -->
 
 _1 hidden as first_seen >180d. Full set in jobs.db._

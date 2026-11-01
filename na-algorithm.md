@@ -1,10 +1,25 @@
 # North America Algorithm Engineer Roles (算法岗)
 
-Last updated: **2026-11-01 07:21 UTC** · **431** active roles.
+Last updated: **2026-11-01 15:23 UTC** · **446** active roles.
 
 <!-- TABLE_SLICE_NA_ALGORITHM_START -->
 | Company | Position | Location | Salary | Posting | Age |
 |---|---|---|---|---|---|
+| **TikTok** | Research Engineer Intern, Agentic Systems & AI Infrastructure - TikTok-Generalized Arch | Seattle, WA |  | <a href="https://go.vansh.nyc/17U"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 0d |
+| **TikTok** | Machine Learning Engineer Intern, Commerce Ads | San Jose, CA |  | <a href="https://go.vansh.nyc/17Z"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 0d |
+| **TikTok** | Machine Learning Engineer Intern, TikTok-Data-Search-Local Service | San Jose, CA |  | <a href="https://go.vansh.nyc/189"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 0d |
+| **TikTok** | Machine Learning Engineer Intern, TikTok-Data-Search-Basic Ranking | San Jose, CA |  | <a href="https://go.vansh.nyc/18c"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 0d |
+| **TikTok** | Machine Learning Engineer Intern, Visual Search | San Jose, CA |  | <a href="https://go.vansh.nyc/18j"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 0d |
+| **TikTok** | Machine Learning Engineer Intern, Recommendation Global E-Commerce | Seattle, WA |  | <a href="https://go.vansh.nyc/18l"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 0d |
+| **TikTok** | Machine Learning Engineer Intern, Global E-Commerce Search | Seattle, WA |  | <a href="https://go.vansh.nyc/18r"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 0d |
+| **TikTok** | Software Engineer Project Intern, Recommendation Infrastructure, Video Social | San Jose, CA |  | <a href="https://go.vansh.nyc/18F"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 0d |
+| **ByteDance** | Machine Learning Engineer Intern, AML-Engine-Orchestration | San Jose, CA |  | <a href="https://go.vansh.nyc/144"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 0d |
+| **ByteDance** | Agent Evaluation & Evolution Machine Learning Engineer Intern, AML-Ark-US | Seattle, WA |  | <a href="https://go.vansh.nyc/149"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 0d |
+| **ByteDance** | Data Lake Infrastructure & Data Analytics Research Engineer Intern, AML-Ark-US | Seattle, WA |  | <a href="https://go.vansh.nyc/14c"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 0d |
+| **ByteDance** | Agent Evaluation & Evolution Machine Learning Engineer Intern, AML-Ark-US | San Jose, CA |  | <a href="https://go.vansh.nyc/14f"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 0d |
+| **ByteDance** | Data Lake Infrastructure & Data Analytics Research Engineer Intern, AML-Ark-US | San Jose, CA |  | <a href="https://go.vansh.nyc/14h"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 0d |
+| **ByteDance** | Machine Learning Engineer Project Intern, Security-Data | San Jose, CA |  | <a href="https://go.vansh.nyc/14A"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 0d |
+| **ByteDance** | Machine Learning Engineer Intern, AML-Engine-Orchestration | Seattle, WA |  | <a href="https://go.vansh.nyc/17K"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 0d |
 | <a href="https://simplify.jobs/c/NVIDIA"><strong>NVIDIA</strong></a> | Research Scientist New Grad - ML Systems | Seattle, WA · Austin, TX · Santa Clara, CA |  | <a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--ML-Systems---New-College-Grad-2026_JR2010161"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 1d |
 | <a href="https://simplify.jobs/c/NVIDIA"><strong>NVIDIA</strong></a> | Research Scientist New Grad - AI for Graphics and Gaming | Canada · Santa Clara, CA · United States |  | <a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--AI-for-Graphics-and-Gaming---New-College-Grad-2026_JR2011267"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 1d |
 | <a href="https://simplify.jobs/c/Waymo"><strong>Waymo</strong></a> | Research Scientist Intern | Mountain View, CA |  | <a href="https://careers.withwaymo.com/jobs?gh_jid=8337719"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 2d |
@@ -434,7 +449,7 @@ Last updated: **2026-11-01 07:21 UTC** · **431** active roles.
 | <a href="https://www.anthropic.com/"><strong>Anthropic</strong></a> | Research Engineer, Knowledge Team | Remote-Friendly (Travel-Required) · San Francisco, CA · Seattle, WA |  | <a href="https://job-boards.greenhouse.io/anthropic/jobs/4017331008"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 922d |
 | <a href="https://www.anthropic.com/"><strong>Anthropic</strong></a> | Staff+ Research Scientist, Multi-Agent | San Francisco, CA · New York City, NY · Seattle, WA |  | <a href="https://job-boards.greenhouse.io/anthropic/jobs/4017544008"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 923d |
 
-_322 live, 106 unverified_
+_337 live, 106 unverified_
 <!-- TABLE_SLICE_NA_ALGORITHM_END -->
 
 _3 hidden as first_seen >180d. Full set in jobs.db._

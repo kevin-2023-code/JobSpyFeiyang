@@ -1,6 +1,6 @@
 # Remote Jobs
 
-Last updated: **2026-11-01 07:21 UTC** · **45 curated** + **145 other** = **190** active remote roles.
+Last updated: **2026-11-01 15:23 UTC** · **45 curated** + **144 other** = **189** active remote roles.
 
 ## Curated companies (matches the JOBS.md allowlist)
 
@@ -175,7 +175,6 @@ Everything else that surfaced from Remotive / RemoteOK / JobSpy / SimplifyJobs �
 | <a href="http://www.policyme.com/"><strong>PolicyMe</strong></a> | Junior Software Engineer - Remote | Canada |  | <a href="https://jobs.lever.co/policyme/30e81807-adb5-44a9-baad-4beb75913694"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 30d |
 | <a href="https://usa.m3.com"><strong>M3 USA</strong></a> | AI Software Engineer - Remote | Fort Washington, PA |  | <a href="https://jobs.smartrecruiters.com/M3USA/744000152758649-ai-software-engineer-remote-?oga=true"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 30d |
 | **Lemon.io** | Senior React Full-stack Developer | Remote · Europe, USA, Canada, APAC |  | <a href="https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091133"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 30d |
-| **Lemon.io** | Senior back-end Engineer | Remote · Europe, USA, UK, Canada, Australia, Ireland, Switzerland, Singapore, Mexico, Iceland, Norway |  | <a href="https://remotive.com/remote-jobs/software-development/senior-back-end-engineer-2091132"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 32d |
 | <a href="https://www.igs.com"><strong>IGS Energy</strong></a> | Software Engineer Intern | Remote - Ohio, USA |  | <a href="https://igsenergy.wd1.myworkdayjobs.com/en-US/igs/job/Ohio-Remote/Software-Engineer-Intern_R6263"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 32d |
 | <a href="https://www.haemonetics.com"><strong>Haemonetics</strong></a> | Software Support I | Remote - Coventry, United Kingdom |  | <a href="https://haemonetics.wd5.myworkdayjobs.com/en-US/hae/job/Coventry-UK/Software-Support-I_R11063-2"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 32d |
 | <a href="https://www.dotdashmeredith.com"><strong>Dotdash Meredith</strong></a> | Cloud Platform Engineering Intern | Remote - Edmonton, Canada |  | <a href="https://meredith.wd5.myworkdayjobs.com/en-US/ext/job/Edmonton-AB---10160-103-St-NW/Cloud-Platform-Engineering-Intern_JR15684"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 32d |
@@ -209,7 +208,7 @@ Everything else that surfaced from Remotive / RemoteOK / JobSpy / SimplifyJobs �
 | **Deepgram** | Software Engineering Intern | Remote · US |  | <a href="https://go.vansh.nyc/3S"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 100d |
 | <a href="https://simplify.jobs/c/Kinaxis"><strong>Kinaxis</strong></a> | Software Developer - Data Ingestion - Developer Framework | Canada · Remote in Canada |  | <a href="https://kinaxis.jibeapply.com/jobs/34791?icims=1"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 171d |
 
-_0 live, 143 unverified_
+_0 live, 142 unverified_
 <!-- TABLE_SLICE_REMOTE_JOBS_OTHER_END -->
 
 _2 hidden as first_seen >180d. Full set in jobs.db._

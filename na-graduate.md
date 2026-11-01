@@ -1,6 +1,6 @@
 # North America Graduate Roles
 
-Last updated: **2026-11-01 07:21 UTC** · **1721** active North America full-time new-grad roles.
+Last updated: **2026-11-01 15:23 UTC** · **1718** active North America full-time new-grad roles.
 
 Filtered to tech-shape titles (software, ML, AI, data, etc.) from batch-hire intake at big companies — mirrors the [speedyapply](https://github.com/speedyapply/2026-SWE-College-Jobs) NEW_GRAD shape. Senior / lead / staff postings excluded. For internships, see the per-region internship slice files.
 
@@ -476,7 +476,6 @@ Filtered to tech-shape titles (software, ML, AI, data, etc.) from batch-hire int
 | <a href="https://simplify.jobs/c/L3Harris-Technologies"><strong>L3Harris Technologies</strong></a> | Associate Software Engineer | Colorado Springs, CO |  | <a href="https://jobs.l3harris.com/job/Colorado-Springs-Associate,-Software-Engineer-CO-80916/1438456800/?ats=successfactors"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 24d |
 | <a href="https://hpe.com/"><strong>Hewlett Packard Enterprise</strong></a> | Site Reliability Engineer I - Sales Operations | Dallas, TX +1 |  | <a href="https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Dallas-Texas-United-States-of-America/Site-Reliability-Engineer-I---Sales-Operations_1203341-1"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 24d |
 | <a href="https://www.f5.com"><strong>F5</strong></a> | Site Reliability Engineer | Seattle, WA |  | <a href="https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Seattle/Site-Reliability-Engineer_RP1038966"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 24d |
-| <a href="https://simplify.jobs/c/Ciena"><strong>Ciena</strong></a> | Verification and Field Application Engineer New Grad | Atlanta, GA |  | <a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Verification-and-Field-Application-Engineer---New-Grad_R031840"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 24d |
 | <a href="https://simplify.jobs/c/Brain-Corp"><strong>Brain Corp</strong></a> | Embedded Software Engineer 1 - Firmware | San Diego, CA |  | <a href="https://www.braincorp.com/open-positions?gh_jid=8879726002"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 24d |
 | <a href="https://simplify.jobs/c/Amentum"><strong>Amentum</strong></a> | Software Engineer 1 | Hanover, MD |  | <a href="https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-MD-Hanover/Software-Engineer-1_R0171606"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 24d |
 | <a href="https://www.amazon.com"><strong>Amazon</strong></a> | Software Development Engineer - Audible AI Voice Production | Cambridge, MA | $186k/yr | <a href="https://www.amazon.jobs/jobs/10580035/apply"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 24d |
@@ -509,8 +508,9 @@ Filtered to tech-shape titles (software, ML, AI, data, etc.) from batch-hire int
 | <a href="https://simplify.jobs/c/Badger-Meter"><strong>Badger Meter</strong></a> | Firmware Engineer 1 | Milwaukee, WI · Racine, WI |  | <a href="https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/Milwaukee-WI/Engineer-I--Firmware_4628"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 25d |
 | <a href="https://simplify.jobs/c/Axos-Bank"><strong>Axos Bank</strong></a> | Junior AI Engineer | San Diego, CA |  | <a href="https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/JBATA---AI-Engineer_JR5526"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 25d |
 | <a href="https://www.avinc.com"><strong>AeroVironment</strong></a> | Software Engineer - EMB - I | Moorpark, CA |  | <a href="https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Moorpark-CA/Software-Engineer--EMB---I_9055"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 25d |
+| <a href="https://simplify.jobs/c/West-Monroe"><strong>West Monroe</strong></a> | Software Engineering Consultant - AI Concentration | Chicago, IL |  | <a href="https://westmonroe.com/careers/job-details-students?gh_jid=6183016004"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 26d |
 
 _120 live, 380 unverified_
 <!-- TABLE_NA_GRADUATE_END -->
 
-_showing newest 500 of 1697 active rows (cap 500); 24 hidden as first_seen >180d. Full set in jobs.db._
+_showing newest 500 of 1694 active rows (cap 500); 24 hidden as first_seen >180d. Full set in jobs.db._

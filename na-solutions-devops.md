@@ -1,11 +1,15 @@
 # North America Solutions / Customer / DevOps Roles
 
-Last updated: **2026-11-01 07:21 UTC** · **118** active roles.
+Last updated: **2026-11-01 15:23 UTC** · **122** active roles.
 
 <!-- TABLE_SLICE_NA_SOLUTIONS_DEVOPS_START -->
 | Company | Position | Location | Salary | Posting | Age |
 |---|---|---|---|---|---|
 | <a href="http://www.inductiveautomation.com/"><strong>Inductive Automation</strong></a> | Software Solutions Engineer I | Columbia, MD |  | <a href="https://jobs.ashbyhq.com/inductive-automation-llc/30720689-1747-4983-a482-7e19a5d4d151"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 0d |
+| **ByteDance** | Site Reliability Engineer Intern, Data Infra | Seattle, WA |  | <a href="https://go.vansh.nyc/145"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 0d |
+| **ByteDance** | Production System Engineer Project Intern, Server DevOps | San Jose, CA |  | <a href="https://go.vansh.nyc/14e"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 0d |
+| **ByteDance** | Production System Engineer Project Intern, Server DevOps | New York, NY |  | <a href="https://go.vansh.nyc/14j"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 0d |
+| **ByteDance** | Site Reliability Engineer Intern, Data Infra | San Jose, CA |  | <a href="https://go.vansh.nyc/14t"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 0d |
 | **General Dynamics Mission Systems** | DevOps Engineer Intern | Pittsburgh, PA |  | <a href="https://go.vansh.nyc/12S"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 1d |
 | <a href="http://www.llnl.gov"><strong>Lawrence Livermore National Laboratory</strong></a> | Development Operations - DevOps Engineer | Livermore, CA |  | <a href="https://jobs.smartrecruiters.com/LLNL/3743990016477306-development-operations-devops-engineer?oga=true"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 2d |
 | <a href="https://www.greatamericaninsurancegroup.com"><strong>Great American Insurance Group</strong></a> | DevOps Developer Intern - Summer 2027 | Cincinnati, OH |  | <a href="https://gaig.wd1.myworkdayjobs.com/en-US/gaig_external/job/Cincinnati-OH-USA/DevOps-Developer-Intern---Summer-2027_R9826"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 2d |
@@ -123,7 +127,7 @@ Last updated: **2026-11-01 07:21 UTC** · **118** active roles.
 | <a href="https://scale.com/"><strong>Scale AI</strong></a> | Solutions Engineer (Clearance Required) | Washington, DC |  | <a href="https://job-boards.greenhouse.io/scaleai/jobs/4663481005"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 257d |
 | <a href="https://scale.com/"><strong>Scale AI</strong></a> | Field Engineer, Data Engine | Colorado Springs, CO; Omaha, NE; St. Louis, MO; Washington, DC |  | <a href="https://job-boards.greenhouse.io/scaleai/jobs/4518690005"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 651d |
 
-_35 live, 82 unverified_
+_39 live, 82 unverified_
 <!-- TABLE_SLICE_NA_SOLUTIONS_DEVOPS_END -->
 
 _1 hidden as first_seen >180d. Full set in jobs.db._
