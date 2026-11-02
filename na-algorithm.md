@@ -1,6 +1,6 @@
 # North America Algorithm Engineer Roles (算法岗)
 
-Last updated: **2026-11-02 07:25 UTC** · **447** active roles.
+Last updated: **2026-11-02 15:24 UTC** · **449** active roles.
 
 <!-- TABLE_SLICE_NA_ALGORITHM_START -->
 | Company | Position | Location | Salary | Posting | Age |
@@ -176,6 +176,7 @@ Last updated: **2026-11-02 07:25 UTC** · **447** active roles.
 | <a href="https://simplify.jobs/c/TikTok"><strong>TikTok</strong></a> | Machine Learning Engineer Graduate - E-Commerce Supply Chain & Logistics - LLM/Agent | Seattle, WA |  | <a href="https://lifeattiktok.com/search/7675842865566222597"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 74d |
 | <a href="https://simplify.jobs/c/TikTok"><strong>TikTok</strong></a> | Machine Learning Engineer Graduate - E-Commerce Supply Chain & Logistics | San Jose, CA |  | <a href="https://lifeattiktok.com/search/7675844938504702213"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 74d |
 | <a href="https://simplify.jobs/c/TikTok"><strong>TikTok</strong></a> | Machine Learning Engineer Graduate - E-Commerce Supply Chain & Logistics | Seattle, WA |  | <a href="https://lifeattiktok.com/search/7675843332462872885"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 74d |
+| <a href="https://simplify.jobs/c/TikTok"><strong>TikTok</strong></a> | Research Scientist/Software Engineer - Neural Graphics and World Models | San Jose, CA |  | <a href="https://lifeattiktok.com/search/7668854153882011957"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 74d |
 | <a href="https://simplify.jobs/c/TikTok"><strong>TikTok</strong></a> | Machine Learning Engineer Graduate - Multiple Teams | San Jose, CA |  | <a href="https://lifeattiktok.com/search/7675841339440941317"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 74d |
 | <a href="https://simplify.jobs/c/TikTok"><strong>TikTok</strong></a> | Software Engineer Intern - Recommendation Infra - Performance Efficiency | San Jose, CA |  | <a href="https://lifeattiktok.com/search/7675159726676101381"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 74d |
 | <a href="https://www.tiktok.com"><strong>TikTok</strong></a> | Software Engineer Intern - Recommendation Infra - Performance Efficiency - 2027 Summer | San Jose, CA | $60/hr | <a href="https://lifeattiktok.com/search/7675159726676101381"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 75d |
@@ -272,6 +273,7 @@ Last updated: **2026-11-02 07:25 UTC** · **447** active roles.
 | <a href="https://simplify.jobs/c/TikTok"><strong>TikTok</strong></a> | Machine Learning Engineer New Grad - Data Search Visual Search | San Jose, CA |  | <a href="https://lifeattiktok.com/search/7667349591747758341"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 91d |
 | <a href="https://simplify.jobs/c/TikTok"><strong>TikTok</strong></a> | Machine Learning Engineer Graduate - Data Search Basic Ranking | San Jose, CA |  | <a href="https://lifeattiktok.com/search/7667344111675246901"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 91d |
 | <a href="https://simplify.jobs/c/TikTok"><strong>TikTok</strong></a> | Machine Learning Engineer New Grad - Data-Global E-Commerce-Search | Seattle, WA |  | <a href="https://lifeattiktok.com/search/7668389759463393589"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 91d |
+| <a href="https://simplify.jobs/c/TikTok"><strong>TikTok</strong></a> | Research Scientist/Engineer – Neural Graphics and World Models Graduate - Engine & Tools | San Jose, CA |  | <a href="https://lifeattiktok.com/search/7668831188103481605"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 91d |
 | <a href="https://simplify.jobs/c/TikTok"><strong>TikTok</strong></a> | Machine Learning Engineer New Grad | Seattle, WA |  | <a href="https://lifeattiktok.com/search/7668376903708281141"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 91d |
 | <a href="https://simplify.jobs/c/TikTok"><strong>TikTok</strong></a> | Machine Learning Engineer Graduate - Ads Delivery | San Jose, CA |  | <a href="https://lifeattiktok.com/search/7668660365135808821"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 91d |
 | <a href="https://simplify.jobs/c/TikTok"><strong>TikTok</strong></a> | Machine Learning Engineer Graduate - Monetization Technology - Ads Core Global | San Jose, CA |  | <a href="https://lifeattiktok.com/search/7668592348941273349"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 91d |
@@ -450,7 +452,7 @@ Last updated: **2026-11-02 07:25 UTC** · **447** active roles.
 | <a href="https://www.anthropic.com/"><strong>Anthropic</strong></a> | Research Engineer, Knowledge Team | Remote-Friendly (Travel-Required) · San Francisco, CA · Seattle, WA |  | <a href="https://job-boards.greenhouse.io/anthropic/jobs/4017331008"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 923d |
 | <a href="https://www.anthropic.com/"><strong>Anthropic</strong></a> | Staff+ Research Scientist, Multi-Agent | San Francisco, CA · New York City, NY · Seattle, WA |  | <a href="https://job-boards.greenhouse.io/anthropic/jobs/4017544008"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 924d |
 
-_338 live, 106 unverified_
+_340 live, 106 unverified_
 <!-- TABLE_SLICE_NA_ALGORITHM_END -->
 
 _3 hidden as first_seen >180d. Full set in jobs.db._

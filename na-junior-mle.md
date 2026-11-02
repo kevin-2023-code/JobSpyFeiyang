@@ -1,10 +1,11 @@
 # North America Junior ML Engineer / Applied Scientist Roles
 
-Last updated: **2026-11-02 07:25 UTC** · **616** active roles.
+Last updated: **2026-11-02 15:24 UTC** · **615** active roles.
 
 <!-- TABLE_SLICE_NA_JUNIOR_MLE_START -->
 | Company | Position | Location | Salary | Posting | Age |
 |---|---|---|---|---|---|
+| <a href="https://simplify.jobs/c/Roku"><strong>Roku</strong></a> | Software Engineer Intern - AI Engineering | San Jose, CA |  | <a href="https://www.weareroku.com/jobs/8258241?gh_jid=8258241"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 0d |
 | **TikTok** | AI Engineer Intern, TikTok-Client Arch | San Jose, CA |  | <a href="https://go.vansh.nyc/17P"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 1d |
 | **TikTok** | Machine Learning MLOps Intern, Global SRE | San Jose, CA |  | <a href="https://go.vansh.nyc/17S"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 1d |
 | **TikTok** | Research Engineer Intern, Agentic Systems & AI Infrastructure - TikTok-Generalized Arch | Seattle, WA |  | <a href="https://go.vansh.nyc/17U"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 1d |
@@ -197,8 +198,6 @@ Last updated: **2026-11-02 07:25 UTC** · **616** active roles.
 | <a href="https://www.gm.com"><strong>General Motors</strong></a> | 2027 Summer Intern - Machine Learning Intern - Autonomous Vehicles: Software Validation - PhD | Sunnyvale, CA |  | <a href="https://generalmotors.wd5.myworkdayjobs.com/en-US/careers_gm/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Intern--Autonomous-Vehicles--Software-Validation--PhD-_JR-202621649"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 27d |
 | <a href="https://simplify.jobs/c/AsteraLabs"><strong>Astera Labs</strong></a> | Applied AI Engineer Intern - Silicon Engineering | San Jose, CA |  | <a href="https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4727602005"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 27d |
 | <a href="https://www.anthropic.com/"><strong>Anthropic</strong></a> | Applied AI Engineer, Public Sector | Washington, DC |  | <a href="https://job-boards.greenhouse.io/anthropic/jobs/5445410008"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 27d |
-| <a href="https://simplify.jobs/c/ABB"><strong>ABB</strong></a> | AI Engineering ERP Intern | Cary, NC |  | <a href="https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/AI-Engineering--ERP-Intern--Summer-2027_JR00048711"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 27d |
-| <a href="https://simplify.jobs/c/ABB"><strong>ABB</strong></a> | AI Engineering Intern - Business Systems | Cary, NC |  | <a href="https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/AI-Engineering--Business-Systems-Intern--Summer-2027_JR00048714"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 27d |
 | <a href="https://simplify.jobs/c/SOTI"><strong>SOTI</strong></a> | Data Scientist Intern | Mississauga, ON, Canada |  | <a href="https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Data-Scientist--Intern--Jan-2027-12-Months-_R10571"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 28d |
 | <a href="https://simplify.jobs/c/Micron-Technology"><strong>Micron Technology</strong></a> | AI Engineer Intern - SMAI TD AI Engineering Team | Boise, ID |  | <a href="https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---SMAI-TD-AI-Engineering-Team_JR112991"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 28d |
 | <a href="https://simplify.jobs/c/General-Motors"><strong>General Motors</strong></a> | AI/ML Engineer Intern - Mapping | Warren, MI |  | <a href="https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping_JR-202621778"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 28d |
@@ -505,8 +504,9 @@ Last updated: **2026-11-02 07:25 UTC** · **616** active roles.
 | <a href="https://simplify.jobs/c/System-Planning-And-Analysis"><strong>Systems Planning and Analysis</strong></a> | Data Scientist Fellow | Alexandria, VA |  | <a href="https://spa.jibeapply.com/jobs/19553?icims=1"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 93d |
 | <a href="https://simplify.jobs/c/Persona-AI"><strong>Persona AI</strong></a> | Machine Learning Intern - Manipulation | Houston, TX |  | <a href="https://jobs.ashbyhq.com/persona.ai/ed9a7425-9798-471e-b46a-fefd59570630/application?embed=true"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 94d |
 | <a href="https://openai.com/"><strong>OpenAI</strong></a> | Data Scientist, Ads Demand | San Francisco, United States |  | <a href="https://jobs.ashbyhq.com/openai/1eb32675-b1a0-4c0a-9b57-19ceab07e9e0/application"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 95d |
+| <a href="https://openai.com/"><strong>OpenAI</strong></a> | Data Scientist, SMB Ads Growth | San Francisco, United States |  | <a href="https://jobs.ashbyhq.com/openai/f5dfd3aa-3bf6-49e2-b780-0da281a21533/application"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 95d |
 
-_225 live, 275 unverified_
+_224 live, 276 unverified_
 <!-- TABLE_SLICE_NA_JUNIOR_MLE_END -->
 
-_showing newest 500 of 612 active rows (cap 500); 4 hidden as first_seen >180d. Full set in jobs.db._
+_showing newest 500 of 611 active rows (cap 500); 4 hidden as first_seen >180d. Full set in jobs.db._

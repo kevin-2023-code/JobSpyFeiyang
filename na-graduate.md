@@ -1,6 +1,6 @@
 # North America Graduate Roles
 
-Last updated: **2026-11-02 07:25 UTC** · **1709** active North America full-time new-grad roles.
+Last updated: **2026-11-02 15:24 UTC** · **1707** active North America full-time new-grad roles.
 
 Filtered to tech-shape titles (software, ML, AI, data, etc.) from batch-hire intake at big companies — mirrors the [speedyapply](https://github.com/speedyapply/2026-SWE-College-Jobs) NEW_GRAD shape. Senior / lead / staff postings excluded. For internships, see the per-region internship slice files.
 
@@ -9,6 +9,7 @@ Filtered to tech-shape titles (software, ML, AI, data, etc.) from batch-hire int
 <!-- TABLE_NA_GRADUATE_START -->
 | Company | Position | Location | Salary | Posting | Age |
 |---|---|---|---|---|---|
+| <a href="https://simplify.jobs/c/Google"><strong>Google</strong></a> | Software Engineer 2 – Early Career | Palo Alto, CA · Madison, WI · Seattle, WA |  | <a href="https://www.google.com/about/careers/applications/jobs/results/109116638069957318"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 0d |
 | <a href="https://zefr.com/"><strong>Zefr</strong></a> | Software Engineer | Marina del Rey, CA |  | <a href="https://jobs.ashbyhq.com/zefr/d3353c85-2e31-4855-84cc-f18749edc640"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 1d |
 | <a href="https://www.northropgrumman.com"><strong>Northrop Grumman</strong></a> | Associate Software Engineer - Hollywood - MD | Maryland, USA |  | <a href="https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Maryland-Hollywood/Associate-Software-Engineer---Hollywood--MD-_R10258018"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 1d |
 | <a href="https://simplify.jobs/c/Huntington-Ingalls-Industries"><strong>Huntington Ingalls Industries</strong></a> | Software Engineer 1 | Newport News, VA |  | <a href="https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1446380900/?ats=successfactors"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 1d |
@@ -154,8 +155,6 @@ Filtered to tech-shape titles (software, ML, AI, data, etc.) from batch-hire int
 | <a href="https://www.paypal.com"><strong>PayPal</strong></a> | Software Engineer | San Jose, CA |  | <a href="https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer_R0138295-1"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 6d |
 | <a href="https://simplify.jobs/c/Octasic"><strong>Octasic</strong></a> | Software Developer | Montreal, QC, Canada |  | <a href="https://ats.rippling.com/octasic-inc/jobs/305ddc8c-b484-41d0-97dc-6c6940cf0570"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 6d |
 | <a href="https://simplify.jobs/c/Northrop-Grumman"><strong>Northrop Grumman</strong></a> | Associate Software Engineer | Huntsville, AL |  | <a href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Associate-Software-Engineer--BM-SRM---26-464-_R10257823"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 6d |
-| <a href="https://simplify.jobs/c/Northrop-Grumman"><strong>Northrop Grumman</strong></a> | Associate Software Engineer | Colorado Springs, CO |  | <a href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Associate-Software-Engineer---Colorado-Springs_R10257912"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 6d |
-| <a href="https://simplify.jobs/c/Northrop-Grumman"><strong>Northrop Grumman</strong></a> | Associate Software Engineer | Boulder, CO |  | <a href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2027-Associate-Software-Engineer---Boulder-CO_R10257908"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 6d |
 | <a href="https://www.motorolasolutions.com"><strong>Motorola Solutions</strong></a> | Jr. Software Engineer - Java - Angular - JavaScript | Gatineau, Canada +1 |  | <a href="https://motorolasolutions.wd5.myworkdayjobs.com/en-US/careers/job/Gatineau-Canada/Jr-Software-Engineer---Java--Angular--JavaScript_R69279-1"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 6d |
 | <a href="https://simplify.jobs/c/Microsoft"><strong>Microsoft</strong></a> | Software Engineer | Mountain View, CA |  | <a href="https://apply.careers.microsoft.com/careers/job/1970393557045516"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 6d |
 | <a href="https://www.mlb.com/careers"><strong>Major League Baseball</strong></a> | Associate Software Engineer - Seasonal | Remote - New York City, NY |  | <a href="https://job-boards.greenhouse.io/mlbevents/jobs/8300925"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 6d |
@@ -509,8 +508,9 @@ Filtered to tech-shape titles (software, ML, AI, data, etc.) from batch-hire int
 | <a href="https://www.avinc.com"><strong>AeroVironment</strong></a> | Software Engineer - EMB - I | Moorpark, CA |  | <a href="https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Moorpark-CA/Software-Engineer--EMB---I_9055"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 26d |
 | <a href="https://simplify.jobs/c/West-Monroe"><strong>West Monroe</strong></a> | Software Engineering Consultant - AI Concentration | Chicago, IL |  | <a href="https://westmonroe.com/careers/job-details-students?gh_jid=6183016004"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 27d |
 | <a href="https://www.westmonroe.com/"><strong>West Monroe</strong></a> | 2027 Software Engineering - AI Concentration Consultant | Chicago, IL |  | <a href="https://westmonroe.com/careers/job-details-students?gh_jid=6183016004"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 27d |
+| <a href="https://www.westmonroe.com/"><strong>West Monroe</strong></a> | 2027 Software Engineering - AI Concentration Consultant | Seattle, WA |  | <a href="https://westmonroe.com/careers/job-details-students?gh_jid=6183029004"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 27d |
 
-_120 live, 380 unverified_
+_119 live, 381 unverified_
 <!-- TABLE_NA_GRADUATE_END -->
 
-_showing newest 500 of 1685 active rows (cap 500); 24 hidden as first_seen >180d. Full set in jobs.db._
+_showing newest 500 of 1683 active rows (cap 500); 24 hidden as first_seen >180d. Full set in jobs.db._

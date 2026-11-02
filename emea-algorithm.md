@@ -1,12 +1,15 @@
 # EMEA Algorithm Engineer Roles (算法岗)
 
-Last updated: **2026-11-02 07:25 UTC** · **52** active roles.
+Last updated: **2026-11-02 15:24 UTC** · **54** active roles.
 
 <!-- TABLE_SLICE_EMEA_ALGORITHM_START -->
 | Company | Position | Location | Posting | Age |
 |---|---|---|---|---|
+| <a href="https://il.indeed.com/cmp/%D7%90%D7%9C%D7%91%D7%99%D7%98-%D7%9E%D7%A2%D7%A8%D7%9B%D7%95%D7%AA"><strong>אלביט מערכות</strong></a> | Senior computer vision Algo Engineer | רחובות, M, IL | <a href="https://il.indeed.com/viewjob?jk=b91cd9bad6186986"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 0d |
+| <a href="https://uk.indeed.com/cmp/Xantura"><strong>Xantura</strong></a> | Snr Machine Learning Engineer - Client facing - 12 months FTC | London, ENG, GB | <a href="https://uk.indeed.com/viewjob?jk=b1be25958f657d59"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 0d |
 | <a href="https://nl.indeed.com/cmp/Wageningen-University-&-Research"><strong>Wageningen University & Research</strong></a> | Senior Research Engineer - Application Lifecycle and Research IT | Wageningen, GE, NL | <a href="https://nl.indeed.com/viewjob?jk=bfd254658a61c8cb"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 0d |
 | <a href="https://nl.indeed.com/cmp/Wageningen-University-&-Research"><strong>Wageningen University & Research</strong></a> | Senior Research Engineer | Wageningen, GE, NL | <a href="https://nl.indeed.com/viewjob?jk=0f2ecfa1aa401ebf"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 0d |
+| <a href="https://nl.indeed.com/cmp/Tomtom-1"><strong>TomTom</strong></a> | Senior Applied Scientist | Amsterdam, NH, NL | <a href="https://nl.indeed.com/viewjob?jk=306ed8b184894123"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 0d |
 | <a href="https://uk.indeed.com/cmp/Xyz-Reality"><strong>XYZ Reality</strong></a> | Senior AI - Computer Vision Engineer - UK | London, ENG, GB | <a href="https://uk.indeed.com/viewjob?jk=a1733306884a559b"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 3d |
 | <a href="https://vanderlande.com/"><strong>Vanderlande</strong></a> | Junior Software Engineer - AI Vision / Computer Vision | Barcelona, Spain | <a href="https://vanderlande.wd3.myworkdayjobs.com/en-US/internalvl/job/Barcelona-Spain/Junior-Software-Engineer---AI-Vision---Computer-Vision_JR37540"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 4d |
 | <a href="https://se.indeed.com/cmp/Needefy-Ab"><strong>Needefy AB</strong></a> | Machine Learning Engineer / ML Engineer | Kista, AB, SE | <a href="https://se.indeed.com/viewjob?jk=211146f04a87a91c"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 4d |
@@ -24,7 +27,6 @@ Last updated: **2026-11-02 07:25 UTC** · **52** active roles.
 | <a href="https://uk.indeed.com/cmp/Mbda-1"><strong>MBDA</strong></a> | Mission Planning Systems Engineer (Software and Algorithms) | Stevenage, ENG, GB | <a href="https://uk.indeed.com/viewjob?jk=43f4e18e1875bc78"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 6d |
 | <a href="https://uk.indeed.com/cmp/Mbda-1"><strong>MBDA</strong></a> | Mission Planning Systems Engineer (Software and Algorithms) | Bristol, ENG, GB | <a href="https://uk.indeed.com/viewjob?jk=7bf3fede248836a0"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 6d |
 | <a href="https://simplify.jobs/c/Amazon"><strong>Amazon</strong></a> | Applied Scientist Intern - Pxt Legends | United Kingdom | <a href="https://amazon.jobs/en/jobs/10590070/applied-scientist-pxt-legends"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 6d |
-| <a href="https://il.indeed.com/cmp/Skapion"><strong>Skapion</strong></a> | Senior Computer Vision & Tracking Engineer | רמת גן, TA, IL | <a href="https://il.indeed.com/viewjob?jk=6633e7a4113f1a25"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 7d |
 | <a href="https://fr.indeed.com/cmp/Linkup"><strong>LINKUP</strong></a> | Machine Learning Engineer | Paris, A8, FR | <a href="https://fr.indeed.com/viewjob?jk=b0d5a120fa7f807a"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 7d |
 | <a href="https://uk.indeed.com/cmp/Fitch-Group"><strong>Fitch Group</strong></a> | Senior Machine Learning Engineer | London, ENG, GB | <a href="https://uk.indeed.com/viewjob?jk=00ac34211a1a725f"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 7d |
 | <a href="https://simplify.jobs/c/Amazon"><strong>Amazon</strong></a> | Applied Scientist Intern | United Kingdom | <a href="https://amazon.jobs/en/jobs/10567694/2027-applied-scientist-internship-phd-amazon-university-talent-acquisition"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 10d |
@@ -56,7 +58,7 @@ Last updated: **2026-11-02 07:25 UTC** · **52** active roles.
 | <a href="https://cohere.com/"><strong>Cohere</strong></a> | Member of Technical Staff, Integration/RL Team (Research Engineer) | Paris, France · London, United Kingdom · New York, United States | <a href="https://jobs.ashbyhq.com/cohere/e9ef9420-88e5-403b-82e8-1c36fa010d4d/application"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 440d |
 | <a href="https://www.anthropic.com/"><strong>Anthropic</strong></a> | [Expression of Interest] Research Engineer / Scientist, Alignment - London | London, UK | <a href="https://job-boards.greenhouse.io/anthropic/jobs/4610158008"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 581d |
 
-_14 live, 36 unverified_
+_14 live, 38 unverified_
 <!-- TABLE_SLICE_EMEA_ALGORITHM_END -->
 
 _2 hidden as first_seen >180d. Full set in jobs.db._
