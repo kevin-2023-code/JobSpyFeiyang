@@ -1,6 +1,6 @@
 # Remote Jobs
 
-Last updated: **2026-11-04 07:31 UTC** · **49 curated** + **143 other** = **192** active remote roles.
+Last updated: **2026-11-04 15:31 UTC** · **48 curated** + **147 other** = **195** active remote roles.
 
 ## Curated companies (matches the JOBS.md allowlist)
 
@@ -53,13 +53,12 @@ Roles at companies on the curated `filters.include_companies` list in `monitor/c
 | <a href="https://www.anthropic.com/"><strong>Anthropic</strong></a> | Data Center Controls Engineer | Remote-Friendly (Travel Required) · San Francisco, CA |  | <a href="https://job-boards.greenhouse.io/anthropic/jobs/5107890008"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 272d |
 | <a href="https://openai.com/"><strong>OpenAI</strong></a> | Security Engineer, Infrastructure Security | US - Remote, United States · New York City, United States · Seattle, United States |  | <a href="https://jobs.ashbyhq.com/openai/f51f750f-a737-4441-8f96-30133a2a8049/application"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 394d |
 | <a href="https://openai.com/"><strong>OpenAI</strong></a> | Software Engineer, Infrastructure Security | US - Remote, United States · New York City, United States · Seattle, United States |  | <a href="https://jobs.ashbyhq.com/openai/98ad9beb-4f91-496c-bd16-ac0b2a8d5bb2/application"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 394d |
-| **Shopify** | Engineering and Data Intern | Remote · Canada |  | <a href="https://go.vansh.nyc/G"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 442d |
 | <a href="https://openai.com/"><strong>OpenAI</strong></a> | Software Engineer, Full Stack (People Innovation Labs) | US - Remote, United States · San Francisco, United States |  | <a href="https://jobs.ashbyhq.com/openai/d4780eac-03ad-4dae-861f-99af22b4287e/application"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 470d |
 | <a href="https://openai.com/"><strong>OpenAI</strong></a> | Security Engineer, Agent Security | San Francisco, United States · US - Remote, United States |  | <a href="https://jobs.ashbyhq.com/openai/e9bea775-7eb6-438a-ab96-27d5f941e69d/application"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 477d |
 | <a href="https://openai.com/"><strong>OpenAI</strong></a> | Security Engineer, Application Security | San Francisco, United States · US - Remote, United States |  | <a href="https://jobs.ashbyhq.com/openai/0322d6d8-6588-4209-a304-83e768063a25/application"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 763d |
 | <a href="https://www.anthropic.com/"><strong>Anthropic</strong></a> | Research Engineer, Knowledge Team | Remote-Friendly (Travel-Required) · San Francisco, CA · Seattle, WA |  | <a href="https://job-boards.greenhouse.io/anthropic/jobs/4017331008"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 925d |
 
-_48 live, 1 unverified_
+_48 live, 0 unverified_
 <!-- TABLE_SLICE_REMOTE_JOBS_CURATED_END -->
 
 ## All other remote roles
@@ -69,7 +68,10 @@ Everything else that surfaced from Remotive / RemoteOK / JobSpy / SimplifyJobs �
 <!-- TABLE_SLICE_REMOTE_JOBS_OTHER_START -->
 | Company | Position | Location | Salary | Posting | Age |
 |---|---|---|---|---|---|
+| <a href="https://es.indeed.com/cmp/Tuxcare"><strong>TuxCare</strong></a> | Senior Support Engineer - Escalation and Automation (remote work) | Madrid, MD, ES |  | <a href="https://es.indeed.com/viewjob?jk=21adf94501d573bb"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 0d |
+| <a href="https://cz.indeed.com/cmp/Tuxcare"><strong>TuxCare</strong></a> | Senior Kernel Support Engineer (remote work) | Praha, A, CZ |  | <a href="https://cz.indeed.com/viewjob?jk=49dd31dda22ad8d3"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 0d |
 | <a href="https://www.smartsheet.com"><strong>Smartsheet</strong></a> | Software Engineer I - Remote Eligible | Remote - USA |  | <a href="https://job-boards.greenhouse.io/smartsheet/jobs/8347710"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 0d |
+| <a href="https://simplify.jobs/c/ShadowDragon"><strong>ShadowDragon</strong></a> | Junior AI/Machine Learning Engineer | Remote in USA · Hoover, AL |  | <a href="https://ats.rippling.com/shadowdragon/jobs/69df1efd-5f05-4a79-9432-30925eb6db3c"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 0d |
 | <a href="https://uk.indeed.com/cmp/Esim-Go"><strong>eSIM Go</strong></a> | Senior Devops Engineer - Remote | Banbury, ENG, GB |  | <a href="https://uk.indeed.com/viewjob?jk=e683d8083293c4b4"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 1d |
 | <a href="https://taxwell.com/"><strong>Taxwell</strong></a> | Software Engineer I | Remote - Texas, USA |  | <a href="https://taxwell.wd1.myworkdayjobs.com/en-US/taxwellcareers/job/Remote---Texas/Software-Engineer-I_R0003951"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 1d |
 | <a href="https://ch.indeed.com/cmp/Scalera"><strong>Scalera</strong></a> | Senior Backend & AI Engineer (Remote) | Zürich, ZH, CH |  | <a href="https://ch.indeed.com/viewjob?jk=b071eec4e876d9c7"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 1d |
@@ -109,6 +111,7 @@ Everything else that surfaced from Remotive / RemoteOK / JobSpy / SimplifyJobs �
 | **Smile Digital Health** | Cloud Engineer Automation | Remote · Toronto, Ontario |  | <a href="https://remoteOK.com/remote-jobs/remote-cloud-engineer-automation-smile-digital-health-1137600"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 6d |
 | <a href="https://uk.indeed.com/cmp/Process-Street"><strong>Process Street</strong></a> | Senior Software Engineer \| Remote \| AI SaaS Software Role | Manchester, ENG, GB |  | <a href="https://uk.indeed.com/viewjob?jk=994cb7cc2b373563"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 6d |
 | <a href="https://ie.indeed.com/cmp/Process-Street"><strong>Process Street</strong></a> | Senior Software Engineer \| Remote \| AI SaaS Software Role | Dublin, D, IE |  | <a href="https://ie.indeed.com/viewjob?jk=0d0201871d0ef73c"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 6d |
+| <a href="https://es.indeed.com/cmp/Philips"><strong>Philips</strong></a> | Remote Support Engineer – Digital Computational Pathology | Madrid, MD, ES |  | <a href="https://es.indeed.com/viewjob?jk=e24ad4b0d7b7137e"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 6d |
 | **Fluence International, Inc.** | Full-Stack Developer | Remote · Worldwide | $4k-5k/yr | <a href="https://remotive.com/remote-jobs/software-development/full-stack-developer-2091165"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 6d |
 | <a href="https://es.indeed.com/cmp/Concentrix"><strong>Concentrix</strong></a> | Remote Support Engineer - (Italian speaking) - Hybrid - High Tech - HD01 | Barcelona, CT, ES |  | <a href="https://es.indeed.com/viewjob?jk=5bcb954ce69a03b8"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 6d |
 | <a href="https://www.ascensus.com"><strong>Ascensus</strong></a> | Software Engineer | Remote - Needham, MA +10 |  | <a href="https://ascensushr.wd1.myworkdayjobs.com/en-US/ascensuscareers/job/Remote-Nationwide/AI-Software-Engineer_R0021417"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 6d |
@@ -210,7 +213,7 @@ Everything else that surfaced from Remotive / RemoteOK / JobSpy / SimplifyJobs �
 | **Deepgram** | Software Engineering Intern | Remote · US |  | <a href="https://go.vansh.nyc/3S"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 103d |
 | <a href="https://simplify.jobs/c/Kinaxis"><strong>Kinaxis</strong></a> | Software Developer - Data Ingestion - Developer Framework | Canada · Remote in Canada |  | <a href="https://kinaxis.jibeapply.com/jobs/34791?icims=1"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 174d |
 
-_0 live, 140 unverified_
+_0 live, 144 unverified_
 <!-- TABLE_SLICE_REMOTE_JOBS_OTHER_END -->
 
 _3 hidden as first_seen >180d. Full set in jobs.db._

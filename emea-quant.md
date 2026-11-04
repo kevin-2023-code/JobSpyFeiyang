@@ -1,6 +1,6 @@
 # EMEA Quant & Trading Roles
 
-Last updated: **2026-11-04 07:31 UTC** · **24** active roles.
+Last updated: **2026-11-04 15:31 UTC** · **23** active roles.
 
 <!-- TABLE_SLICE_EMEA_QUANT_START -->
 | Company | Position | Location | Posting | Age |
@@ -9,7 +9,6 @@ Last updated: **2026-11-04 07:31 UTC** · **24** active roles.
 | <a href="https://uk.indeed.com/cmp/Carter-Maddox-Associates"><strong>Carter Maddox Associates</strong></a> | Graduate Python Developer (Algorithmic Trading) | London, ENG, GB | <a href="https://uk.indeed.com/viewjob?jk=d8eecf4147286a7d"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 1d |
 | <a href="https://de.indeed.com/cmp/Helmholtz--zentrum-Berlin-1"><strong>Helmholtz-Zentrum Berlin</strong></a> | Postdoc / Wissenschaftlicher Mitarbeiter (w/m/d) für die Entwicklung von Quantenalgorithmen zur Simulation des Elektronentransfers an Elektrodenoberflächen | Berlin, BE, DE | <a href="https://de.indeed.com/viewjob?jk=6107c6de61d3c1f8"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 2d |
 | <a href="https://www.keyrock.com/"><strong>Keyrock</strong></a> | Innovation Quant Developer: Intern - DeFi/Corporate Development | Brussels, Belgium +1 | <a href="https://jobs.ashbyhq.com/keyrock/d2d0a311-b102-4fda-b537-1a8e926b55c7"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 5d |
-| <a href="https://de.indeed.com/cmp/Planqc"><strong>planqc</strong></a> | Quantum Compiler Engineer | Garching bei München, BY, DE | <a href="https://de.indeed.com/viewjob?jk=4710bc7ce15be0e2"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 6d |
 | <a href="https://simplify.jobs/c/Queueco"><strong>Queueco</strong></a> | Quantitative Developer Graduate | London, UK | <a href="https://apply.workable.com/queueco/j/4E1AB7A939/apply"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 6d |
 | <a href="https://uk.indeed.com/cmp/Keyrock-1"><strong>Keyrock</strong></a> | Innovation Quant Developer Intern (DeFi/Corporate Development) - Brussels | London, ENG, GB | <a href="https://uk.indeed.com/viewjob?jk=5094e0220443db28"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 6d |
 | <a href="https://simplify.jobs/c/Oxford-Quantum-Circuits"><strong>Oxford Quantum Circuits</strong></a> | Associate Quantum Software Engineer | Reading, UK | <a href="https://apply.workable.com/oxford-quantum-circuits-8/j/5A9494E612/apply"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 21d |
@@ -29,7 +28,7 @@ Last updated: **2026-11-04 07:31 UTC** · **24** active roles.
 | <a href="https://simplify.jobs/c/GlobalFoundries"><strong>GlobalFoundries</strong></a> | New Graduate Heterogeneous Integration Engineer - Quantum Cryogenic 3D Packaging | Malta, NY · Burlington, VT · Leuven, Belgium | <a href="https://globalfoundries.wd1.myworkdayjobs.com/External/job/Leuven/NCG-3D-Heterogeneous-Integration-Engineer-Cryogenic-3D-packaging_JR-2601211"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 130d |
 | <a href="https://simplify.jobs/c/Squarepoint-Capital"><strong>Squarepoint Capital</strong></a> | Graduate Quant Developer | Montreal, QC, Canada · London, UK | <a href="https://boards.greenhouse.io/embed/job_app?token=7918610"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 176d |
 
-_1 live, 22 unverified_
+_1 live, 21 unverified_
 <!-- TABLE_SLICE_EMEA_QUANT_END -->
 
 _1 hidden as first_seen >180d. Full set in jobs.db._

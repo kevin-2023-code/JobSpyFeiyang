@@ -1,11 +1,12 @@
 # North America Algorithm Engineer Roles (算法岗)
 
-Last updated: **2026-11-04 07:31 UTC** · **456** active roles.
+Last updated: **2026-11-04 15:31 UTC** · **457** active roles.
 
 <!-- TABLE_SLICE_NA_ALGORITHM_START -->
 | Company | Position | Location | Salary | Posting | Age |
 |---|---|---|---|---|---|
-| **Etched** | IA Research Engineer Intern, Kernels | San Jose, CA |  | <a href="https://go.vansh.nyc/1fS"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 0d |
+| <a href="https://simplify.jobs/c/ShadowDragon"><strong>ShadowDragon</strong></a> | Junior AI/Machine Learning Engineer | Remote in USA · Hoover, AL |  | <a href="https://ats.rippling.com/shadowdragon/jobs/69df1efd-5f05-4a79-9432-30925eb6db3c"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 0d |
+| <a href="https://simplify.jobs/c/Etched"><strong>Etched</strong></a> | IA Research Engineer Intern - Kernels | San Jose, CA |  | <a href="https://jobs.ashbyhq.com/etched/05d67dff-a7a4-4ece-a809-3200d95e7440/application?embed=true"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 0d |
 | <a href="https://simplify.jobs/c/SambaNova-Systems"><strong>SambaNova Systems</strong></a> | Machine Learning Engineer New Grad | Austin, TX · San Jose, CA |  | <a href="https://sambanova.ai/sambanova-available-positions/?gh_jid=6240725004"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 1d |
 | <a href="https://simplify.jobs/c/RoboForce"><strong>RoboForce</strong></a> | Machine Learning Engineer Intern - AI & Robotics | Milpitas, CA |  | <a href="https://job-boards.greenhouse.io/roboforce/jobs/5470001008"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 1d |
 | **Q2** | Machine Learning Engineer Intern | Austin, TX |  | <a href="https://go.vansh.nyc/1de"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 1d |
@@ -459,7 +460,7 @@ Last updated: **2026-11-04 07:31 UTC** · **456** active roles.
 | <a href="https://www.anthropic.com/"><strong>Anthropic</strong></a> | Research Engineer, Knowledge Team | Remote-Friendly (Travel-Required) · San Francisco, CA · Seattle, WA |  | <a href="https://job-boards.greenhouse.io/anthropic/jobs/4017331008"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 925d |
 | <a href="https://www.anthropic.com/"><strong>Anthropic</strong></a> | Staff+ Research Scientist, Multi-Agent | San Francisco, CA · New York City, NY · Seattle, WA |  | <a href="https://job-boards.greenhouse.io/anthropic/jobs/4017544008"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 926d |
 
-_341 live, 112 unverified_
+_341 live, 113 unverified_
 <!-- TABLE_SLICE_NA_ALGORITHM_END -->
 
 _3 hidden as first_seen >180d. Full set in jobs.db._

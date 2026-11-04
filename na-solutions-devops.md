@@ -1,10 +1,11 @@
 # North America Solutions / Customer / DevOps Roles
 
-Last updated: **2026-11-04 07:31 UTC** · **126** active roles.
+Last updated: **2026-11-04 15:31 UTC** · **127** active roles.
 
 <!-- TABLE_SLICE_NA_SOLUTIONS_DEVOPS_START -->
 | Company | Position | Location | Salary | Posting | Age |
 |---|---|---|---|---|---|
+| **Northrop Grumman** | DevOps Software Engineering Intern | Roy, UT |  | <a href="https://go.vansh.nyc/1gk"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 0d |
 | <a href="https://aurora.tech"><strong>Aurora Innovation</strong></a> | Developer Support Engineer I | Pittsburgh, PA |  | <a href="https://jobs.ashbyhq.com/aurora-operations-inc/3083054b-aa88-4cd5-86c2-96af5ddf1ee3"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 0d |
 | <a href="https://www.sncorp.com"><strong>Sierra Nevada Corporation</strong></a> | DevOps Engineer Intern - Summer 2027 | Southern Pines, NC |  | <a href="https://snc.wd1.myworkdayjobs.com/en-US/snc_external_career_site/job/Southern-Pines-NC/DevOps-Engineer-Intern--Summer-2027-_R0031238-1"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 1d |
 | **SWBC** | DevOps Intern | San Antonio, TX |  | <a href="https://go.vansh.nyc/1cJ"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 1d |
@@ -26,7 +27,7 @@ Last updated: **2026-11-04 07:31 UTC** · **126** active roles.
 | **National Interstate Insurance** | DevOps Developer Intern | Cincinnati, OH |  | <a href="https://go.vansh.nyc/Zr"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 6d |
 | <a href="https://simplify.jobs/c/Great-American-Insurance-Company"><strong>Great American Insurance Company</strong></a> | DevOps Developer Intern | Cincinnati, OH |  | <a href="https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/DevOps-Developer-Intern---Summer-2027_R9826"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 6d |
 | <a href="https://www.galaxy.com"><strong>Galaxy</strong></a> | Site Reliability Engineer - Data Centers | Texas, USA |  | <a href="https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6237795004"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 6d |
-| <a href="https://simplify.jobs/c/Boston-Scientific"><strong>Boston Scientific</strong></a> | AI Solutions Engineering Intern | Arden Hills, MN |  | <a href="https://bostonscientific.eightfold.ai/careers/job/563602813547675"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 6d |
+| **Boston Scientific** | AI Solutions Engineering Intern | Arden Hills, MN |  | <a href="https://go.vansh.nyc/YR"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 6d |
 | **Nintendo** | Software Engineer Intern, DevOps | Redmond, WA |  | <a href="https://go.vansh.nyc/12m"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 7d |
 | <a href="https://www.esri.com"><strong>Esri</strong></a> | DevOps Engineer I - Azure | Redlands, CA |  | <a href="https://www.esri.com/careers/5262837007?gh_jid=5262837007"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 7d |
 | <a href="https://www.anthropic.com/"><strong>Anthropic</strong></a> | Field Engineer, Data Center Design and Engineering | Remote-Friendly, United States |  | <a href="https://job-boards.greenhouse.io/anthropic/jobs/5466517008"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 7d |
@@ -131,7 +132,7 @@ Last updated: **2026-11-04 07:31 UTC** · **126** active roles.
 | <a href="https://scale.com/"><strong>Scale AI</strong></a> | Solutions Engineer (Clearance Required) | Washington, DC |  | <a href="https://job-boards.greenhouse.io/scaleai/jobs/4663481005"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 260d |
 | <a href="https://scale.com/"><strong>Scale AI</strong></a> | Field Engineer, Data Engine | Colorado Springs, CO; Omaha, NE; St. Louis, MO; Washington, DC |  | <a href="https://job-boards.greenhouse.io/scaleai/jobs/4518690005"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 654d |
 
-_42 live, 83 unverified_
+_43 live, 83 unverified_
 <!-- TABLE_SLICE_NA_SOLUTIONS_DEVOPS_END -->
 
 _1 hidden as first_seen >180d. Full set in jobs.db._
