@@ -1,6 +1,6 @@
 # EMEA Quant & Trading Roles
 
-Last updated: **2026-11-05 07:25 UTC** · **26** active roles.
+Last updated: **2026-11-05 15:25 UTC** · **27** active roles.
 
 <!-- TABLE_SLICE_EMEA_QUANT_START -->
 | Company | Position | Location | Posting | Age |
@@ -26,12 +26,13 @@ Last updated: **2026-11-05 07:25 UTC** · **26** active roles.
 | <a href="https://simplify.jobs/c/Marshall-Wace"><strong>Marshall Wace</strong></a> | Quant Developer - Quant Association Programme | London, UK | <a href="https://job-boards.greenhouse.io/mw-tech-grad/jobs/8646947002"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 71d |
 | <a href="https://sig.com"><strong>Susquehanna International Group</strong></a> | Quantitative Strategy Developer Internship: Summer 2027 - London | London, United Kingdom | <a href="https://careers-sig.icims.com/jobs/11333/quantitative-strategy-developer-internship%3a-summer-2027-%28london%29/job"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 75d |
 | <a href="https://sig.com"><strong>Susquehanna International Group</strong></a> | Quantitative Strategy Developer Internship: Summer 2027 - Dublin | Dublin, Ireland | <a href="https://careers-sig.icims.com/jobs/11332/quantitative-strategy-developer-internship%3a-summer-2027-%28dublin%29/job"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 75d |
+| <a href="https://simplify.jobs/c/Susquehanna"><strong>Susquehanna International Group</strong></a> | Quantitative Strategy Developer Intern | London, UK · Dublin, Ireland | <a href="https://careers-sig.icims.com/jobs/11333/job?mobile=true&needsRedirect=false"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 76d |
 | <a href="https://simplify.jobs/c/Xantium"><strong>Xantium</strong></a> | Quantitative Developer Intern | London, UK · NYC | <a href="https://job-boards.greenhouse.io/xantium/jobs/4360768009"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 80d |
 | <a href="https://simplify.jobs/c/Jane-Street"><strong>Jane Street</strong></a> | Trading Desk Operations Engineer Intern | London, UK | <a href="https://www.janestreet.com/join-jane-street/apply/8700980002?gh_jid=8700980002"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 83d |
 | <a href="https://simplify.jobs/c/GlobalFoundries"><strong>GlobalFoundries</strong></a> | New Graduate Heterogeneous Integration Engineer - Quantum Cryogenic 3D Packaging | Malta, NY · Burlington, VT · Leuven, Belgium | <a href="https://globalfoundries.wd1.myworkdayjobs.com/External/job/Leuven/NCG-3D-Heterogeneous-Integration-Engineer-Cryogenic-3D-packaging_JR-2601211"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 131d |
 | <a href="https://simplify.jobs/c/Squarepoint-Capital"><strong>Squarepoint Capital</strong></a> | Graduate Quant Developer | Montreal, QC, Canada · London, UK | <a href="https://boards.greenhouse.io/embed/job_app?token=7918610"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 177d |
 
-_1 live, 24 unverified_
+_1 live, 25 unverified_
 <!-- TABLE_SLICE_EMEA_QUANT_END -->
 
 _1 hidden as first_seen >180d. Full set in jobs.db._

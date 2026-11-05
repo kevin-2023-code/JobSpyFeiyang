@@ -1,10 +1,11 @@
 # North America Solutions / Customer / DevOps Roles
 
-Last updated: **2026-11-05 07:25 UTC** · **126** active roles.
+Last updated: **2026-11-05 15:25 UTC** · **127** active roles.
 
 <!-- TABLE_SLICE_NA_SOLUTIONS_DEVOPS_START -->
 | Company | Position | Location | Salary | Posting | Age |
 |---|---|---|---|---|---|
+| **Tencent** | Site Reliability Engineer (SRE) Intern, AI Infrastructure | Palo Alto, CA |  | <a href="https://go.vansh.nyc/1hQ"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 0d |
 | <a href="https://www.globalrelay.com"><strong>Global Relay</strong></a> | Co-op DevOps - Winter 2027 | Halifax, Canada |  | <a href="https://www.globalrelay.com/careers/jobs?gh_jid=6241597004"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 0d |
 | <a href="https://vtgdefense.com"><strong>VTG</strong></a> | Associate DevOps Engineer | Manassas, VA |  | <a href="https://internal-vtgdefense.icims.com/jobs/9712/associate-devops-engineer/job"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 1d |
 | **Northrop Grumman** | DevOps Software Engineering Intern | Roy, UT |  | <a href="https://go.vansh.nyc/1gk"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 1d |
@@ -130,7 +131,7 @@ Last updated: **2026-11-05 07:25 UTC** · **126** active roles.
 | <a href="https://openai.com/"><strong>OpenAI</strong></a> | Senior Support Engineer - San Francisco | San Francisco, United States |  | <a href="https://jobs.ashbyhq.com/openai/5431666c-530b-49c0-b67e-32477f9eaf5e/application"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 259d |
 | <a href="https://scale.com/"><strong>Scale AI</strong></a> | Solutions Engineer (Clearance Required) | Washington, DC |  | <a href="https://job-boards.greenhouse.io/scaleai/jobs/4663481005"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 261d |
 
-_42 live, 82 unverified_
+_42 live, 83 unverified_
 <!-- TABLE_SLICE_NA_SOLUTIONS_DEVOPS_END -->
 
 _2 hidden as first_seen >180d. Full set in jobs.db._
