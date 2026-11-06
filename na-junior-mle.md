@@ -1,10 +1,14 @@
 # North America Junior ML Engineer / Applied Scientist Roles
 
-Last updated: **2026-11-06 07:23 UTC** · **666** active roles.
+Last updated: **2026-11-06 15:27 UTC** · **668** active roles.
 
 <!-- TABLE_SLICE_NA_JUNIOR_MLE_START -->
 | Company | Position | Location | Salary | Posting | Age |
 |---|---|---|---|---|---|
+| <a href="https://simplify.jobs/c/TikTok"><strong>TikTok</strong></a> | Research Engineer - Agentic Video Editing | San Jose, CA |  | <a href="https://lifeattiktok.com/search/7704036750285867269"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 0d |
+| <a href="https://openai.com/"><strong>OpenAI</strong></a> | Data Scientist, Preparedness | San Francisco, United States |  | <a href="https://jobs.ashbyhq.com/openai/bd1ac97f-20f9-4727-9f92-7064035a416f/application"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 0d |
+| **Match Group** | Data Scientist Intern | San Francisco, CA |  | <a href="https://go.vansh.nyc/1kk"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 0d |
+| **Match Group** | Machine Learning Engineer Intern | Palo Alto, CA |  | <a href="https://go.vansh.nyc/1kl"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 0d |
 | <a href="https://simplify.jobs/c/V2X"><strong>V2X</strong></a> | AI Engineering Intern | Indianapolis, IN |  | <a href="https://careers.gov2x.com/jobs/63949?icims=1&lang=en-us"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 1d |
 | <a href="https://simplify.jobs/c/V2X"><strong>V2X</strong></a> | AI Engineer Intern | Indianapolis, IN |  | <a href="https://careers.gov2x.com/jobs/63948?icims=1&lang=en-us"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 1d |
 | <a href="https://simplify.jobs/c/Toyota-Research-Institute"><strong>Toyota Research Institute</strong></a> | Automated Driving Advanced Development Intern - Machine Learning Research | Los Altos, CA |  | <a href="https://jobs.lever.co/tri/62b161d6-21e0-4d10-9997-ff7ae91a2ff4/apply"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 1d |
@@ -501,12 +505,8 @@ Last updated: **2026-11-06 07:23 UTC** · **666** active roles.
 | <a href="https://simplify.jobs/c/TikTok"><strong>TikTok</strong></a> | Machine Learning Engineer Graduate - E-Commerce Recommendation/Search Alliance | San Jose, CA |  | <a href="https://lifeattiktok.com/search/7669908897587824949"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 92d |
 | <a href="https://simplify.jobs/c/TikTok"><strong>TikTok</strong></a> | Machine Learning Engineer Graduate - E-Commerce Recommendation/Search Alliance | Seattle, WA |  | <a href="https://lifeattiktok.com/search/7669910326745434421"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 92d |
 | <a href="https://simplify.jobs/c/TikTok"><strong>TikTok</strong></a> | Machine Learning Engineer Graduate - E-Commerce Recommendation Live | Seattle, WA |  | <a href="https://lifeattiktok.com/search/7670285949553707317"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 92d |
-| <a href="https://simplify.jobs/c/TikTok"><strong>TikTok</strong></a> | Machine Learning Engineer Graduate - E-Commerce Recommendation Live | San Jose, CA |  | <a href="https://lifeattiktok.com/search/7670285495593273605"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 92d |
-| <a href="https://simplify.jobs/c/Pennsylvania-State-University"><strong>Pennsylvania State University</strong></a> | Artificial Intelligence / Machine Learning Verification and Validation Engineer - Multiple Teams | State College, PA · Reston, VA |  | <a href="https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Artificial-Intelligence---Machine-Learning-Verification-and-Validation-Engineer_REQ_0000079310-2"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 92d |
-| <a href="https://openai.com/"><strong>OpenAI</strong></a> | Data Scientist, B2B Demand Generation, Growth & Measurement | San Francisco, United States |  | <a href="https://jobs.ashbyhq.com/openai/7f299784-2c75-4d73-99e5-1e5043ec7b48/application"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 92d |
-| <a href="https://simplify.jobs/c/ByteDance"><strong>ByteDance</strong></a> | Machine Learning Backend Engineer Graduate - AML MLDev | San Jose, CA |  | <a href="https://jobs.bytedance.com/en/position/7669791940490168629/detail"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 92d |
 
-_186 live, 314 unverified_
+_185 live, 315 unverified_
 <!-- TABLE_SLICE_NA_JUNIOR_MLE_END -->
 
-_showing newest 500 of 660 active rows (cap 500); 6 hidden as first_seen >180d. Full set in jobs.db._
+_showing newest 500 of 662 active rows (cap 500); 6 hidden as first_seen >180d. Full set in jobs.db._

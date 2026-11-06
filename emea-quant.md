@@ -1,12 +1,13 @@
 # EMEA Quant & Trading Roles
 
-Last updated: **2026-11-06 07:23 UTC** · **29** active roles.
+Last updated: **2026-11-06 15:27 UTC** · **30** active roles.
 
 <!-- TABLE_SLICE_EMEA_QUANT_START -->
 | Company | Position | Location | Posting | Age |
 |---|---|---|---|---|
 | <a href="https://www.vontobel.com"><strong>Vontobel</strong></a> | Early Careers Internship Program Investments -Data Engineer or Quant Developer - 80-100% | Zurich, Switzerland | <a href="https://vontobel.wd3.myworkdayjobs.com/en-US/linkedin/job/Zrich--Genferstrasse-27/Early-Careers-Internship-Program-Investments--Data-Engineer-or-Quant-Developer--80-100--_9579"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 0d |
 | <a href="https://ch.indeed.com/cmp/Vontobel"><strong>Vontobel</strong></a> | Early Careers Internship Program Investments –Data Engineer or Quant Developer (80-100%) | Zürich, ZH, CH | <a href="https://ch.indeed.com/viewjob?jk=1dfdca7798a7b3da"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 1d |
+| <a href="https://uk.indeed.com/cmp/Cmc-Markets-2"><strong>CMC Markets</strong></a> | Trading Application Support Engineer | London, ENG, GB | <a href="https://uk.indeed.com/viewjob?jk=8d8d0c71a0e25c17"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 1d |
 | <a href="https://uk.indeed.com/cmp/Quantinuum"><strong>Quantinuum</strong></a> | Advanced Compiler Engineer - Quantum Software - 1044 | Cambridge, ENG, GB | <a href="https://uk.indeed.com/viewjob?jk=8ee071de528b24e4"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 2d |
 | <a href="https://www.keyrock.com/"><strong>Keyrock</strong></a> | Innovation Quant Developer Intern - DeFi/Corporate Development - Brussels | Brussels, Belgium +1 | <a href="https://jobs.ashbyhq.com/keyrock/d2d0a311-b102-4fda-b537-1a8e926b55c7"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 2d |
 | <a href="https://uk.indeed.com/cmp/Goliath-Partners"><strong>Goliath Partners</strong></a> | Quantitative Developer | London, ENG, GB | <a href="https://uk.indeed.com/viewjob?jk=0d8c446b7b8be0ec"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 2d |
@@ -34,7 +35,7 @@ Last updated: **2026-11-06 07:23 UTC** · **29** active roles.
 | <a href="https://simplify.jobs/c/GlobalFoundries"><strong>GlobalFoundries</strong></a> | New Graduate Heterogeneous Integration Engineer - Quantum Cryogenic 3D Packaging | Malta, NY · Burlington, VT · Leuven, Belgium | <a href="https://globalfoundries.wd1.myworkdayjobs.com/External/job/Leuven/NCG-3D-Heterogeneous-Integration-Engineer-Cryogenic-3D-packaging_JR-2601211"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 132d |
 | <a href="https://simplify.jobs/c/Squarepoint-Capital"><strong>Squarepoint Capital</strong></a> | Graduate Quant Developer | Montreal, QC, Canada · London, UK | <a href="https://boards.greenhouse.io/embed/job_app?token=7918610"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 178d |
 
-_1 live, 27 unverified_
+_1 live, 28 unverified_
 <!-- TABLE_SLICE_EMEA_QUANT_END -->
 
 _1 hidden as first_seen >180d. Full set in jobs.db._

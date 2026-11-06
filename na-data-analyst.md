@@ -1,6 +1,6 @@
 # North America Data Analyst Roles
 
-Last updated: **2026-11-06 07:23 UTC** · **161** active roles.
+Last updated: **2026-11-06 15:27 UTC** · **159** active roles.
 
 <!-- TABLE_SLICE_NA_DATA_ANALYST_START -->
 | Company | Position | Location | Posting | Age |
@@ -59,7 +59,6 @@ Last updated: **2026-11-06 07:23 UTC** · **161** active roles.
 | <a href="https://simplify.jobs/c/American-Family-Insurance-Group"><strong>American Family Insurance Group</strong></a> | Business Intelligence Enablement Intern | Madison, WI · Boston, MA | <a href="https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Business-Intelligence-Enablement_R39531"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 15d |
 | **Allstate** | Data Analytics Engineer Intern | Remote · United States | <a href="https://go.vansh.nyc/fe"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 15d |
 | <a href="https://simplify.jobs/c/Trace3"><strong>Trace3</strong></a> | Data and Analytics Engineer Intern | Irvine, CA | <a href="https://job-boards.greenhouse.io/trace3/jobs/8274818"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 16d |
-| <a href="https://simplify.jobs/c/Thorlabs"><strong>Thorlabs</strong></a> | Data Analyst 1 | Newton, NJ | <a href="https://apply.workable.com/thorlabs/j/B3CD05F790/apply"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 16d |
 | **Paccar** | Field Service Data Analyst Intern | Kirkland, WA | <a href="https://go.vansh.nyc/dd"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 17d |
 | <a href="https://www.bracebridgecapital.com/"><strong>Bracebridge Capital</strong></a> | Northeastern University Software Engineer - Business Intelligence Co-op | Boston, MA | <a href="https://job-boards.greenhouse.io/bracebridgecapital/jobs/4744999005"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 17d |
 | **Paccar** | Warranty Data Analyst Intern | Kirkland, WA | <a href="https://go.vansh.nyc/cf"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 18d |
@@ -122,7 +121,6 @@ Last updated: **2026-11-06 07:23 UTC** · **161** active roles.
 | <a href="https://simplify.jobs/c/Navy-Federal"><strong>Navy Federal</strong></a> | Business Intelligence Analyst Summer Associate Intern | Vienna, VA | <a href="https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32330"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 58d |
 | <a href="https://simplify.jobs/c/Navy-Federal"><strong>Navy Federal</strong></a> | Business Intelligence Analyst Intern | Winchester, VA · Virginia Beach, VA · Pensacola, FL | <a href="https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32031"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 58d |
 | <a href="https://simplify.jobs/c/Navy-Federal"><strong>Navy Federal</strong></a> | Business Intelligence Analyst Intern - Consumer Lending | Pensacola, FL · Vienna, VA | <a href="https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32321"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 58d |
-| <a href="https://simplify.jobs/c/Delta-Dental-Of-Iowa"><strong>Delta Dental of Iowa</strong></a> | Data Analyst Intern | Johnston, IA | <a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4491829"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 58d |
 | **Coinbase** | Analytics Engineer Intern | San Francisco, CA | <a href="https://go.vansh.nyc/Mt"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 58d |
 | <a href="https://simplify.jobs/c/Hoffman-Construction"><strong>Hoffman Construction</strong></a> | Data Analyst Intern | Amarillo, TX | <a href="https://efsp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1521"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 59d |
 | <a href="https://simplify.jobs/c/Bird-Construction"><strong>Bird Construction</strong></a> | Business Intelligence Student | Winnipeg, MB, Canada · Calgary, AB, Canada · Edmonton, AB, Canada | <a href="https://bird.wd3.myworkdayjobs.com/BirdConstructionCareers/job/Calgary-AB/Business-Intelligence-Student_JR-9521"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 59d |
@@ -166,7 +164,7 @@ Last updated: **2026-11-06 07:23 UTC** · **161** active roles.
 | <a href="https://simplify.jobs/c/88a12762-7571-4b02-ab44-d4b76f06a26a"><strong>First Quality</strong></a> | Analytics Engineer Intern/Co-op - Analytics Engineer | Anderson, SC | <a href="https://firstquality.wd5.myworkdayjobs.com/firstquality/job/US-SC-Anderson/INTERN-OR-CO-OP---Analytics-Engineer_R9813"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 174d |
 | <a href="https://stripe.com/"><strong>Stripe</strong></a> | Data Analyst | Canada | <a href="https://stripe.com/jobs/search?gh_jid=5416444"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 1101d |
 
-_15 live, 145 unverified_
+_15 live, 143 unverified_
 <!-- TABLE_SLICE_NA_DATA_ANALYST_END -->
 
 _1 hidden as first_seen >180d. Full set in jobs.db._

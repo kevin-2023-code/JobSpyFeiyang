@@ -1,6 +1,6 @@
 # Remote Jobs
 
-Last updated: **2026-11-06 07:23 UTC** · **46 curated** + **130 other** = **176** active remote roles.
+Last updated: **2026-11-06 15:27 UTC** · **46 curated** + **132 other** = **178** active remote roles.
 
 ## Curated companies (matches the JOBS.md allowlist)
 
@@ -66,7 +66,9 @@ Everything else that surfaced from Remotive / RemoteOK / JobSpy / SimplifyJobs �
 <!-- TABLE_SLICE_REMOTE_JOBS_OTHER_START -->
 | Company | Position | Location | Salary | Posting | Age |
 |---|---|---|---|---|---|
+| **Toptal** | ML Inference Engineer â Terminal-Bench Task Designer (vLLM / SGLang / TensorRT-LLM) | Remote · Anywhere in the World |  | <a href="https://remoteOK.com/remote-jobs/remote-ml-inference-engineer-terminal-bench-task-designer-vllm-sglang-tensorrt-llm-toptal-1137689"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 1d |
 | <a href="https://de.indeed.com/cmp/Orderyoyo"><strong>OrderYOYO</strong></a> | Senior Data & AI Platform Engineer Remote | Berlin, BE, DE |  | <a href="https://de.indeed.com/viewjob?jk=af298a19bb1e8976"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 1d |
+| **Lemon.io** | Senior Vue Developer | Remote · Worldwide | $50k-180k/yr | <a href="https://remoteOK.com/remote-jobs/remote-senior-vue-developer-lemon-io-1137688"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 1d |
 | <a href="https://www.leidos.com"><strong>Leidos</strong></a> | Software Engineering & AI Intern | Remote - Odenton, MD +1 |  | <a href="https://leidos.wd5.myworkdayjobs.com/en-US/external/job/6314-RemoteTeleworker-US/Software-Engineering---AI-Intern_R-00196220"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 1d |
 | **DataVisor** | Software Engineer Intern | Remote · Canada |  | <a href="https://go.vansh.nyc/1hA"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 1d |
 | **CareSource** | Data Analyst Intern | Remote · United States |  | <a href="https://go.vansh.nyc/1jg"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 1d |
@@ -194,7 +196,7 @@ Everything else that surfaced from Remotive / RemoteOK / JobSpy / SimplifyJobs �
 | **Deepgram** | Software Engineering Intern | Remote · US |  | <a href="https://go.vansh.nyc/3S"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 105d |
 | <a href="https://simplify.jobs/c/Kinaxis"><strong>Kinaxis</strong></a> | Software Developer - Data Ingestion - Developer Framework | Canada · Remote in Canada |  | <a href="https://kinaxis.jibeapply.com/jobs/34791?icims=1"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 176d |
 
-_0 live, 127 unverified_
+_0 live, 129 unverified_
 <!-- TABLE_SLICE_REMOTE_JOBS_OTHER_END -->
 
 _3 hidden as first_seen >180d. Full set in jobs.db._
