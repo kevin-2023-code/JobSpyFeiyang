@@ -1,6 +1,6 @@
 # North America Solutions / Customer / DevOps Roles
 
-Last updated: **2026-11-07 07:24 UTC** · **130** active roles.
+Last updated: **2026-11-07 15:21 UTC** · **129** active roles.
 
 <!-- TABLE_SLICE_NA_SOLUTIONS_DEVOPS_START -->
 | Company | Position | Location | Salary | Posting | Age |
@@ -20,7 +20,6 @@ Last updated: **2026-11-07 07:24 UTC** · **130** active roles.
 | **Garmin** | IT DevOps Administrator Intern | Olathe, KS |  | <a href="https://go.vansh.nyc/1jp"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 2d |
 | <a href="https://www.boozallen.com"><strong>Booz Allen</strong></a> | Software and Documentation Support Engineer - Junior | Port Hueneme, CA |  | <a href="https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Port-Hueneme-CA/Software-and-Documentation-Support-Engineer--Junior_R0252799-1"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 2d |
 | <a href="https://vtgdefense.com"><strong>VTG</strong></a> | Associate DevOps Engineer | Manassas, VA |  | <a href="https://internal-vtgdefense.icims.com/jobs/9712/associate-devops-engineer/job"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 3d |
-| **Northrop Grumman** | DevOps Software Engineering Intern | Roy, UT |  | <a href="https://go.vansh.nyc/1gk"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 3d |
 | <a href="https://simplify.jobs/c/Keysight-Technologies-Inc"><strong>Keysight Technologies</strong></a> | R&D Software Engineer - Sampling Oscilloscope Applications - DevOps | Santa Rosa, CA |  | <a href="https://jobs.keysight.com/jobs/55298?icims=1"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 3d |
 | <a href="https://www.digitalhands.com"><strong>Digital Hands</strong></a> | Associate DevOps Engineer | Tampa, FL |  | <a href="https://www.digitalhands.com/careers?gh_jid=5283173007"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 3d |
 | <a href="https://aurora.tech"><strong>Aurora Innovation</strong></a> | Developer Support Engineer I | Pittsburgh, PA |  | <a href="https://jobs.ashbyhq.com/aurora-operations-inc/3083054b-aa88-4cd5-86c2-96af5ddf1ee3"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 3d |
@@ -134,7 +133,7 @@ Last updated: **2026-11-07 07:24 UTC** · **130** active roles.
 | <a href="https://openai.com/"><strong>OpenAI</strong></a> | Senior Support Engineer - San Francisco | San Francisco, United States |  | <a href="https://jobs.ashbyhq.com/openai/5431666c-530b-49c0-b67e-32477f9eaf5e/application"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 261d |
 | <a href="https://scale.com/"><strong>Scale AI</strong></a> | Solutions Engineer (Clearance Required) | Washington, DC |  | <a href="https://job-boards.greenhouse.io/scaleai/jobs/4663481005"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 263d |
 
-_41 live, 87 unverified_
+_40 live, 87 unverified_
 <!-- TABLE_SLICE_NA_SOLUTIONS_DEVOPS_END -->
 
 _2 hidden as first_seen >180d. Full set in jobs.db._

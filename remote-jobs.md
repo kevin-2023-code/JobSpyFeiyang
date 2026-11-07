@@ -1,6 +1,6 @@
 # Remote Jobs
 
-Last updated: **2026-11-07 07:24 UTC** · **45 curated** + **138 other** = **183** active remote roles.
+Last updated: **2026-11-07 15:21 UTC** · **44 curated** + **137 other** = **181** active remote roles.
 
 ## Curated companies (matches the JOBS.md allowlist)
 
@@ -45,7 +45,6 @@ Roles at companies on the curated `filters.include_companies` list in `monitor/c
 | <a href="https://www.anthropic.com/"><strong>Anthropic</strong></a> | Research Engineer, Machine Learning (RL Velocity) | Remote-Friendly (Travel-Required) · San Francisco, CA · New York City, NY |  | <a href="https://job-boards.greenhouse.io/anthropic/jobs/5198108008"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 198d |
 | <a href="https://www.anthropic.com/"><strong>Anthropic</strong></a> | Security Engineer - Threat Intel | New York City, NY; Remote-Friendly (Travel-Required) · San Francisco, CA · Washington, DC; San Francisco, CA |  | <a href="https://job-boards.greenhouse.io/anthropic/jobs/5195705008"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 200d |
 | <a href="https://openai.com/"><strong>OpenAI</strong></a> | Data Center Infrastructure Electrical Engineer | San Francisco, United States · Seattle, United States · US - Remote, United States |  | <a href="https://jobs.ashbyhq.com/openai/e602cd50-002d-4ace-bb30-19db0afcf635/application"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 202d |
-| <a href="https://simplify.jobs/c/Anthropic"><strong>Anthropic</strong></a> | Anthropic Fellows Program - ML Systems & Performance | London, UK · SF · Remote in USA |  | <a href="https://job-boards.greenhouse.io/anthropic/jobs/5183051008"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 211d |
 | <a href="https://www.anthropic.com/"><strong>Anthropic</strong></a> | Anthropic Fellows Program, ML Systems & Reinforcement Learning | London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA |  | <a href="https://job-boards.greenhouse.io/anthropic/jobs/5183051008"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 212d |
 | <a href="https://www.anthropic.com/"><strong>Anthropic</strong></a> | Data Center Controls Engineer | Remote-Friendly (Travel Required) · San Francisco, CA |  | <a href="https://job-boards.greenhouse.io/anthropic/jobs/5107890008"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 275d |
 | <a href="https://openai.com/"><strong>OpenAI</strong></a> | Security Engineer, Infrastructure Security | US - Remote, United States · New York City, United States · Seattle, United States |  | <a href="https://jobs.ashbyhq.com/openai/f51f750f-a737-4441-8f96-30133a2a8049/application"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 397d |
@@ -55,7 +54,7 @@ Roles at companies on the curated `filters.include_companies` list in `monitor/c
 | <a href="https://openai.com/"><strong>OpenAI</strong></a> | Security Engineer, Application Security | San Francisco, United States · US - Remote, United States |  | <a href="https://jobs.ashbyhq.com/openai/0322d6d8-6588-4209-a304-83e768063a25/application"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 766d |
 | <a href="https://www.anthropic.com/"><strong>Anthropic</strong></a> | Research Engineer, Knowledge Team | Remote-Friendly (Travel-Required) · San Francisco, CA · Seattle, WA |  | <a href="https://job-boards.greenhouse.io/anthropic/jobs/4017331008"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 928d |
 
-_45 live, 0 unverified_
+_44 live, 0 unverified_
 <!-- TABLE_SLICE_REMOTE_JOBS_CURATED_END -->
 
 ## All other remote roles
@@ -65,7 +64,6 @@ Everything else that surfaced from Remotive / RemoteOK / JobSpy / SimplifyJobs �
 <!-- TABLE_SLICE_REMOTE_JOBS_OTHER_START -->
 | Company | Position | Location | Salary | Posting | Age |
 |---|---|---|---|---|---|
-| **Thumbtack** | Senior Full Stack Engineer People Products | Remote · Toronto |  | <a href="https://remoteOK.com/remote-jobs/remote-senior-full-stack-engineer-people-products-thumbtack-1137693"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 1d |
 | <a href="https://ie.indeed.com/cmp/Systal-Technology-Solutions"><strong>Systal Technology Solutions</strong></a> | Senior Deskside Support Engineer - Onsite / Remote | Leopardstown, D, IE |  | <a href="https://ie.indeed.com/viewjob?jk=d58cd3517b50d775"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 1d |
 | <a href="https://pl.indeed.com/cmp/Samsara-c284c6d2"><strong>Samsara</strong></a> | Senior Software Engineer, Agentic Customer Platform (Poland, Remote, B2B) | Warszawa, MZ, PL |  | <a href="https://pl.indeed.com/viewjob?jk=9e706e76c717b7aa"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 1d |
 | <a href="http://insiderone.com/"><strong>Insider One</strong></a> | Junior Software Engineer - Backend - AI-Enabled — Remote | Turkey |  | <a href="https://jobs.lever.co/insiderone/176f6234-e706-492e-a984-9eee80d28d22"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 1d |
@@ -160,6 +158,7 @@ Everything else that surfaced from Remotive / RemoteOK / JobSpy / SimplifyJobs �
 | <a href="https://spruceid.com"><strong>Spruce</strong></a> | Full-Stack Software Engineer - New Grad - Remote | USA |  | <a href="https://jobs.ashbyhq.com/spruceid/3d182b7f-482e-45b2-8668-f04f0b5fda8e"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 29d |
 | **Lemon.io** | Senior React Full stack Developer | Remote · Worldwide | $80k-200k/yr | <a href="https://remoteOK.com/remote-jobs/remote-senior-react-full-stack-developer-lemon-io-1137475"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 29d |
 | <a href="https://www.amerisourcebergen.com"><strong>AmerisourceBergen</strong></a> | Software Engineer 1 | Remote - Lublin, Poland |  | <a href="https://myhrabc.wd5.myworkdayjobs.com/en-US/global/job/Remote-Poland/Software-Engineer-1_R2616789"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 30d |
+| **Upstart** | Applied Scientist Intern | Remote · United States |  | <a href="https://go.vansh.nyc/1m4"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 31d |
 | **Veterans United Home Loans** | Software Engineer Intern | Remote · United States |  | <a href="https://go.vansh.nyc/g4"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 32d |
 | <a href="https://www.sarnova.com"><strong>Sarnova</strong></a> | Software Engineer - Digitech - Remote | Chappaqua, NY |  | <a href="https://jobs.dayforcehcm.com/en-US/sarnova/candidateportal/jobs/1758"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 32d |
 | **Cadence Solutions** | Software Engineer Intern | Remote · United States |  | <a href="https://go.vansh.nyc/Fv"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 32d |
@@ -197,11 +196,10 @@ Everything else that surfaced from Remotive / RemoteOK / JobSpy / SimplifyJobs �
 | **Harbor** | Consultant Implementation Engineer | Remote |  | <a href="https://remoteOK.com/remote-jobs/remote-consultant-implementation-engineer-harbor-1136987"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 79d |
 | **Pivotal Health** | Senior Software Engineer Case Execution | Remote · New York City | $190k-220k/yr | <a href="https://remoteOK.com/remote-jobs/remote-senior-software-engineer-case-execution-pivotal-health-1136795"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 83d |
 | <a href="https://simplify.jobs/c/Canonical"><strong>Canonical</strong></a> | Software Engineer - Secure Container Images | Remote in Christmas Island · Remote in Mali · Remote in Cyprus |  | <a href="https://job-boards.greenhouse.io/canonical/jobs/8130859"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 85d |
-| **SEAhub Asia** | Data Analyst | Remote · Kuala Lumpur, Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia |  | <a href="https://remoteOK.com/remote-jobs/remote-data-analyst-seahub-asia-1136222"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 95d |
 | **Deepgram** | Software Engineering Intern | Remote · US |  | <a href="https://go.vansh.nyc/3S"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 106d |
 | <a href="https://simplify.jobs/c/Kinaxis"><strong>Kinaxis</strong></a> | Software Developer - Data Ingestion - Developer Framework | Canada · Remote in Canada |  | <a href="https://kinaxis.jibeapply.com/jobs/34791?icims=1"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 177d |
 
-_0 live, 135 unverified_
+_0 live, 134 unverified_
 <!-- TABLE_SLICE_REMOTE_JOBS_OTHER_END -->
 
 _3 hidden as first_seen >180d. Full set in jobs.db._

@@ -1,12 +1,11 @@
 # EMEA Junior ML Engineer / Applied Scientist Roles
 
-Last updated: **2026-11-07 07:24 UTC** · **147** active roles.
+Last updated: **2026-11-07 15:21 UTC** · **145** active roles.
 
 <!-- TABLE_SLICE_EMEA_JUNIOR_MLE_START -->
 | Company | Position | Location | Posting | Age |
 |---|---|---|---|---|
 | <a href="https://fi.indeed.com/cmp/Veikkaus-Oy"><strong>Veikkaus Oy</strong></a> | Data Scientist | Helsinki, F19, FI | <a href="https://fi.indeed.com/viewjob?jk=8561ec29f19f2b59"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 1d |
-| <a href="https://uk.indeed.com/cmp/The-Gym-Group"><strong>The Gym Group</strong></a> | Applied AI Engineer | Clapham Junction, ENG, GB | <a href="https://uk.indeed.com/viewjob?jk=d28dfe69cc35172e"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 1d |
 | <a href="https://de.indeed.com/cmp/Systec-Computer-Gmbh-1"><strong>SysTec Computer GmbH</strong></a> | KI-Macher / AI Developer / AI Engineer / neugieriger Kopf (d/m/w) | Ingolstadt, BY, DE | <a href="https://de.indeed.com/viewjob?jk=56425de321383389"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 1d |
 | <a href="https://se.indeed.com/cmp/Scandinavian-Airlines-System-(sas)"><strong>Scandinavian Airlines System (SAS)</strong></a> | DATA SCIENTIST | Solna, AB, SE | <a href="https://se.indeed.com/viewjob?jk=f80200d4fadbe8c4"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 1d |
 | <a href="https://de.indeed.com/cmp/Shi-Gmbh-1"><strong>SHI Gmbh</strong></a> | Trainee AI Engineer – Developer Productivity (m/w/d) | Augsburg, BY, DE | <a href="https://de.indeed.com/viewjob?jk=327b10c9b0598e0c"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 1d |
@@ -18,7 +17,6 @@ Last updated: **2026-11-07 07:24 UTC** · **147** active roles.
 | <a href="https://es.indeed.com/cmp/Bbva"><strong>BBVA</strong></a> | Principal Innovation in AI Engineering and Harness | Madrid, MD, ES | <a href="https://es.indeed.com/viewjob?jk=13470075e64df052"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 1d |
 | <a href="https://es.indeed.com/cmp/Aristocrat-5"><strong>Aristocrat</strong></a> | Data Scientist | Barcelona, CT, ES | <a href="https://es.indeed.com/viewjob?jk=92e04c20a61fe492"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 1d |
 | <a href="https://de.indeed.com/cmp/Wabtec"><strong>Wabtec</strong></a> | Working Student – AI Engineering (m/w/d) | München, BY, DE | <a href="https://de.indeed.com/viewjob?jk=48338749ccf36263"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 2d |
-| <a href="https://fr.indeed.com/cmp/Soci%C3%A9t%C3%A9-G%C3%A9n%C3%A9rale-1"><strong>Société Générale</strong></a> | Data Scientist & AI Engineer - Business Intelligence - IT (Systèmes d'information) - La Defense, Ile de France, France | Paris, A8, FR | <a href="https://fr.indeed.com/viewjob?jk=9ac9a58ded8de451"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 2d |
 | <a href="https://pl.indeed.com/cmp/Scalo-6"><strong>Scalo</strong></a> | (12192) AI Engineer | Warszawa, MZ, PL | <a href="https://pl.indeed.com/viewjob?jk=13b20aef2a050318"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 2d |
 | <a href="https://simplify.jobs/c/Pfizer"><strong>Pfizer</strong></a> | Associate AI Engineering | United Kingdom | <a href="https://pfizer.wd1.myworkdayjobs.com/internaljobs/job/United-Kingdom---Walton-Oaks/Associate--AI-Engineering_4966818"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 2d |
 | <a href="https://pl.indeed.com/cmp/Nexio-Management"><strong>Nexio Management</strong></a> | AI Engineer - Agentic AI (k/m/n) | Warszawa, MZ, PL | <a href="https://pl.indeed.com/viewjob?jk=43697284428e60df"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 2d |
@@ -151,7 +149,7 @@ Last updated: **2026-11-07 07:24 UTC** · **147** active roles.
 | <a href="https://www.anthropic.com/"><strong>Anthropic</strong></a> | Research Engineer, Pretraining Scaling - London | London, UK | <a href="https://job-boards.greenhouse.io/anthropic/jobs/4938436008"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 403d |
 | <a href="https://www.anthropic.com/"><strong>Anthropic</strong></a> | [Expression of Interest] Research Engineer / Scientist, Alignment - London | London, UK | <a href="https://job-boards.greenhouse.io/anthropic/jobs/4610158008"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 586d |
 
-_43 live, 102 unverified_
+_43 live, 100 unverified_
 <!-- TABLE_SLICE_EMEA_JUNIOR_MLE_END -->
 
 _2 hidden as first_seen >180d. Full set in jobs.db._
