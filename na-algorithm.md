@@ -1,6 +1,6 @@
 # North America Algorithm Engineer Roles (算法岗)
 
-Last updated: **2026-11-08 07:27 UTC** · **470** active roles.
+Last updated: **2026-11-08 15:22 UTC** · **470** active roles.
 
 <!-- TABLE_SLICE_NA_ALGORITHM_START -->
 | Company | Position | Location | Salary | Posting | Age |
@@ -123,6 +123,7 @@ Last updated: **2026-11-08 07:27 UTC** · **470** active roles.
 | <a href="https://simplify.jobs/c/GenBio-AI"><strong>GenBio AI</strong></a> | Research Scientist Intern - AI Molecular Design | Palo Alto, CA |  | <a href="https://jobs.lever.co/genbio/7d0b5764-48ce-4d06-93d2-431742d35604/apply"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 31d |
 | **Upstart** | Applied Scientist Intern | Remote · United States |  | <a href="https://go.vansh.nyc/1m4"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 32d |
 | <a href="https://simplify.jobs/c/NVIDIA"><strong>NVIDIA</strong></a> | Research Scientist PhD New Grad - Autonomous Systems and Physical AI Research | Santa Clara, CA |  | <a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Autonomous-Systems-and-Physical-AI-Research---PhD-New-College-Grad-2026_JR2027551"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 32d |
+| **Center for AI Safety (CAIS)** | Research Engineer Intern | San Francisco, CA |  | <a href="https://go.vansh.nyc/1mP"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 34d |
 | **Bobyard** | Computer Vision Research Engineer Intern | San Francisco, CA |  | <a href="https://go.vansh.nyc/ES"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 34d |
 | <a href="https://simplify.jobs/c/Adobe"><strong>Adobe</strong></a> | Applied and Research Scientist/Engineer Intern | Cambridge, MA · Seattle, WA · College Park, MD |  | <a href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Applied-and-Research-Scientist-Engineer_R172064"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 34d |
 | <a href="https://simplify.jobs/c/Interdigital"><strong>Interdigital</strong></a> | Research Engineer - 6G AI-Enabled Systems and Testbeds | Conshohocken, PA |  | <a href="https://interdigital.wd5.myworkdayjobs.com/InterDigital_Career/job/Conshohocken-PA/Research-Engineer---6G-AI-Enabled-Systems-and-Testbeds_REQ26-1144"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 37d |
@@ -443,7 +444,6 @@ Last updated: **2026-11-08 07:27 UTC** · **470** active roles.
 | <a href="https://simplify.jobs/c/TikTok"><strong>TikTok</strong></a> | Vision Language Models/Vision Language Models Research Scientist Graduate - Trust and Safety - PhD | San Jose, CA |  | <a href="https://lifeattiktok.com/search/7594895259798325557"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 222d |
 | <a href="https://simplify.jobs/c/TikTok"><strong>TikTok</strong></a> | Machine Learning Scientist Intern - Global E-Commerce Content Recommendation | Seattle, WA |  | <a href="https://lifeattiktok.com/search/7525650208522193159"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 222d |
 | <a href="https://scale.com/"><strong>Scale AI</strong></a> | Research Scientist, AI Safety and Alignment | San Francisco, CA; New York, NY |  | <a href="https://job-boards.greenhouse.io/scaleai/jobs/4675684005"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 233d |
-| <a href="https://simplify.jobs/c/ByteDance"><strong>ByteDance</strong></a> | Research Scientist - Seed Model - Vision | San Jose, CA |  | <a href="https://jobs.bytedance.com/en/position/7362026100950321459/detail"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 240d |
 | <a href="https://scale.com/"><strong>Scale AI</strong></a> | Senior/Staff Machine Learning Research Engineer, General Agents, Enterprise GenAI | San Francisco, CA; New York, NY |  | <a href="https://job-boards.greenhouse.io/scaleai/jobs/4658162005"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 271d |
 | <a href="https://scale.com/"><strong>Scale AI</strong></a> | Staff Machine Learning Engineer, Public Sector | Denver, CO; Washington, DC |  | <a href="https://job-boards.greenhouse.io/scaleai/jobs/4654382005"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 282d |
 | <a href="https://www.anthropic.com/"><strong>Anthropic</strong></a> | Research Engineer, Visual Knowledge Work | New York City, NY; San Francisco, CA; Seattle, WA |  | <a href="https://job-boards.greenhouse.io/anthropic/jobs/5074217008"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 296d |
@@ -474,7 +474,7 @@ Last updated: **2026-11-08 07:27 UTC** · **470** active roles.
 | <a href="https://www.anthropic.com/"><strong>Anthropic</strong></a> | Research Engineer, Knowledge Team | Remote-Friendly (Travel-Required) · San Francisco, CA · Seattle, WA |  | <a href="https://job-boards.greenhouse.io/anthropic/jobs/4017331008"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 929d |
 | <a href="https://www.anthropic.com/"><strong>Anthropic</strong></a> | Staff+ Research Scientist, Multi-Agent | San Francisco, CA · New York City, NY · Seattle, WA |  | <a href="https://job-boards.greenhouse.io/anthropic/jobs/4017544008"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 930d |
 
-_346 live, 122 unverified_
+_345 live, 123 unverified_
 <!-- TABLE_SLICE_NA_ALGORITHM_END -->
 
 _2 hidden as first_seen >180d. Full set in jobs.db._

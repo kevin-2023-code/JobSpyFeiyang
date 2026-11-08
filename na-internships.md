@@ -1,6 +1,6 @@
 # North America Internships
 
-Last updated: **2026-11-08 07:27 UTC** · **3757** active roles.
+Last updated: **2026-11-08 15:22 UTC** · **3757** active roles.
 
 <!-- TABLE_SLICE_NA_INTERN_ONLY_START -->
 | Company | Position | Location | Salary | Posting | Age |
@@ -451,7 +451,6 @@ Last updated: **2026-11-08 07:27 UTC** · **3757** active roles.
 | **NXP** | HW/SW System and Application Engineer Intern | Chandler, AZ |  | <a href="https://go.vansh.nyc/19K"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 6d |
 | <a href="https://simplify.jobs/c/NOV"><strong>NOV</strong></a> | Marketing and Data Analyst Intern | Houston, TX |  | <a href="https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/45288"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 6d |
 | <a href="https://simplify.jobs/c/NASA-JPL"><strong>NASA Jet Propulsion Laboratory</strong></a> | Electrical & Computer Engineering Intern - Flight Communications and Tracking Section - GNSS, Radiometric & Gravity Sensing Instruments Group | Pasadena, CA |  | <a href="https://citjpl.wd5.myworkdayjobs.com/Jobs/job/JPL-Campus/Academic-Part-Time-Intern_R6220"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 6d |
-| <a href="https://simplify.jobs/c/Microsoft"><strong>Microsoft</strong></a> | Explore Program Engineering Intern | Redmond, WA |  | <a href="https://apply.careers.microsoft.com/careers/job/1970393556925823"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 6d |
 | **Microsoft** | First-Year Explore Program Engineering Intern | Redmond, WA |  | <a href="https://go.vansh.nyc/199"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 6d |
 | **Microsoft** | Software Engineer Intern | Aliso Viejo, CA |  | <a href="https://go.vansh.nyc/19z"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 6d |
 | <a href="https://simplify.jobs/c/Micron-Technology"><strong>Micron Technology</strong></a> | System Engineer Intern | Boise, ID |  | <a href="https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---System-Engineer--HBM_JR113469"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 6d |
@@ -505,6 +504,7 @@ Last updated: **2026-11-08 07:27 UTC** · **3757** active roles.
 | **TikTok** | Fullstack Software Engineer Intern, Global E-Commerce | San Jose, CA |  | <a href="https://go.vansh.nyc/18i"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 7d |
 | **TikTok** | Machine Learning Engineer Intern, Visual Search | San Jose, CA |  | <a href="https://go.vansh.nyc/18j"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 7d |
 | **TikTok** | Machine Learning Engineer Intern, Recommendation Global E-Commerce | Seattle, WA |  | <a href="https://go.vansh.nyc/18l"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 7d |
+| **TikTok** | Software Engineer Intern, Ads Infrastructure | San Jose, CA |  | <a href="https://go.vansh.nyc/18m"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 7d |
 
 _73 live, 427 unverified_
 <!-- TABLE_SLICE_NA_INTERN_ONLY_END -->

@@ -1,10 +1,11 @@
 # EMEA Junior ML Engineer / Applied Scientist Roles
 
-Last updated: **2026-11-08 07:27 UTC** · **149** active roles.
+Last updated: **2026-11-08 15:22 UTC** · **150** active roles.
 
 <!-- TABLE_SLICE_EMEA_JUNIOR_MLE_START -->
 | Company | Position | Location | Posting | Age |
 |---|---|---|---|---|
+| <a href="https://uk.indeed.com/cmp/Dot-On-Technologies-Limited-1"><strong>Dot On Technologies Limited</strong></a> | ML Engineer | Monmouth, WLS, GB | <a href="https://uk.indeed.com/viewjob?jk=74a18d9a5470251a"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 0d |
 | <a href="https://it.indeed.com/cmp/Sea-Vision"><strong>SEA Vision</strong></a> | AI ENGINEER | LOM, IT | <a href="https://it.indeed.com/viewjob?jk=4ffb38cbc5c5a8eb"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 1d |
 | <a href="https://de.indeed.com/cmp/Clera"><strong>CLERA</strong></a> | Founding Machine Learning Engineer | München, BY, DE | <a href="https://de.indeed.com/viewjob?jk=ad8e42155df3e32d"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 1d |
 | <a href="https://fi.indeed.com/cmp/Veikkaus-Oy"><strong>Veikkaus Oy</strong></a> | Data Scientist | Helsinki, F19, FI | <a href="https://fi.indeed.com/viewjob?jk=8561ec29f19f2b59"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 2d |
@@ -48,6 +49,7 @@ Last updated: **2026-11-08 07:27 UTC** · **149** active roles.
 | <a href="https://ch.indeed.com/cmp/Fuse-Energy"><strong>Fuse Energy</strong></a> | Applied AI Engineer | Zürich, ZH, CH | <a href="https://ch.indeed.com/viewjob?jk=8dfe5ed6dd66a97e"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 4d |
 | <a href="https://ch.indeed.com/cmp/Eth-Zurich-4"><strong>ETH Zurich</strong></a> | Doctoral Position in Machine Learning for Engineering Design | Zürich, ZH, CH | <a href="https://ch.indeed.com/viewjob?jk=19f525b09fbcc9a6"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 4d |
 | <a href="https://fr.indeed.com/cmp/Cr%C3%A9dit-Agricole-1"><strong>Crédit Agricole</strong></a> | Gen AI Engineer H/F | La Défense, A8, FR | <a href="https://fr.indeed.com/viewjob?jk=5a2c6cb07503f536"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 4d |
+| <a href="https://nl.indeed.com/cmp/Basic--fit"><strong>Basic-Fit</strong></a> | Data Scientist | Hoofddorp, NH, NL | <a href="https://nl.indeed.com/viewjob?jk=afbf265b6a1dea6c"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 4d |
 | <a href="https://it.indeed.com/cmp/Altea-Federation"><strong>Altea Federation</strong></a> | Data Scientist | Milano, LOM, IT | <a href="https://it.indeed.com/viewjob?jk=f72d6ee03ce89a26"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 4d |
 | <a href="https://uk.indeed.com/cmp/Ajw-Group"><strong>AJW Group</strong></a> | AI Engineer | Slinfold, ENG, GB | <a href="https://uk.indeed.com/viewjob?jk=8faba5258a1bd12a"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 4d |
 | <a href="https://nl.indeed.com/cmp/Adesso-Netherlands"><strong>adesso Netherlands</strong></a> | Medior AI Engineer | Utrecht, UT, NL | <a href="https://nl.indeed.com/viewjob?jk=3551b9236f8b7ea4"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 5d |
@@ -79,7 +81,6 @@ Last updated: **2026-11-08 07:27 UTC** · **149** active roles.
 | <a href="https://il.indeed.com/cmp/Pi-Security-LLC"><strong>PI Security LLC</strong></a> | AI Engineer | תל אביב -יפו, TA, IL | <a href="https://il.indeed.com/viewjob?jk=3c70c7eae6e99f92"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 6d |
 | <a href="https://il.indeed.com/cmp/Natural-Intelligence"><strong>Natural Intelligence</strong></a> | Data AI Engineer | יפו, TA, IL | <a href="https://il.indeed.com/viewjob?jk=a7c2cd776940f1b0"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 6d |
 | <a href="https://nl.indeed.com/cmp/Humantotalcare"><strong>HumanTotalCare</strong></a> | Data Scientist | Utrecht Zuidwest, UT, NL | <a href="https://nl.indeed.com/viewjob?jk=77fc1513a0a244f4"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 6d |
-| <a href="https://il.indeed.com/cmp/%D7%9E%D7%98%D7%A8%D7%99%D7%A7%D7%A1"><strong>מטריקס</strong></a> | לארגון מוביל דרוש/ה AI Agent Maker/ AI Engineer | השפלה, M, IL | <a href="https://il.indeed.com/viewjob?jk=4ac1be45da98c78f"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 7d |
 | <a href="https://fr.indeed.com/cmp/Licorne-Society-2"><strong>Licorne Society</strong></a> | Consultant(e) Data Scientist / AI Engineer | Paris, A8, FR | <a href="https://fr.indeed.com/viewjob?jk=012ca8bd36586af8"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 7d |
 | <a href="https://thermofisher.com"><strong>Thermo Fisher Scientific</strong></a> | Software Engineering / AI Engineering Intern | Eindhoven, The Netherlands | <a href="https://thermofisher.wd5.myworkdayjobs.com/en-US/thermofishercareers/job/Eindhoven-Netherlands/Software-Engineering---AI-Engineering-Intern_R-01374129-1"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 8d |
 | <a href="https://simplify.jobs/c/Prima"><strong>Prima</strong></a> | Data Scientist | London, UK | <a href="https://jobs.eu.lever.co/prima/7235919b-0049-4a96-8b1f-8c3650a1c823/apply"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 11d |
@@ -153,7 +154,7 @@ Last updated: **2026-11-08 07:27 UTC** · **149** active roles.
 | <a href="https://www.anthropic.com/"><strong>Anthropic</strong></a> | Research Engineer, Pretraining Scaling - London | London, UK | <a href="https://job-boards.greenhouse.io/anthropic/jobs/4938436008"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 404d |
 | <a href="https://www.anthropic.com/"><strong>Anthropic</strong></a> | [Expression of Interest] Research Engineer / Scientist, Alignment - London | London, UK | <a href="https://job-boards.greenhouse.io/anthropic/jobs/4610158008"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 587d |
 
-_43 live, 104 unverified_
+_43 live, 105 unverified_
 <!-- TABLE_SLICE_EMEA_JUNIOR_MLE_END -->
 
 _2 hidden as first_seen >180d. Full set in jobs.db._

@@ -1,6 +1,6 @@
 # North America Junior ML Engineer / Applied Scientist Roles
 
-Last updated: **2026-11-08 07:27 UTC** · **680** active roles.
+Last updated: **2026-11-08 15:22 UTC** · **681** active roles.
 
 <!-- TABLE_SLICE_NA_JUNIOR_MLE_START -->
 | Company | Position | Location | Salary | Posting | Age |
@@ -262,6 +262,7 @@ Last updated: **2026-11-08 07:27 UTC** · **680** active roles.
 | <a href="https://simplify.jobs/c/SOTI"><strong>SOTI</strong></a> | Data Scientist Intern | Mississauga, ON, Canada |  | <a href="https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Data-Scientist--Intern--Jan-2027-12-Months-_R10571"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 34d |
 | <a href="https://simplify.jobs/c/Micron-Technology"><strong>Micron Technology</strong></a> | AI Engineer Intern - SMAI TD AI Engineering Team | Boise, ID |  | <a href="https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---SMAI-TD-AI-Engineering-Team_JR112991"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 34d |
 | <a href="https://simplify.jobs/c/General-Motors"><strong>General Motors</strong></a> | AI/ML Engineer Intern - Mapping | Warren, MI |  | <a href="https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping_JR-202621778"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 34d |
+| **Center for AI Safety (CAIS)** | Research Engineer Intern | San Francisco, CA |  | <a href="https://go.vansh.nyc/1mP"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 34d |
 | **Bobyard** | Computer Vision Research Engineer Intern | San Francisco, CA |  | <a href="https://go.vansh.nyc/ES"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 34d |
 | <a href="https://simplify.jobs/c/Keysight-Technologies-Inc"><strong>Keysight Technologies</strong></a> | Data Scientist Intern | Santa Rosa, CA |  | <a href="https://jobs.keysight.com/jobs/54570?icims=1"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 35d |
 | <a href="https://www.affirm.com"><strong>Affirm</strong></a> | Software Engineer - Machine Learning Intern - Summer 2027 | San Francisco, CA |  | <a href="https://job-boards.greenhouse.io/affirm/jobs/8008645003"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 35d |
@@ -504,9 +505,8 @@ Last updated: **2026-11-08 07:27 UTC** · **680** active roles.
 | <a href="https://simplify.jobs/c/ByteDance"><strong>ByteDance</strong></a> | Agent Evaluation & Evolution Researcher Graduate - Applied Machine Learning Ark | San Jose, CA |  | <a href="https://jobs.bytedance.com/en/position/7671095905295075637/detail"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 90d |
 | <a href="https://simplify.jobs/c/ByteDance"><strong>ByteDance</strong></a> | Visual Generation & Multimodal Evaluation Machine Learning Engineer Graduate - Applied Machine Learning Ark | San Jose, CA |  | <a href="https://jobs.bytedance.com/en/position/7671102043532462389/detail"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 90d |
 | <a href="https://simplify.jobs/c/ByteDance"><strong>ByteDance</strong></a> | Data Lake Infrastructure & Data Analytics Research Engineer Graduate - Applied Machine Learning Ark | San Jose, CA |  | <a href="https://jobs.bytedance.com/en/position/7671107540954777861/detail"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 90d |
-| <a href="https://simplify.jobs/c/ByteDance"><strong>ByteDance</strong></a> | Data Lake Infrastructure and Data Analytics Research Engineer Intern - Applied Machine Learning Ark | San Jose, CA |  | <a href="https://jobs.bytedance.com/en/position/7671109787509213445/detail"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 90d |
 
-_181 live, 319 unverified_
+_180 live, 320 unverified_
 <!-- TABLE_SLICE_NA_JUNIOR_MLE_END -->
 
-_showing newest 500 of 673 active rows (cap 500); 7 hidden as first_seen >180d. Full set in jobs.db._
+_showing newest 500 of 674 active rows (cap 500); 7 hidden as first_seen >180d. Full set in jobs.db._

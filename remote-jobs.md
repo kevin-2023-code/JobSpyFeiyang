@@ -1,6 +1,6 @@
 # Remote Jobs
 
-Last updated: **2026-11-08 07:27 UTC** · **44 curated** + **140 other** = **184** active remote roles.
+Last updated: **2026-11-08 15:22 UTC** · **44 curated** + **140 other** = **184** active remote roles.
 
 ## Curated companies (matches the JOBS.md allowlist)
 
