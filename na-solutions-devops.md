@@ -1,10 +1,11 @@
 # North America Solutions / Customer / DevOps Roles
 
-Last updated: **2026-11-09 07:26 UTC** · **129** active roles.
+Last updated: **2026-11-09 15:22 UTC** · **130** active roles.
 
 <!-- TABLE_SLICE_NA_SOLUTIONS_DEVOPS_START -->
 | Company | Position | Location | Salary | Posting | Age |
 |---|---|---|---|---|---|
+| <a href="https://openai.com/"><strong>OpenAI</strong></a> | Solutions Engineer, Ads Solutions - NYC | San Francisco, United States |  | <a href="https://jobs.ashbyhq.com/openai/eb3b695e-6c60-4875-b8bc-8f4d5d8a9bbb/application"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 0d |
 | <a href="https://www.varda.com"><strong>Varda</strong></a> | Site Reliability Internship - Summer 2027 | El Segundo, CA |  | <a href="https://job-boards.greenhouse.io/vardaspace/jobs/8198267003"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 1d |
 | <a href="https://www.spacex.com"><strong>SpaceX</strong></a> | Site Reliability Engineer - Starlink | Hawthorne, CA +2 |  | <a href="https://boards.greenhouse.io/spacex/jobs/8932369002?gh_jid=8932369002"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 2d |
 | **Corning** | HPC DevOps Engineer Intern, Science & Technology | Corning, NY |  | <a href="https://go.vansh.nyc/1lY"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 2d |
@@ -133,7 +134,7 @@ Last updated: **2026-11-09 07:26 UTC** · **129** active roles.
 | <a href="https://openai.com/"><strong>OpenAI</strong></a> | Senior Support Engineer - San Francisco | San Francisco, United States |  | <a href="https://jobs.ashbyhq.com/openai/5431666c-530b-49c0-b67e-32477f9eaf5e/application"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 263d |
 | <a href="https://scale.com/"><strong>Scale AI</strong></a> | Solutions Engineer (Clearance Required) | Washington, DC |  | <a href="https://job-boards.greenhouse.io/scaleai/jobs/4663481005"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 265d |
 
-_39 live, 88 unverified_
+_40 live, 88 unverified_
 <!-- TABLE_SLICE_NA_SOLUTIONS_DEVOPS_END -->
 
 _2 hidden as first_seen >180d. Full set in jobs.db._
