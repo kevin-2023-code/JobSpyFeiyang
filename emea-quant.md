@@ -1,10 +1,11 @@
 # EMEA Quant & Trading Roles
 
-Last updated: **2026-11-10 07:25 UTC** · **27** active roles.
+Last updated: **2026-11-10 15:24 UTC** · **28** active roles.
 
 <!-- TABLE_SLICE_EMEA_QUANT_START -->
 | Company | Position | Location | Posting | Age |
 |---|---|---|---|---|
+| <a href="https://uk.indeed.com/cmp/Wes-Group"><strong>WES Group</strong></a> | Backend Software Engineering Intern — Trading Systems & Web3 | London, ENG, GB | <a href="https://uk.indeed.com/viewjob?jk=15c71f27e3d17fb6"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 0d |
 | <a href="https://www.vontobel.com"><strong>Vontobel</strong></a> | Early Careers Internship Program Investments -Data Engineer or Quant Developer - 80-100% | Zurich, Switzerland | <a href="https://vontobel.wd3.myworkdayjobs.com/en-US/linkedin/job/Zrich--Genferstrasse-27/Early-Careers-Internship-Program-Investments--Data-Engineer-or-Quant-Developer--80-100--_9579"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 4d |
 | <a href="https://at.indeed.com/cmp/Omv-Aktiengesellschaft"><strong>OMV Aktiengesellschaft</strong></a> | Expert Data Engineer, Digital Trading Solutions (gn) | Wien, W, AT | <a href="https://at.indeed.com/viewjob?jk=e79799cc00d162b0"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 4d |
 | <a href="https://ch.indeed.com/cmp/Vontobel"><strong>Vontobel</strong></a> | Early Careers Internship Program Investments –Data Engineer or Quant Developer (80-100%) | Zürich, ZH, CH | <a href="https://ch.indeed.com/viewjob?jk=1dfdca7798a7b3da"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 5d |
@@ -31,7 +32,7 @@ Last updated: **2026-11-10 07:25 UTC** · **27** active roles.
 | <a href="https://simplify.jobs/c/Jane-Street"><strong>Jane Street</strong></a> | Trading Desk Operations Engineer Intern | London, UK | <a href="https://www.janestreet.com/join-jane-street/apply/8700980002?gh_jid=8700980002"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 88d |
 | <a href="https://simplify.jobs/c/GlobalFoundries"><strong>GlobalFoundries</strong></a> | New Graduate Heterogeneous Integration Engineer - Quantum Cryogenic 3D Packaging | Malta, NY · Burlington, VT · Leuven, Belgium | <a href="https://globalfoundries.wd1.myworkdayjobs.com/External/job/Leuven/NCG-3D-Heterogeneous-Integration-Engineer-Cryogenic-3D-packaging_JR-2601211"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 136d |
 
-_1 live, 24 unverified_
+_1 live, 25 unverified_
 <!-- TABLE_SLICE_EMEA_QUANT_END -->
 
 _2 hidden as first_seen >180d. Full set in jobs.db._
