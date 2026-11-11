@@ -1,6 +1,6 @@
 # North America Algorithm Engineer Roles (算法岗)
 
-Last updated: **2026-11-11 07:25 UTC** · **476** active roles.
+Last updated: **2026-11-11 15:24 UTC** · **475** active roles.
 
 <!-- TABLE_SLICE_NA_ALGORITHM_START -->
 | Company | Position | Location | Salary | Posting | Age |
@@ -457,4 +457,4 @@ Last updated: **2026-11-11 07:25 UTC** · **476** active roles.
 _319 live, 129 unverified_
 <!-- TABLE_SLICE_NA_ALGORITHM_END -->
 
-_28 hidden as first_seen >180d. Full set in jobs.db._
+_27 hidden as first_seen >180d. Full set in jobs.db._

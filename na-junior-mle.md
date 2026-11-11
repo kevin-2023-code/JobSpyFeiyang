@@ -1,6 +1,6 @@
 # North America Junior ML Engineer / Applied Scientist Roles
 
-Last updated: **2026-11-11 07:25 UTC** · **675** active roles.
+Last updated: **2026-11-11 15:24 UTC** · **675** active roles.
 
 <!-- TABLE_SLICE_NA_JUNIOR_MLE_START -->
 | Company | Position | Location | Salary | Posting | Age |
@@ -412,7 +412,7 @@ Last updated: **2026-11-11 07:25 UTC** · **675** active roles.
 | <a href="https://simplify.jobs/c/Booz-Allen"><strong>Booz Allen</strong></a> | Data Scientist Intern - 2027 Summer Games | Honolulu, HI |  | <a href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/University---2027-Summer-Games--Data-Scientist-Intern---Honolulu--HI_R0248406"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 71d |
 | <a href="https://simplify.jobs/c/American-Express"><strong>American Express</strong></a> | AI Engineer | Phoenix, AZ |  | <a href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013254"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 71d |
 | <a href="https://simplify.jobs/c/AeroVironment"><strong>AeroVironment</strong></a> | Machine Learning Intern | Centreville, VA · Minneapolis, MN |  | <a href="https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Minneapolis-MN/Summer-2027-Machine-Learning-Intern_8389"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 71d |
-| <a href="https://simplify.jobs/c/AMD"><strong>AMD</strong></a> | Machine Learning/Artificial Intelligence Intern/Co-op | Markham, ON, Canada |  | <a href="https://careers.amd.com/jobs/91363?icims=1"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 71d |
+| <a href="https://simplify.jobs/c/AMD"><strong>AMD</strong></a> | Machine Learning/Artificial Intelligence Intern/Co-op | Markham, ON, Canada |  | <a href="https://careers.amd.com/jobs/90383?icims=1"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 71d |
 | <a href="https://simplify.jobs/c/Integra-FEC"><strong>Integra FEC</strong></a> | Data Scientist Intern - PhD | Austin, TX |  | <a href="https://job-boards.greenhouse.io/integrainterns/jobs/5406093008"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 72d |
 | <a href="https://simplify.jobs/c/Integra-FEC"><strong>Integra FEC</strong></a> | Data Scientist Intern | Austin, TX |  | <a href="https://job-boards.greenhouse.io/integrainterns/jobs/5406095008"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 72d |
 | <a href="https://simplify.jobs/c/C3ai"><strong>C3.ai</strong></a> | Data Scientist Intern - Summer 2027 | Redwood City, CA |  | <a href="https://c3.ai/job-description/8738918002?gh_jid=8738918002"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 72d |

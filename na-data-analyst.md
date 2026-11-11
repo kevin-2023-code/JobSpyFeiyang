@@ -1,6 +1,6 @@
 # North America Data Analyst Roles
 
-Last updated: **2026-11-11 07:25 UTC** · **173** active roles.
+Last updated: **2026-11-11 15:24 UTC** · **174** active roles.
 
 <!-- TABLE_SLICE_NA_DATA_ANALYST_START -->
 | Company | Position | Location | Posting | Age |
@@ -74,6 +74,7 @@ Last updated: **2026-11-11 07:25 UTC** · **173** active roles.
 | <a href="https://simplify.jobs/c/Trace3"><strong>Trace3</strong></a> | Data and Analytics Engineer Intern | Irvine, CA | <a href="https://job-boards.greenhouse.io/trace3/jobs/8274818"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 21d |
 | **Paccar** | Field Service Data Analyst Intern | Kirkland, WA | <a href="https://go.vansh.nyc/dd"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 22d |
 | <a href="https://www.bracebridgecapital.com/"><strong>Bracebridge Capital</strong></a> | Northeastern University Software Engineer - Business Intelligence Co-op | Boston, MA | <a href="https://job-boards.greenhouse.io/bracebridgecapital/jobs/4744999005"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 22d |
+| <a href="https://simplify.jobs/c/Anduril"><strong>Anduril</strong></a> | Finance Data Analyst Intern | Costa Mesa, CA | <a href="https://boards.greenhouse.io/andurilindustries/jobs/5269977007"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 22d |
 | **Paccar** | Warranty Data Analyst Intern | Kirkland, WA | <a href="https://go.vansh.nyc/cf"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 23d |
 | **Nintendo** | Business Intelligence Intern | Redmond, WA | <a href="https://go.vansh.nyc/1tL"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 23d |
 | **Lumentum** | Optical Algorithms and Analytics Engineering Co-op | Ottawa, ON | <a href="https://go.vansh.nyc/dy"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 23d |
@@ -177,7 +178,7 @@ Last updated: **2026-11-11 07:25 UTC** · **173** active roles.
 | <a href="https://simplify.jobs/c/Medpace"><strong>Medpace</strong></a> | Clinical Business Intelligence Intern | Cincinnati, OH | <a href="https://careers.medpace.com/jobs/12845?icims=1"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 127d |
 | <a href="https://simplify.jobs/c/88a12762-7571-4b02-ab44-d4b76f06a26a"><strong>First Quality</strong></a> | Analytics Engineer Intern/Co-op - Analytics Engineer | Anderson, SC | <a href="https://firstquality.wd5.myworkdayjobs.com/firstquality/job/US-SC-Anderson/INTERN-OR-CO-OP---Analytics-Engineer_R9813"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 179d |
 
-_14 live, 157 unverified_
+_14 live, 158 unverified_
 <!-- TABLE_SLICE_NA_DATA_ANALYST_END -->
 
 _2 hidden as first_seen >180d. Full set in jobs.db._
