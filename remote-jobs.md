@@ -1,6 +1,6 @@
 # Remote Jobs
 
-Last updated: **2026-11-12 07:27 UTC** · **42 curated** + **137 other** = **179** active remote roles.
+Last updated: **2026-11-12 15:23 UTC** · **43 curated** + **136 other** = **179** active remote roles.
 
 ## Curated companies (matches the JOBS.md allowlist)
 
@@ -45,7 +45,7 @@ Roles at companies on the curated `filters.include_companies` list in `monitor/c
 _32 live, 0 unverified_
 <!-- TABLE_SLICE_REMOTE_JOBS_CURATED_END -->
 
-_10 hidden as first_seen >180d. Full set in jobs.db._
+_11 hidden as first_seen >180d. Full set in jobs.db._
 
 ## All other remote roles
 
@@ -54,7 +54,10 @@ Everything else that surfaced from Remotive / RemoteOK / JobSpy / SimplifyJobs �
 <!-- TABLE_SLICE_REMOTE_JOBS_OTHER_START -->
 | Company | Position | Location | Salary | Posting | Age |
 |---|---|---|---|---|---|
+| **Bask Health** | Creative Engineering Intern | Remote · United States |  | <a href="https://go.vansh.nyc/1w8"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 0d |
+| **Bask Health** | Frontend Engineer Intern, Frontend Engineering | Remote · United States |  | <a href="https://go.vansh.nyc/1w9"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 0d |
 | <a href="https://www.upwind.io"><strong>Upwind</strong></a> | Site Reliability Engineer | Remote - USA |  | <a href="https://www.upwind.io/careers/co/us-remote/1F.47E/site-reliability-engineer/all"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 1d |
+| <a href="https://es.indeed.com/cmp/Open-Energy-Transition"><strong>Open Energy Transition</strong></a> | Proactive Application: Software Engineer (Global \| Remote \| English) | Barcelona, CT, ES |  | <a href="https://es.indeed.com/viewjob?jk=72855f914721aaba"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 1d |
 | <a href="https://www.humana.com"><strong>Humana</strong></a> | ECM Software Engineer | Remote - Kentucky, USA +2 |  | <a href="https://humana.wd5.myworkdayjobs.com/en-US/humana_external_career_site/job/Remote-Kentucky/ECM-Software-Engineer_R-434203"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 1d |
 | <a href="https://guidehouse.com"><strong>Guidehouse</strong></a> | Data Analyst - Dashboard Developer | Remote - Arlington, VA |  | <a href="https://guidehouse.wd1.myworkdayjobs.com/en-US/external/job/US---VA-Arlington/Data-Analyst--Dashboard-Developer-_42740"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 1d |
 | <a href="https://simplify.jobs/c/Bloom-Energy"><strong>Bloom Energy</strong></a> | Remote Monitoring Control Center Systems Engineer Intern | San Jose, CA |  | <a href="https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/RMCC-Systems-Engineering-Intern_JR-25363"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 1d |
@@ -70,9 +73,7 @@ Everything else that surfaced from Remotive / RemoteOK / JobSpy / SimplifyJobs �
 | <a href="https://de.indeed.com/cmp/Dyve"><strong>Dyve</strong></a> | Senior Frontend Engineer Angular (m/w/d) · Remote mit Reiseanteil · Purpose-Unternehmen | Berlin, BE, DE |  | <a href="https://de.indeed.com/viewjob?jk=88b43a83a4449cd5"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 2d |
 | **DwyerOmega** | Applied AI Intern | Remote · United States |  | <a href="https://go.vansh.nyc/1sB"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 2d |
 | **Addepto** | Data Engineer | Remote · Worldwide |  | <a href="https://remoteOK.com/remote-jobs/remote-data-engineer-addepto-1137714"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 2d |
-| <a href="https://uk.indeed.com/cmp/Velotic"><strong>VELOTIC</strong></a> | Curriculum Developer (UK Remote, only) | London, ENG, GB |  | <a href="https://uk.indeed.com/viewjob?jk=021fe29cbd4065c8"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 3d |
 | **Tonic** | Forward Deployed Engineer Co-op, Data De-Identification | Remote · United States |  | <a href="https://go.vansh.nyc/1po"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 3d |
-| <a href="https://simplify.jobs/c/Guidehouse"><strong>Guidehouse</strong></a> | Data Scientist - Consultant - Utilities | Remote in USA · Atlanta, GA |  | <a href="https://guidehouse.wd1.myworkdayjobs.com/external/job/US---GA-Atlanta/Data-Scientist--Consultant--Utilities-_46382"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 3d |
 | **GT** | Senior Agentic AI Engineer NDA | Remote · Warsaw |  | <a href="https://remoteOK.com/remote-jobs/remote-senior-agentic-ai-engineer-nda-gt-1137710"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 3d |
 | **Buoyant** | Senior Software Engineer â Kubernetes Control Plane | Remote · Worldwide |  | <a href="https://remoteOK.com/remote-jobs/remote-senior-software-engineer-kubernetes-control-plane-buoyant-1137713"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 3d |
 | **UMG Contingent Worker Company** | Data Engineer Co-op | Remote · United States |  | <a href="https://go.vansh.nyc/1mF"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 4d |
@@ -82,7 +83,6 @@ Everything else that surfaced from Remotive / RemoteOK / JobSpy / SimplifyJobs �
 | <a href="https://datarobot.com"><strong>DataRobot</strong></a> | Software Design Engineer Intern | Remote - Boston, MA +3 |  | <a href="https://datarobot.wd1.myworkdayjobs.com/en-US/datarobot_external_careers/job/Boston-Massachusetts-US/Software-Design-Engineer-Intern_R-102764"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 5d |
 | <a href="https://www.caci.com"><strong>CACI</strong></a> | ArcGis Developer | Remote - O'Fallon, IL |  | <a href="https://caci.wd1.myworkdayjobs.com/en-US/external/job/Remote-Any-State/ArcGis-Developer_334610"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 5d |
 | <a href="https://ie.indeed.com/cmp/Systal-Technology-Solutions"><strong>Systal Technology Solutions</strong></a> | Senior Deskside Support Engineer - Onsite / Remote | Leopardstown, D, IE |  | <a href="https://ie.indeed.com/viewjob?jk=d58cd3517b50d775"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 6d |
-| <a href="https://pl.indeed.com/cmp/Samsara-c284c6d2"><strong>Samsara</strong></a> | Senior Software Engineer, Agentic Customer Platform (Poland, Remote, B2B) | Warszawa, MZ, PL |  | <a href="https://pl.indeed.com/viewjob?jk=9e706e76c717b7aa"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 6d |
 | <a href="http://insiderone.com/"><strong>Insider One</strong></a> | Junior Software Engineer - AI-Enabled — Remote | Turkey |  | <a href="https://jobs.lever.co/insiderone/176f6234-e706-492e-a984-9eee80d28d22"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 6d |
 | <a href="https://homedepot.com/"><strong>Home Depot</strong></a> | Software Engineer 2 - Remote | Remote - Georgia, USA |  | <a href="https://homedepot.wd5.myworkdayjobs.com/en-US/careerdepot/job/GEORGIA---VIRTUAL---GA01/Software-Engineer-2--Remote-_Req197990"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 6d |
 | **Toptal** | ML Inference Engineer â Terminal-Bench Task Designer (vLLM / SGLang / TensorRT-LLM) | Remote · Anywhere in the World |  | <a href="https://remoteOK.com/remote-jobs/remote-ml-inference-engineer-terminal-bench-task-designer-vllm-sglang-tensorrt-llm-toptal-1137689"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 7d |
@@ -100,7 +100,6 @@ Everything else that surfaced from Remotive / RemoteOK / JobSpy / SimplifyJobs �
 | **Sodalis, Inc.** | Software Engineer Infrastructure | Remote · Palo Alto | $185k-215k/yr | <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-infrastructure-sodalis-inc-1137614"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 10d |
 | <a href="https://simplify.jobs/c/Entrust"><strong>Entrust</strong></a> | AI Developer Intern | Remote in Germany · Shakopee, MN |  | <a href="https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/AI-Developer-Intern_R004397"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 10d |
 | **Docusketch** | AI ML Engineer | Remote · Worldwide | $10k-120k/yr | <a href="https://remoteOK.com/remote-jobs/remote-ai-ml-engineer-docusketch-1137619"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 10d |
-| **Cincinnati Children’s Hospital and Medical Center** | Software Engineering Developer Intern | Remote · United States |  | <a href="https://go.vansh.nyc/1be"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 10d |
 | **Vantor** | AI Engineer Intern | Remote · United States |  | <a href="https://go.vansh.nyc/13t"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 12d |
 | **IDEMIA** | Software Engineer Intern | Remote · United States |  | <a href="https://go.vansh.nyc/12W"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 12d |
 | **Datacor** | AI Engineer Intern | Remote · United States |  | <a href="https://go.vansh.nyc/12N"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 12d |
@@ -188,7 +187,7 @@ Everything else that surfaced from Remotive / RemoteOK / JobSpy / SimplifyJobs �
 | <a href="https://simplify.jobs/c/Canonical"><strong>Canonical</strong></a> | Software Engineer - Secure Container Images | Remote in Christmas Island · Remote in Mali · Remote in Cyprus |  | <a href="https://job-boards.greenhouse.io/canonical/jobs/8130859"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 90d |
 | **Deepgram** | Software Engineering Intern | Remote · US |  | <a href="https://go.vansh.nyc/3S"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 111d |
 
-_0 live, 133 unverified_
+_0 live, 132 unverified_
 <!-- TABLE_SLICE_REMOTE_JOBS_OTHER_END -->
 
 _4 hidden as first_seen >180d. Full set in jobs.db._

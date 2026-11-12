@@ -1,6 +1,6 @@
 # North America Solutions / Customer / DevOps Roles
 
-Last updated: **2026-11-12 07:27 UTC** · **138** active roles.
+Last updated: **2026-11-12 15:23 UTC** · **137** active roles.
 
 <!-- TABLE_SLICE_NA_SOLUTIONS_DEVOPS_START -->
 | Company | Position | Location | Salary | Posting | Age |
@@ -22,7 +22,6 @@ Last updated: **2026-11-12 07:27 UTC** · **138** active roles.
 | **Raft Company Website** | DevOps Engineering Intern | McLean, VA |  | <a href="https://go.vansh.nyc/1jT"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 6d |
 | <a href="https://mastercard.com/"><strong>Mastercard</strong></a> | Site Reliability Engineer I | O'Fallon, MO |  | <a href="https://mastercard.wd1.myworkdayjobs.com/en-US/corporatecareers/job/OFallon-Missouri/Site-Reliability-Engineer-I_R-292697-1"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 6d |
 | **Tencent** | Site Reliability Engineer (SRE) Intern, AI Infrastructure | Palo Alto, CA |  | <a href="https://go.vansh.nyc/1hQ"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 7d |
-| <a href="https://simplify.jobs/c/RTX"><strong>RTX</strong></a> | Metrology Database Support Engineer | Tucson, AZ |  | <a href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-811--1151-E-Hermans-Rd--BLDG-811-External-Site/Metrology-Database-Support-Engineer_01885512-1"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 7d |
 | <a href="https://www.nexxissolutions.com"><strong>Nexxis Solutions</strong></a> | DevOps / Cloud Engineer General Application - Clearance Required | Annapolis Junction, MD |  | <a href="https://nexxis-solutions.breezy.hr/p/132672b21bad-devops-cloud-engineer-general-application-clearance-required"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 7d |
 | <a href="https://www.globalrelay.com"><strong>Global Relay</strong></a> | Co-op DevOps - Winter 2027 | Halifax, Canada |  | <a href="https://www.globalrelay.com/careers/jobs?gh_jid=6241597004"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 7d |
 | **Garmin** | IT DevOps Administrator Intern | Olathe, KS |  | <a href="https://go.vansh.nyc/1jp"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 7d |
@@ -138,7 +137,7 @@ Last updated: **2026-11-12 07:27 UTC** · **138** active roles.
 | <a href="https://simplify.jobs/c/Hendrick-Motorsports"><strong>Hendrick Motorsports</strong></a> | Project and Race Support Engineer Intern | Charlotte, NC |  | <a href="https://hendrick.wd5.myworkdayjobs.com/HMSCareers/job/Hendrick-Motorsports/Project-and-Race-Support-Engineer-Spring-2027---Internship_R-81647"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 136d |
 | <a href="https://www.anthropic.com/"><strong>Anthropic</strong></a> | Support Engineer | San Francisco, CA · New York City, NY · Seattle, WA |  | <a href="https://job-boards.greenhouse.io/anthropic/jobs/5228463008"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 174d |
 
-_40 live, 92 unverified_
+_39 live, 92 unverified_
 <!-- TABLE_SLICE_NA_SOLUTIONS_DEVOPS_END -->
 
 _6 hidden as first_seen >180d. Full set in jobs.db._

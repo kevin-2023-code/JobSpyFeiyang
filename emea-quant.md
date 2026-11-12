@@ -1,10 +1,13 @@
 # EMEA Quant & Trading Roles
 
-Last updated: **2026-11-12 07:27 UTC** · **25** active roles.
+Last updated: **2026-11-12 15:23 UTC** · **27** active roles.
 
 <!-- TABLE_SLICE_EMEA_QUANT_START -->
 | Company | Position | Location | Posting | Age |
 |---|---|---|---|---|
+| <a href="https://fr.indeed.com/cmp/Oxford-Knight"><strong>Oxford Knight</strong></a> | DevOps Engineer - Paris- Multi-Asset Class Systematic Trading | Paris, A8, FR | <a href="https://fr.indeed.com/viewjob?jk=ddc79b461f96ead5"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 0d |
+| <a href="https://uk.indeed.com/cmp/Citi"><strong>Citi</strong></a> | FX Options Quantitative Developer (Assistant Vice President) | London, ENG, GB | <a href="https://uk.indeed.com/viewjob?jk=1ae75257c3b73678"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 0d |
+| <a href="https://uk.indeed.com/cmp/Citi"><strong>Citi</strong></a> | Credit Quantitative Developer (Assistant Vice President) | London, ENG, GB | <a href="https://uk.indeed.com/viewjob?jk=1247bc0222ceef7c"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 0d |
 | <a href="https://uk.indeed.com/cmp/Ares-Management"><strong>Ares Management</strong></a> | Vice President, Quantitative Engineer | London, ENG, GB | <a href="https://uk.indeed.com/viewjob?jk=64c2fc6b631d8509"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 1d |
 | <a href="https://www.vontobel.com"><strong>Vontobel</strong></a> | Early Careers Internship Program Investments -Data Engineer or Quant Developer - 80-100% | Zurich, Switzerland | <a href="https://vontobel.wd3.myworkdayjobs.com/en-US/linkedin/job/Zrich--Genferstrasse-27/Early-Careers-Internship-Program-Investments--Data-Engineer-or-Quant-Developer--80-100--_9579"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 6d |
 | <a href="https://at.indeed.com/cmp/Omv-Aktiengesellschaft"><strong>OMV Aktiengesellschaft</strong></a> | Expert Data Engineer, Digital Trading Solutions (gn) | Wien, W, AT | <a href="https://at.indeed.com/viewjob?jk=e79799cc00d162b0"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 6d |
@@ -13,7 +16,6 @@ Last updated: **2026-11-12 07:27 UTC** · **25** active roles.
 | <a href="https://www.keyrock.com/"><strong>Keyrock</strong></a> | Innovation Quant Developer Intern - DeFi/Corporate Development - Brussels | Brussels, Belgium +1 | <a href="https://jobs.ashbyhq.com/Keyrock/d2d0a311-b102-4fda-b537-1a8e926b55c7"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 8d |
 | <a href="https://uk.indeed.com/cmp/Citi"><strong>Citi</strong></a> | FX eTrading Quality Engineer | London, ENG, GB | <a href="https://uk.indeed.com/viewjob?jk=94ff19a3cd9ba309"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 8d |
 | <a href="https://simplify.jobs/c/Queueco"><strong>Queueco</strong></a> | Quantitative Developer Graduate | London, UK | <a href="https://apply.workable.com/queueco/j/4E1AB7A939/apply"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 14d |
-| <a href="https://simplify.jobs/c/Fasanara"><strong>Fasanara</strong></a> | High-Frequency Trading Operations Engineer | London, UK | <a href="https://apply.workable.com/fasanara/j/188FC5244B/apply"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 35d |
 | <a href="https://encord.com/"><strong>Encord</strong></a> | Quant Developer in AI | London, United Kingdom | <a href="https://jobs.ashbyhq.com/encord/39a4dc33-d4a9-4191-9daa-7712e1fb9bc4"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 41d |
 | <a href="https://simplify.jobs/c/Nu-Quantum"><strong>Nu Quantum</strong></a> | FPGA & Embedded Systems Engineer - Quantum Networking | Cambridge, UK | <a href="https://apply.workable.com/nu-quantum/j/834B821BDB/apply"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 43d |
 | <a href="https://www.winton.com"><strong>Winton</strong></a> | Quantitative Developer/Researcher - Graduate | London, United Kingdom | <a href="https://job-boards.eu.greenhouse.io/winton/jobs/4986765101"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 47d |
@@ -29,7 +31,7 @@ Last updated: **2026-11-12 07:27 UTC** · **25** active roles.
 | <a href="https://simplify.jobs/c/Jane-Street"><strong>Jane Street</strong></a> | Trading Desk Operations Engineer Intern | London, UK | <a href="https://www.janestreet.com/join-jane-street/apply/8700980002?gh_jid=8700980002"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 90d |
 | <a href="https://simplify.jobs/c/GlobalFoundries"><strong>GlobalFoundries</strong></a> | New Graduate Heterogeneous Integration Engineer - Quantum Cryogenic 3D Packaging | Malta, NY · Burlington, VT · Leuven, Belgium | <a href="https://globalfoundries.wd1.myworkdayjobs.com/External/job/Leuven/NCG-3D-Heterogeneous-Integration-Engineer-Cryogenic-3D-packaging_JR-2601211"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 138d |
 
-_1 live, 22 unverified_
+_1 live, 24 unverified_
 <!-- TABLE_SLICE_EMEA_QUANT_END -->
 
 _2 hidden as first_seen >180d. Full set in jobs.db._
