@@ -1,10 +1,11 @@
 # EMEA Quant & Trading Roles
 
-Last updated: **2026-11-13 07:26 UTC** · **24** active roles.
+Last updated: **2026-11-13 15:27 UTC** · **24** active roles.
 
 <!-- TABLE_SLICE_EMEA_QUANT_START -->
 | Company | Position | Location | Posting | Age |
 |---|---|---|---|---|
+| <a href="https://cz.indeed.com/cmp/Ftmo"><strong>FTMO</strong></a> | Product Engineer (Python) - Trading Systems | Praha, A, CZ | <a href="https://cz.indeed.com/viewjob?jk=169c5ef1b79d4430"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 0d |
 | <a href="https://fr.indeed.com/cmp/Oxford-Knight"><strong>Oxford Knight</strong></a> | DevOps Engineer - Paris- Multi-Asset Class Systematic Trading | Paris, A8, FR | <a href="https://fr.indeed.com/viewjob?jk=ddc79b461f96ead5"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 1d |
 | <a href="https://cz.indeed.com/cmp/Ftmo"><strong>FTMO</strong></a> | Product Engineer (Node.js) - Trading Platforms | Praha, A, CZ | <a href="https://cz.indeed.com/viewjob?jk=48407f8fac79e69c"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 1d |
 | <a href="https://uk.indeed.com/cmp/Citi"><strong>Citi</strong></a> | FX Options Quantitative Developer (Assistant Vice President) | London, ENG, GB | <a href="https://uk.indeed.com/viewjob?jk=1ae75257c3b73678"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 1d |
@@ -25,10 +26,9 @@ Last updated: **2026-11-13 07:26 UTC** · **24** active roles.
 | <a href="https://sig.com"><strong>Susquehanna International Group</strong></a> | Quantitative Strategy Developer Internship: Summer 2027 - London | London, United Kingdom | <a href="https://careers-sig.icims.com/jobs/11333/quantitative-strategy-developer-internship%3a-summer-2027-%28london%29/job"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 83d |
 | <a href="https://simplify.jobs/c/Susquehanna"><strong>Susquehanna International Group</strong></a> | Quantitative Strategy Developer Intern | London, UK · Dublin, Ireland | <a href="https://careers-sig.icims.com/jobs/11333/job?mobile=true&needsRedirect=false"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 84d |
 | <a href="https://simplify.jobs/c/Xantium"><strong>Xantium</strong></a> | Quantitative Developer Intern | London, UK · NYC | <a href="https://job-boards.greenhouse.io/xantium/jobs/4360768009"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 88d |
-| <a href="https://simplify.jobs/c/Jane-Street"><strong>Jane Street</strong></a> | Trading Desk Operations Engineer Intern | London, UK | <a href="https://www.janestreet.com/join-jane-street/apply/8700980002?gh_jid=8700980002"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 91d |
 | <a href="https://simplify.jobs/c/GlobalFoundries"><strong>GlobalFoundries</strong></a> | New Graduate Heterogeneous Integration Engineer - Quantum Cryogenic 3D Packaging | Malta, NY · Burlington, VT · Leuven, Belgium | <a href="https://globalfoundries.wd1.myworkdayjobs.com/External/job/Leuven/NCG-3D-Heterogeneous-Integration-Engineer-Cryogenic-3D-packaging_JR-2601211"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 139d |
 
-_1 live, 21 unverified_
+_0 live, 22 unverified_
 <!-- TABLE_SLICE_EMEA_QUANT_END -->
 
 _2 hidden as first_seen >180d. Full set in jobs.db._
