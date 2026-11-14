@@ -1,6 +1,6 @@
 # North America Quant & Trading Roles
 
-Last updated: **2026-11-14 07:21 UTC** · **46** active roles.
+Last updated: **2026-11-14 15:26 UTC** · **45** active roles.
 
 <!-- TABLE_SLICE_NA_QUANT_START -->
 | Company | Position | Location | Posting | Age |
@@ -46,9 +46,8 @@ Last updated: **2026-11-14 07:21 UTC** · **46** active roles.
 | <a href="https://simplify.jobs/c/Tower-Research-Capital"><strong>Tower Research Capital</strong></a> | Quantitative Developer Intern | Chicago, IL · NYC | <a href="https://www.tower-research.com/open-positions/?gh_jid=8044334"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 132d |
 | <a href="https://simplify.jobs/c/ByteDance"><strong>ByteDance</strong></a> | Research Scientist - Quantum Chemistry - Global Frontier Tech Recruitment Program - 2027 Start - PhD | San Jose, CA | <a href="https://jobs.bytedance.com/en/position/7632426574734035253/detail"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 163d |
 | <a href="https://simplify.jobs/c/Base-Power"><strong>Base Power</strong></a> | Quantitative Developer Intern | Austin, TX | <a href="https://jobs.ashbyhq.com/base-power/b6b2332e-1226-4575-b2c9-9e5258f2540e/application"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 171d |
-| **Point72** | Quantitative Developer Intern | New York, NY | <a href="https://go.vansh.nyc/1e"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 209d |
 
-_7 live, 35 unverified_
+_6 live, 35 unverified_
 <!-- TABLE_SLICE_NA_QUANT_END -->
 
 _4 hidden as first_seen >180d. Full set in jobs.db._

@@ -1,6 +1,6 @@
 # Remote Jobs
 
-Last updated: **2026-11-14 07:21 UTC** · **41 curated** + **148 other** = **189** active remote roles.
+Last updated: **2026-11-14 15:26 UTC** · **42 curated** + **150 other** = **192** active remote roles.
 
 ## Curated companies (matches the JOBS.md allowlist)
 
@@ -40,8 +40,9 @@ Roles at companies on the curated `filters.include_companies` list in `monitor/c
 | <a href="https://openai.com/"><strong>OpenAI</strong></a> | Applied AI Engineer, Enterprise | San Francisco, United States · New York City, United States · US - Remote, United States |  | <a href="https://jobs.ashbyhq.com/openai/01091aed-427d-4e10-8cdb-fb500cf55bb9/application"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 129d |
 | <a href="https://openai.com/"><strong>OpenAI</strong></a> | Hardware Operations Engineer | San Francisco, United States · Seattle, United States · US - Remote, United States |  | <a href="https://jobs.ashbyhq.com/openai/b9a4a809-a965-4dbe-aeef-6ce1593903dd/application"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 147d |
 | <a href="https://www.anthropic.com/"><strong>Anthropic</strong></a> | Data Center Controls Engineer | Remote-Friendly (Travel Required) · San Francisco, CA |  | <a href="https://job-boards.greenhouse.io/anthropic/jobs/5107890008"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 282d |
+| **Shopify** | Engineering and Data Intern | Remote · Canada |  | <a href="https://go.vansh.nyc/G"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 452d |
 
-_31 live, 0 unverified_
+_31 live, 1 unverified_
 <!-- TABLE_SLICE_REMOTE_JOBS_CURATED_END -->
 
 _10 hidden as first_seen >180d. Full set in jobs.db._
@@ -63,6 +64,7 @@ Everything else that surfaced from Remotive / RemoteOK / JobSpy / SimplifyJobs �
 | <a href="https://fr.indeed.com/cmp/Harmattan-Ai"><strong>Harmattan AI</strong></a> | SAR Remote Sensing Engineer | Paris, A8, FR |  | <a href="https://fr.indeed.com/viewjob?jk=310a084c40db809b"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 1d |
 | <a href="https://www.claconnect.com"><strong>CliftonLarsonAllen</strong></a> | Marketing Technology Developer - Remote | Tempe, AZ +14 |  | <a href="https://cliftonlarsonallen.wd115.myworkdayjobs.com/en-US/cla/job/Connection-Center-TempeAZ/Marketing-Technology-Developer--Remote-_R18462"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 1d |
 | <a href="https://www.caci.com"><strong>CACI</strong></a> | ArcGis Developer | Remote - O'Fallon, IL |  | <a href="https://caci.wd1.myworkdayjobs.com/en-US/external/job/Remote-Any-State/ArcGis-Developer_334990"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 1d |
+| <a href="https://uk.indeed.com/cmp/BP"><strong>bp</strong></a> | Geospatial Technology Engineer – Remote Sensing | Sunbury, ENG, GB |  | <a href="https://uk.indeed.com/viewjob?jk=1ab0f24800191c85"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 2d |
 | **Pragmatike** | Research Engineer Privacy and Anonymization | Remote · Worldwide |  | <a href="https://remoteOK.com/remote-jobs/remote-research-engineer-privacy-and-anonymization-pragmatike-1137792"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 2d |
 | <a href="https://uk.indeed.com/cmp/Knowbe4"><strong>KnowBe4</strong></a> | Site Reliability Engineer (Remote)(Located in the United Kingdom) | London, ENG, GB |  | <a href="https://uk.indeed.com/viewjob?jk=a6bc057c565c42b1"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 2d |
 | <a href="https://uk.indeed.com/cmp/Knowbe4"><strong>KnowBe4</strong></a> | Site Reliability Engineer (Remote)(Located in the United Kingdom) | Cheltenham, ENG, GB |  | <a href="https://uk.indeed.com/viewjob?jk=1f3190002d6ae595"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 2d |
@@ -72,6 +74,7 @@ Everything else that surfaced from Remotive / RemoteOK / JobSpy / SimplifyJobs �
 | **Bask Health** | Frontend Engineer Intern, Frontend Engineering | Remote · United States |  | <a href="https://go.vansh.nyc/1w9"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 2d |
 | **Bask Health** | Machine Learning Engineer Intern | Remote · United States |  | <a href="https://go.vansh.nyc/1yh"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 2d |
 | **Bask Health** | AI Engineering Intern | Remote · United States |  | <a href="https://go.vansh.nyc/1yi"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 2d |
+| <a href="https://es.indeed.com/cmp/Open-Energy-Transition"><strong>Open Energy Transition</strong></a> | Proactive Application: Software Engineer (Global \| Remote \| English) | Barcelona, CT, ES |  | <a href="https://es.indeed.com/viewjob?jk=72855f914721aaba"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 3d |
 | **Lemon.io** | Senior Data Engineer | Remote · LATAM, Europe, USA, Canada, APAC |  | <a href="https://remotive.com/remote-jobs/data/senior-data-engineer-2091137"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 3d |
 | <a href="https://www.humana.com"><strong>Humana</strong></a> | ECM Software Engineer | Remote - Kentucky, USA +2 |  | <a href="https://humana.wd5.myworkdayjobs.com/en-US/humana_external_career_site/job/Remote-Kentucky/ECM-Software-Engineer_R-434203"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 3d |
 | <a href="https://guidehouse.com"><strong>Guidehouse</strong></a> | Data Analyst - Dashboard Developer | Remote - Arlington, VA |  | <a href="https://guidehouse.wd1.myworkdayjobs.com/en-US/external/job/US---VA-Arlington/Data-Analyst--Dashboard-Developer-_42740"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 3d |
@@ -198,7 +201,7 @@ Everything else that surfaced from Remotive / RemoteOK / JobSpy / SimplifyJobs �
 | <a href="https://simplify.jobs/c/Canonical"><strong>Canonical</strong></a> | Software Engineer - Secure Container Images | Remote in Christmas Island · Remote in Mali · Remote in Cyprus |  | <a href="https://job-boards.greenhouse.io/canonical/jobs/8130859"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 92d |
 | **Deepgram** | Software Engineering Intern | Remote · US |  | <a href="https://go.vansh.nyc/3S"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 113d |
 
-_0 live, 144 unverified_
+_0 live, 146 unverified_
 <!-- TABLE_SLICE_REMOTE_JOBS_OTHER_END -->
 
 _4 hidden as first_seen >180d. Full set in jobs.db._

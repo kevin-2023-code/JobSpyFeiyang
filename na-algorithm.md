@@ -1,6 +1,6 @@
 # North America Algorithm Engineer Roles (算法岗)
 
-Last updated: **2026-11-14 07:21 UTC** · **474** active roles.
+Last updated: **2026-11-14 15:26 UTC** · **476** active roles.
 
 <!-- TABLE_SLICE_NA_ALGORITHM_START -->
 | Company | Position | Location | Salary | Posting | Age |
@@ -98,6 +98,7 @@ Last updated: **2026-11-14 07:21 UTC** · **474** active roles.
 | <a href="https://openai.com/"><strong>OpenAI</strong></a> | Research Scientist / Research Engineer - Web Understanding and Structured Retrieval, Search | San Francisco, United States |  | <a href="https://jobs.ashbyhq.com/openai/1441816f-6429-426e-8f6d-8e5930a818f9/application"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 24d |
 | <a href="https://openai.com/"><strong>OpenAI</strong></a> | Research Scientist / Research Engineer, Safety + Alignment, Search | San Francisco, United States |  | <a href="https://jobs.ashbyhq.com/openai/5ef10e09-2b3f-41de-b77c-829787302101/application"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 24d |
 | <a href="https://www.anthropic.com/"><strong>Anthropic</strong></a> | Research Engineer, Chip Design RL | San Francisco, CA |  | <a href="https://job-boards.greenhouse.io/anthropic/jobs/5459098008"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 24d |
+| <a href="https://simplify.jobs/c/Zurich-Insurance"><strong>Zurich Insurance</strong></a> | Machine Learning Engineer | Toronto, ON, Canada |  | <a href="https://www.careers.zurich.com/job/Waterloo-Machine-Learning-Engineer-ON/1375404257/?ats=successfactors"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 25d |
 | <a href="https://simplify.jobs/c/Micron-Technology"><strong>Micron Technology</strong></a> | Machine Learning Engineering Intern | Richardson, TX |  | <a href="https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Machine-Learning-Engineering_JR114750"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 25d |
 | <a href="https://www.anthropic.com/"><strong>Anthropic</strong></a> | Security Engineer / Research Engineer, RL Security | San Francisco, CA · New York City, NY · Seattle, WA |  | <a href="https://job-boards.greenhouse.io/anthropic/jobs/5458420008"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 25d |
 | **AeroVironment** | Machine Learning Engineering Intern | Centreville, VA |  | <a href="https://go.vansh.nyc/cz"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 25d |
@@ -359,6 +360,7 @@ Last updated: **2026-11-14 07:21 UTC** · **474** active roles.
 | <a href="https://simplify.jobs/c/Jump-Trading"><strong>Jump Trading</strong></a> | AI Research Engineer Intern | Chicago, IL · NYC |  | <a href="https://boards.greenhouse.io/embed/job_app?token=8052281"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 129d |
 | <a href="https://simplify.jobs/c/Jump-Trading"><strong>Jump Trading</strong></a> | Campus AI Research Engineer Intern - Deep Learning | Chicago, IL · NYC |  | <a href="https://boards.greenhouse.io/embed/job_app?token=8052338"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 129d |
 | <a href="https://simplify.jobs/c/TikTok"><strong>TikTok</strong></a> | Applied Scientist Intern - Recommendation AI Lab | San Jose, CA |  | <a href="https://lifeattiktok.com/search/7659527183984019765"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 130d |
+| <a href="https://simplify.jobs/c/KSB"><strong>KSB</strong></a> | Machine Learning Engineer | Grovetown, GA |  | <a href="https://ksb.wd3.myworkdayjobs.com/KSB_ExternalCareerSite/job/Grovetown-GA/Machine-Learning-Engineer_JR_30052-1"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 131d |
 | <a href="https://www.anthropic.com/"><strong>Anthropic</strong></a> | Research Engineer, Life Sciences | San Francisco, CA |  | <a href="https://job-boards.greenhouse.io/anthropic/jobs/5265365008"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 134d |
 | <a href="https://www.anthropic.com/"><strong>Anthropic</strong></a> | Research Engineer, Computer Use | San Francisco, CA · New York City, NY · Seattle, WA |  | <a href="https://job-boards.greenhouse.io/anthropic/jobs/5285246008"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 137d |
 | <a href="https://simplify.jobs/c/EPRI"><strong>EPRI</strong></a> | Computer Vision & 3D Asset Reconstruction Student Employee | Charlotte, NC |  | <a href="https://vhr-epri.wd1.myworkdayjobs.com/epricareers/job/Charlotte-NC/Computer-Vision---3D-Asset-Reconstruction-Student-Employee_REQ-4012"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 139d |
@@ -410,7 +412,7 @@ Last updated: **2026-11-14 07:21 UTC** · **474** active roles.
 | <a href="https://openai.com/"><strong>OpenAI</strong></a> | Research Scientist / Research Engineer - Foundations, Search | San Francisco, United States |  | <a href="https://jobs.ashbyhq.com/openai/020b2aae-8be0-408c-ab49-20eefa8541af/application"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 516d |
 | <a href="https://www.anthropic.com/"><strong>Anthropic</strong></a> | Staff+ Research Scientist, Multi-Agent | San Francisco, CA · New York City, NY · Seattle, WA |  | <a href="https://job-boards.greenhouse.io/anthropic/jobs/4017544008"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 936d |
 
-_271 live, 133 unverified_
+_271 live, 135 unverified_
 <!-- TABLE_SLICE_NA_ALGORITHM_END -->
 
 _70 hidden as first_seen >180d. Full set in jobs.db._
