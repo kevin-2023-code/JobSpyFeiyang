@@ -1,6 +1,6 @@
 # Junior Tech Roles
 
-Last updated: **2026-11-15 07:24 UTC** · **2211** active roles ([EMEA](#emea) (358) · [North America](#na) (1853)).
+Last updated: **2026-11-15 15:19 UTC** · **2214** active roles ([EMEA](#emea) (358) · [North America](#na) (1856)).
 
 ---
 
@@ -833,4 +833,4 @@ Pulled daily from [SimplifyJobs/New-Grad-Positions](https://github.com/SimplifyJ
 _500 live, 0 unverified_
 <!-- TABLE_NA_END -->
 
-_showing newest 500 of 1586 active rows (cap 500); 267 hidden as first_seen >180d. Full set in jobs.db._
+_showing newest 500 of 1589 active rows (cap 500); 267 hidden as first_seen >180d. Full set in jobs.db._

@@ -1,6 +1,6 @@
 # North America Internships
 
-Last updated: **2026-11-15 07:24 UTC** · **3788** active roles.
+Last updated: **2026-11-15 15:19 UTC** · **3791** active roles.
 
 <!-- TABLE_SLICE_NA_INTERN_ONLY_START -->
 | Company | Position | Location | Salary | Posting | Age |
@@ -79,6 +79,8 @@ Last updated: **2026-11-15 07:24 UTC** · **3788** active roles.
 | <a href="https://simplify.jobs/c/Camping-World"><strong>Camping World</strong></a> | Data Engineering Intern | Chicago, IL · Lincolnshire, IL |  | <a href="https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL/Data-Engineering-Intern_26_09297"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 2d |
 | <a href="https://simplify.jobs/c/Camping-World"><strong>Camping World</strong></a> | Data Analyst Intern - AI & Machine Learning Focus | Chicago, IL · Lincolnshire, IL |  | <a href="https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL/Data-Analyst-Intern_26_09300"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 2d |
 | <a href="https://www.caci.com"><strong>CACI</strong></a> | Embedded Software Development Intern - Summer 2027 | Denver, CO |  | <a href="https://caci.wd1.myworkdayjobs.com/en-US/external/job/Denver-CO-US/Embedded-Software-Development-Intern---Summer-2027_333147"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 2d |
+| <a href="https://simplify.jobs/c/Blizzard-Entertainment"><strong>Blizzard Entertainment</strong></a> | Animation & Cinematic Tools Engineering Intern - Animation & Cinematic Tools Engineering | Irvine, CA |  | <a href="https://xboxgaming.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Blizzard-2027-Summer-Internships---Animation---Cinematic-Tools-Engineering_R028350"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 2d |
+| **Blizzard Entertainment** | Animation & Cinematic Tools Engineering Intern | Irvine, CA |  | <a href="https://go.vansh.nyc/1zQ"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 2d |
 | **Bask** | Machine Learning Engineering Intern | United States |  | <a href="https://go.vansh.nyc/1ys"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 2d |
 | **Bask** | AI Engineering Intern | United States |  | <a href="https://go.vansh.nyc/1yt"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 2d |
 | <a href="http://bask.health/"><strong>Bask</strong></a> | Frontend Engineering Intern | USA |  | <a href="https://apply.workable.com/bask-health-1/j/9C2964C7CD/"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 2d |
@@ -176,7 +178,6 @@ Last updated: **2026-11-15 07:24 UTC** · **3788** active roles.
 | <a href="https://www.spectrum.com"><strong>Spectrum</strong></a> | 2027 Summer Intern: Software Engineer | Greenwood Village, CO |  | <a href="https://invitation-charter.icims.com/jobs/81912/2027-summer-intern%3a-software-engineer/job"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 4d |
 | <a href="https://simplify.jobs/c/Shive-Hattery"><strong>Shive-Hattery</strong></a> | Software Developer Intern - Software Development | Iowa City, IA |  | <a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4619793"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 4d |
 | **Shive-Hattery** | Software Developer Intern | Iowa City, IA |  | <a href="https://go.vansh.nyc/1vU"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 4d |
-| <a href="https://simplify.jobs/c/Shield-AI"><strong>Shield AI</strong></a> | Engineer 2 New Grad - Software - Autonomy Capabilities | United States |  | <a href="https://jobs.ashbyhq.com/shield/24de5a65-86ce-4269-ad26-0a3e85b42eec/application?embed=true"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 4d |
 | **Securitymetrics** | Software Engineer Intern | Orem, UT |  | <a href="https://go.vansh.nyc/1vg"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 4d |
 | <a href="https://simplify.jobs/c/SHOPLINE"><strong>SHOPLINE</strong></a> | AI Skill Developer Intern | United States |  | <a href="https://shopline.applytojob.com/apply/Ujgi4rGMS1/AI-Skill-Agent-Skill-Builder-Intern"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 4d |
 | <a href="https://www.sas.com/"><strong>SAS</strong></a> | Summer 2027 - EVAAS Instructional Design e-Learning Developer Intern | Cary, NC |  | <a href="https://careers-sas.icims.com/jobs/42765/summer-2027---evaas-instructional-design-e-learning-developer-intern/job"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 4d |
@@ -504,9 +505,8 @@ Last updated: **2026-11-15 07:24 UTC** · **3788** active roles.
 | **Match Group** | Data Scientist Intern | San Francisco, CA |  | <a href="https://go.vansh.nyc/1kk"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 9d |
 | **Match Group** | Machine Learning Engineer Intern | Palo Alto, CA |  | <a href="https://go.vansh.nyc/1kl"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 9d |
 | **Match Group** | Android Engineer Intern | Los Angeles, CA |  | <a href="https://go.vansh.nyc/1ko"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 9d |
-| **Match Group** | iOS Engineer Intern | Los Angeles, CA · Palo Alto, CA |  | <a href="https://go.vansh.nyc/1kp"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 9d |
 
 _62 live, 438 unverified_
 <!-- TABLE_SLICE_NA_INTERN_ONLY_END -->
 
-_showing newest 500 of 3714 active rows (cap 500); 74 hidden as first_seen >180d. Full set in jobs.db._
+_showing newest 500 of 3717 active rows (cap 500); 74 hidden as first_seen >180d. Full set in jobs.db._

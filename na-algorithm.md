@@ -1,6 +1,6 @@
 # North America Algorithm Engineer Roles (算法岗)
 
-Last updated: **2026-11-15 07:24 UTC** · **477** active roles.
+Last updated: **2026-11-15 15:19 UTC** · **478** active roles.
 
 <!-- TABLE_SLICE_NA_ALGORITHM_START -->
 | Company | Position | Location | Salary | Posting | Age |
@@ -125,6 +125,7 @@ Last updated: **2026-11-15 07:24 UTC** · **477** active roles.
 | **KLA** | Algorithm Engineering Intern, GPU/CUDA | Milpitas, CA |  | <a href="https://go.vansh.nyc/8h"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 34d |
 | <a href="https://simplify.jobs/c/Duolingo"><strong>Duolingo</strong></a> | AI Research Engineer New Grad | Pittsburgh, PA · NYC |  | <a href="https://careers.duolingo.com/jobs/8881612002?gh_jid=8881612002"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 34d |
 | <a href="https://careers.rivian.com"><strong>Rivian</strong></a> | Computer Vision Software - Summer 2027 Internships | Palo Alto, CA | $51/hr | <a href="https://us-careers-rivian.icims.com/jobs/34315/job"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 36d |
+| <a href="https://simplify.jobs/c/Workday"><strong>Workday</strong></a> | Machine Learning Engineer Intern | Toronto, ON, Canada · Vancouver, BC, Canada |  | <a href="https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Machine-Learning-Engineer-Intern_JR-0110806"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 37d |
 | <a href="https://simplify.jobs/c/Workday"><strong>Workday</strong></a> | Machine Learning Engineer Intern | Pleasanton, CA |  | <a href="https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Machine-Learning-Engineer-Intern_JR-0110812"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 37d |
 | <a href="https://simplify.jobs/c/TikTok"><strong>TikTok</strong></a> | Research Scientist New Grad - Conversational AI | San Jose, CA |  | <a href="https://lifeattiktok.com/search/7670685496821713205"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 37d |
 | <a href="https://simplify.jobs/c/TikTok"><strong>TikTok</strong></a> | Machine Learning Engineer Graduate - Conversational AI | Seattle, WA |  | <a href="https://lifeattiktok.com/search/7670685495206857013"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 37d |
@@ -412,7 +413,7 @@ Last updated: **2026-11-15 07:24 UTC** · **477** active roles.
 | <a href="https://openai.com/"><strong>OpenAI</strong></a> | Research Scientist / Research Engineer - Foundations, Search | San Francisco, United States |  | <a href="https://jobs.ashbyhq.com/openai/020b2aae-8be0-408c-ab49-20eefa8541af/application"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 517d |
 | <a href="https://www.anthropic.com/"><strong>Anthropic</strong></a> | Staff+ Research Scientist, Multi-Agent | San Francisco, CA · New York City, NY · Seattle, WA |  | <a href="https://job-boards.greenhouse.io/anthropic/jobs/4017544008"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 937d |
 
-_272 live, 134 unverified_
+_273 live, 134 unverified_
 <!-- TABLE_SLICE_NA_ALGORITHM_END -->
 
 _71 hidden as first_seen >180d. Full set in jobs.db._

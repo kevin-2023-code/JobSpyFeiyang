@@ -1,6 +1,6 @@
 # North America Junior ML Engineer / Applied Scientist Roles
 
-Last updated: **2026-11-15 07:24 UTC** · **674** active roles.
+Last updated: **2026-11-15 15:19 UTC** · **676** active roles.
 
 <!-- TABLE_SLICE_NA_JUNIOR_MLE_START -->
 | Company | Position | Location | Salary | Posting | Age |
@@ -258,6 +258,7 @@ Last updated: **2026-11-15 07:24 UTC** · **674** active roles.
 | <a href="https://simplify.jobs/c/Duolingo"><strong>Duolingo</strong></a> | AI Research Engineer New Grad | Pittsburgh, PA · NYC |  | <a href="https://careers.duolingo.com/jobs/8881612002?gh_jid=8881612002"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 34d |
 | <a href="https://simplify.jobs/c/Brillio"><strong>Brillio</strong></a> | Full Stack AI Engineer | Coppell, TX |  | <a href="https://jobs.lever.co/brillio-2/3de75f8b-9ddc-4908-b67d-d6e91bafd9e2/apply"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 34d |
 | <a href="https://simplify.jobs/c/Bridge-Neurotech"><strong>Bridge Neurotech</strong></a> | Machine Learning Software Engineer Intern | Redwood City, CA |  | <a href="https://jobs.ashbyhq.com/bridgeneurotech/50041fa1-417b-4269-8675-8c8746ed93bf/application?embed=true"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 34d |
+| <a href="https://simplify.jobs/c/Workday"><strong>Workday</strong></a> | Machine Learning Engineer Intern | Toronto, ON, Canada · Vancouver, BC, Canada |  | <a href="https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Machine-Learning-Engineer-Intern_JR-0110806"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 37d |
 | <a href="https://simplify.jobs/c/Workday"><strong>Workday</strong></a> | Machine Learning Engineer Intern | Pleasanton, CA |  | <a href="https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Machine-Learning-Engineer-Intern_JR-0110812"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 37d |
 | <a href="https://simplify.jobs/c/TikTok"><strong>TikTok</strong></a> | Machine Learning Engineer Graduate - Conversational AI | Seattle, WA |  | <a href="https://lifeattiktok.com/search/7670685495206857013"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 37d |
 | <a href="https://simplify.jobs/c/TikTok"><strong>TikTok</strong></a> | Machine Learning Engineer Graduate - Conversational AI | San Jose, CA |  | <a href="https://lifeattiktok.com/search/7670686314588801333"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 37d |
@@ -504,9 +505,8 @@ Last updated: **2026-11-15 07:24 UTC** · **674** active roles.
 | <a href="https://simplify.jobs/c/ByteDance"><strong>ByteDance</strong></a> | Visual Generation & Multimodal Evaluation Machine Learning Engineer Graduate - Applied Machine Learning Ark | San Jose, CA |  | <a href="https://jobs.bytedance.com/en/position/7671102043532462389/detail"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 97d |
 | <a href="https://simplify.jobs/c/ByteDance"><strong>ByteDance</strong></a> | Data Lake Infrastructure & Data Analytics Research Engineer Graduate - Applied Machine Learning Ark | San Jose, CA |  | <a href="https://jobs.bytedance.com/en/position/7671107540954777861/detail"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 97d |
 | <a href="https://simplify.jobs/c/ByteDance"><strong>ByteDance</strong></a> | Data Lake Infrastructure and Data Analytics Research Engineer Intern - Applied Machine Learning Ark | San Jose, CA |  | <a href="https://jobs.bytedance.com/en/position/7671109787509213445/detail"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 97d |
-| <a href="https://simplify.jobs/c/ByteDance"><strong>ByteDance</strong></a> | Agent Evaluation & Evolution Machine Learning Engineer Intern - Applied Machine Learning Ark | San Jose, CA |  | <a href="https://jobs.bytedance.com/en/position/7671096345243535669/detail"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 97d |
 
 _179 live, 321 unverified_
 <!-- TABLE_SLICE_NA_JUNIOR_MLE_END -->
 
-_showing newest 500 of 622 active rows (cap 500); 52 hidden as first_seen >180d. Full set in jobs.db._
+_showing newest 500 of 624 active rows (cap 500); 52 hidden as first_seen >180d. Full set in jobs.db._
