@@ -1,6 +1,6 @@
 # North America Algorithm Engineer Roles (算法岗)
 
-Last updated: **2026-11-16 07:29 UTC** · **478** active roles.
+Last updated: **2026-11-16 15:27 UTC** · **477** active roles.
 
 <!-- TABLE_SLICE_NA_ALGORITHM_START -->
 | Company | Position | Location | Salary | Posting | Age |
@@ -95,7 +95,6 @@ Last updated: **2026-11-16 07:29 UTC** · **478** active roles.
 | <a href="https://simplify.jobs/c/Amazon"><strong>Amazon</strong></a> | Applied Scientist Intern - Automated Reasoning | Seattle, WA |  | <a href="https://amazon.jobs/en/jobs/10552930/2027-applied-science-internship-automated-reasoning-united-states-phd-student-science-recruiting-automated-reasoning"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 24d |
 | <a href="https://simplify.jobs/c/Amazon"><strong>Amazon</strong></a> | Applied Scientist Intern - Reinforcement Learning & Optimization - Machine Learning | Palo Alto, CA · Boston, MA · Seattle, WA |  | <a href="https://amazon.jobs/en/jobs/10564597/2027-applied-science-internship-reinforcement-learning-optimization-machine-learning-united-states-phd-student-science-recruiting"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 24d |
 | <a href="https://simplify.jobs/c/Draper"><strong>Draper</strong></a> | Software Machine Learning Engineer - GNSS - Software Defined Radio | Cambridge, MA |  | <a href="https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Software-Mach-Learn-Engr--GNSS--Software-Defined-Radio-_JR003064"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 25d |
-| <a href="https://simplify.jobs/c/CIBC"><strong>CIBC</strong></a> | Machine Learning Engineer Co-op | Toronto, ON, Canada |  | <a href="https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Machine-Learning-Engineer-Co-op_2621721"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 25d |
 | <a href="https://openai.com/"><strong>OpenAI</strong></a> | Research Scientist / Research Engineer - Web Understanding and Structured Retrieval, Search | San Francisco, United States |  | <a href="https://jobs.ashbyhq.com/openai/1441816f-6429-426e-8f6d-8e5930a818f9/application"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 26d |
 | <a href="https://openai.com/"><strong>OpenAI</strong></a> | Research Scientist / Research Engineer, Safety + Alignment, Search | San Francisco, United States |  | <a href="https://jobs.ashbyhq.com/openai/5ef10e09-2b3f-41de-b77c-829787302101/application"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 26d |
 | <a href="https://www.anthropic.com/"><strong>Anthropic</strong></a> | Research Engineer, Chip Design RL | San Francisco, CA |  | <a href="https://job-boards.greenhouse.io/anthropic/jobs/5459098008"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 26d |
@@ -413,7 +412,7 @@ Last updated: **2026-11-16 07:29 UTC** · **478** active roles.
 | <a href="https://openai.com/"><strong>OpenAI</strong></a> | Research Scientist / Research Engineer - Foundations, Search | San Francisco, United States |  | <a href="https://jobs.ashbyhq.com/openai/020b2aae-8be0-408c-ab49-20eefa8541af/application"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 518d |
 | <a href="https://www.anthropic.com/"><strong>Anthropic</strong></a> | Staff+ Research Scientist, Multi-Agent | San Francisco, CA · New York City, NY · Seattle, WA |  | <a href="https://job-boards.greenhouse.io/anthropic/jobs/4017544008"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 938d |
 
-_273 live, 134 unverified_
+_273 live, 133 unverified_
 <!-- TABLE_SLICE_NA_ALGORITHM_END -->
 
 _71 hidden as first_seen >180d. Full set in jobs.db._

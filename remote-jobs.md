@@ -1,6 +1,6 @@
 # Remote Jobs
 
-Last updated: **2026-11-16 07:29 UTC** · **42 curated** + **147 other** = **189** active remote roles.
+Last updated: **2026-11-16 15:27 UTC** · **42 curated** + **149 other** = **191** active remote roles.
 
 ## Curated companies (matches the JOBS.md allowlist)
 
@@ -56,6 +56,7 @@ Everything else that surfaced from Remotive / RemoteOK / JobSpy / SimplifyJobs �
 |---|---|---|---|---|---|
 | <a href="https://valiantsolutions.com"><strong>Valiant Solutions</strong></a> | Associate Software Engineer | Remote - USA |  | <a href="https://careers-valiantsolutions.icims.com/jobs/7844/associate-software-engineer/job"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 1d |
 | <a href="https://cz.indeed.com/cmp/Powerprozesse"><strong>Powerprozesse</strong></a> | Senior DevOps Engineer / SRE (100% Remote) | Praha, A, CZ |  | <a href="https://cz.indeed.com/viewjob?jk=9123a14b5a93576f"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 1d |
+| **Mitre Media** | Tech Lead Full-Stack Rails Engineer | Remote · USA, Canada, USA timezones | $170k-200k/yr | <a href="https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 2d |
 | <a href="https://www.affirm.com"><strong>Affirm</strong></a> | Software Engineer I - Backend - Continuous Delivery | Remote - Canada +1 |  | <a href="https://job-boards.greenhouse.io/affirm/jobs/8181185003"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 2d |
 | <a href="https://www.abnormalsecurity.com"><strong>Abnormal Security</strong></a> | Software Engineer I - Data Platforms | Remote - USA |  | <a href="https://abnormal.ai/careers/jobs/8196352003?gh_jid=8196352003"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 2d |
 | **Supabase** | Software Engineer AI Tooling | Remote · Worldwide |  | <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-ai-tooling-supabase-1137793"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 3d |
@@ -170,6 +171,7 @@ Everything else that surfaced from Remotive / RemoteOK / JobSpy / SimplifyJobs �
 | <a href="https://www.docplanner.com/"><strong>Docplanner</strong></a> | Junior Software Engineer - Early Career - Strong Problem solving & Coding Focus - 100% Remote within Poland | Warsaw, Poland |  | <a href="https://jobs.ashbyhq.com/docplanner/9031585a-7b58-4d06-8d4d-6bf6522a5dda"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 44d |
 | <a href="http://www.policyme.com/"><strong>PolicyMe</strong></a> | Junior Software Engineer - Remote | Canada |  | <a href="https://jobs.lever.co/policyme/30e81807-adb5-44a9-baad-4beb75913694"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 45d |
 | <a href="https://usa.m3.com"><strong>M3 USA</strong></a> | AI Software Engineer - Remote | Fort Washington, PA |  | <a href="https://jobs.smartrecruiters.com/M3USA/744000152758649-ai-software-engineer-remote-?oga=true"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 45d |
+| <a href="https://nl.indeed.com/cmp/Matchmatters-Bv"><strong>MatchMatters BV</strong></a> | Remote Support Engineer | Sliedrecht, ZH, NL |  | <a href="https://nl.indeed.com/viewjob?jk=e3041acfaf1492ba"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 46d |
 | <a href="https://www.haemonetics.com"><strong>Haemonetics</strong></a> | Software Support I | Remote - Coventry, United Kingdom |  | <a href="https://haemonetics.wd5.myworkdayjobs.com/en-US/hae/job/Coventry-UK/Software-Support-I_R11063-2"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 47d |
 | <a href="https://www.dotdashmeredith.com"><strong>Dotdash Meredith</strong></a> | Cloud Platform Engineering Intern | Remote - Edmonton, Canada |  | <a href="https://meredith.wd5.myworkdayjobs.com/en-US/ext/job/Edmonton-AB---10160-103-St-NW/Cloud-Platform-Engineering-Intern_JR15684"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 47d |
 | **Risepoint** | Analytics Engineering Co-op | Remote · United States |  | <a href="https://go.vansh.nyc/DV"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 48d |
@@ -198,7 +200,7 @@ Everything else that surfaced from Remotive / RemoteOK / JobSpy / SimplifyJobs �
 | <a href="https://simplify.jobs/c/Canonical"><strong>Canonical</strong></a> | Software Engineer - Secure Container Images | Remote in Christmas Island · Remote in Mali · Remote in Cyprus |  | <a href="https://job-boards.greenhouse.io/canonical/jobs/8130859"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 94d |
 | **Deepgram** | Software Engineering Intern | Remote · US |  | <a href="https://go.vansh.nyc/3S"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 115d |
 
-_0 live, 143 unverified_
+_0 live, 145 unverified_
 <!-- TABLE_SLICE_REMOTE_JOBS_OTHER_END -->
 
 _4 hidden as first_seen >180d. Full set in jobs.db._

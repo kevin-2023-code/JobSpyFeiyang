@@ -1,10 +1,11 @@
 # North America Senior SDE Roles
 
-Last updated: **2026-11-16 07:29 UTC** · **56** active roles.
+Last updated: **2026-11-16 15:27 UTC** · **57** active roles.
 
 <!-- TABLE_SLICE_NA_SENIOR_SDE_START -->
 | Company | Position | Location | Posting | Age |
 |---|---|---|---|---|
+| <a href="https://cohere.com/"><strong>Cohere</strong></a> | Staff Software Engineer, Data Infrastructure | New York, United States | <a href="https://jobs.ashbyhq.com/cohere/c4192057-43fa-45c9-a40e-6f29131bf11d/application"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 0d |
 | <a href="https://www.anthropic.com/"><strong>Anthropic</strong></a> | Staff Software Engineer, Internal Products | Remote-Friendly (Travel-Required) · San Francisco, CA · Seattle, WA | <a href="https://job-boards.greenhouse.io/anthropic/jobs/5481096008"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 3d |
 | <a href="https://www.anthropic.com/"><strong>Anthropic</strong></a> | Staff Software Engineer, Support Technology | San Francisco, CA · New York City, NY · Seattle, WA | <a href="https://job-boards.greenhouse.io/anthropic/jobs/5478876008"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 4d |
 | <a href="https://openai.com/"><strong>OpenAI</strong></a> | Principal Software Engineer, Full Stack — Codex | San Francisco, United States | <a href="https://jobs.ashbyhq.com/openai/74842880-e750-4664-9e2e-83b4c96c5a03/application"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 6d |
@@ -47,7 +48,7 @@ Last updated: **2026-11-16 07:29 UTC** · **56** active roles.
 | <a href="https://www.anthropic.com/"><strong>Anthropic</strong></a> | Staff + Senior Software Engineer, Inference Infrastructure | San Francisco, CA · New York City, NY · Seattle, WA | <a href="https://job-boards.greenhouse.io/anthropic/jobs/5245851008"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 161d |
 | <a href="https://simplify.jobs/c/Fortinet"><strong>Fortinet</strong></a> | Senior Software Developer | Burnaby, BC, Canada | <a href="https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22910"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 175d |
 
-_32 live, 9 unverified_
+_33 live, 9 unverified_
 <!-- TABLE_SLICE_NA_SENIOR_SDE_END -->
 
 _15 hidden as first_seen >180d. Full set in jobs.db._
