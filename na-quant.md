@@ -1,11 +1,10 @@
 # North America Quant & Trading Roles
 
-Last updated: **2026-11-17 07:25 UTC** · **43** active roles.
+Last updated: **2026-11-17 15:27 UTC** · **42** active roles.
 
 <!-- TABLE_SLICE_NA_QUANT_START -->
 | Company | Position | Location | Posting | Age |
 |---|---|---|---|---|
-| <a href="https://simplify.jobs/c/Royal-Bank-Of-Canada"><strong>Royal Bank of Canada</strong></a> | Quantitative Technology Services Co-op - Software Developer | Montreal, QC, Canada | <a href="https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/MONTRAL-Quebec-Canada/XMLNAME-2027-Winter-Capital-Markets-QTS--Software-Developer--Montreal---4-Months_R-0000184676-3"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 12d |
 | **Royal Bank of Canada** | Software Developer Co-op, Quantitative Technology Services | Montreal, Canada | <a href="https://go.vansh.nyc/1jt"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 12d |
 | <a href="https://infleqtion.com/"><strong>Infleqtion</strong></a> | Summer 2027 Internship - Quantum Software - QSW | Chicago, IL | <a href="https://apply.workable.com/coldquanta/j/EB77DE8198/"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 19d |
 | <a href="https://simplify.jobs/c/Infleqtion"><strong>Infleqtion</strong></a> | Quantum Software Intern - Quantum Software | Chicago, IL | <a href="https://apply.workable.com/coldquanta/j/EB77DE8198/apply"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 20d |
@@ -45,7 +44,7 @@ Last updated: **2026-11-17 07:25 UTC** · **43** active roles.
 | <a href="https://simplify.jobs/c/ByteDance"><strong>ByteDance</strong></a> | Research Scientist - Quantum Chemistry - Global Frontier Tech Recruitment Program - 2027 Start - PhD | San Jose, CA | <a href="https://jobs.bytedance.com/en/position/7632426574734035253/detail"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 166d |
 | <a href="https://simplify.jobs/c/Base-Power"><strong>Base Power</strong></a> | Quantitative Developer Intern | Austin, TX | <a href="https://jobs.ashbyhq.com/base-power/b6b2332e-1226-4575-b2c9-9e5258f2540e/application"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 174d |
 
-_6 live, 33 unverified_
+_6 live, 32 unverified_
 <!-- TABLE_SLICE_NA_QUANT_END -->
 
 _4 hidden as first_seen >180d. Full set in jobs.db._

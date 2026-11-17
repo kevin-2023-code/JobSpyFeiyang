@@ -1,10 +1,11 @@
 # North America Data Analyst Roles
 
-Last updated: **2026-11-17 07:25 UTC** · **173** active roles.
+Last updated: **2026-11-17 15:27 UTC** · **175** active roles.
 
 <!-- TABLE_SLICE_NA_DATA_ANALYST_START -->
 | Company | Position | Location | Posting | Age |
 |---|---|---|---|---|
+| <a href="https://simplify.jobs/c/Tantalus-Systems"><strong>Tantalus Systems</strong></a> | Analytics Engineer | Burnaby, BC, Canada · Raleigh, NC · Chattanooga, TN | <a href="https://tantalussystems.bamboohr.com/careers/196/"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 0d |
 | <a href="https://simplify.jobs/c/Boston-Scientific"><strong>Boston Scientific</strong></a> | Product Data Analyst Intern | Marlborough, MA | <a href="https://bostonscientific.eightfold.ai/careers/job/563602813864319"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 1d |
 | **Bloomberg Industry Group** | Data Analyst Intern | Arlington, VA | <a href="https://go.vansh.nyc/1AF"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 1d |
 | **NetApp** | Data Analyst Intern | Research Triangle Park, NC | <a href="https://go.vansh.nyc/1zX"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 3d |
@@ -110,6 +111,7 @@ Last updated: **2026-11-17 07:25 UTC** · **173** active roles.
 | **Risepoint** | Analytics Engineering Co-op | Remote · United States | <a href="https://go.vansh.nyc/DV"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 49d |
 | <a href="https://simplify.jobs/c/Anduril"><strong>Anduril</strong></a> | Data Analyst - Quality | Ashville, OH | <a href="https://boards.greenhouse.io/andurilindustries/jobs/5251234007"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 49d |
 | <a href="https://simplify.jobs/c/Medpace"><strong>Medpace</strong></a> | Junior Business Intelligence Engineer Intern | Cincinnati, OH | <a href="https://careers.medpace.com/jobs/13026?icims=1"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 50d |
+| <a href="https://simplify.jobs/c/Joy-Baking-Group"><strong>Joy Baking Group</strong></a> | Data Analytics Engineer | Hermitage, PA | <a href="https://careers-joybakinggroup.icims.com/jobs/1472/job?mobile=true&needsRedirect=false"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 50d |
 | <a href="https://simplify.jobs/c/Caesars-Entertainment"><strong>Caesars Entertainment</strong></a> | Data Analyst 1 Rotational Program - Corporate | Las Vegas, NV | <a href="https://edmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/90004"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 53d |
 | <a href="https://simplify.jobs/c/Goldbelt"><strong>Goldbelt</strong></a> | Junior Data Analyst | Falls Church, VA | <a href="https://careers-goldbeltapex.icims.com/jobs/20717/job?mobile=true&needsRedirect=false"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 54d |
 | <a href="https://simplify.jobs/c/Zekelman-Industries"><strong>Zekelman Industries</strong></a> | Business Intelligence Intern - Program Development | Austin, TX · Troy, MI | <a href="https://zekelman.wd12.myworkdayjobs.com/Careers/job/Troy-MI/Intern--Business-Intelligence_JR002769"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 55d |
@@ -176,7 +178,7 @@ Last updated: **2026-11-17 07:25 UTC** · **173** active roles.
 | <a href="https://simplify.jobs/c/Mass-General-Brigham"><strong>Mass General Brigham</strong></a> | Data Innovation Research Data Analyst | Boston, MA | <a href="https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Data-Innovation-Research-Data-Analyst-per-diem_RQ4072147"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 130d |
 | <a href="https://stripe.com/"><strong>Stripe</strong></a> | Data Analyst | US | <a href="https://stripe.com/jobs/search?gh_jid=5601881"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 1043d |
 
-_16 live, 154 unverified_
+_16 live, 156 unverified_
 <!-- TABLE_SLICE_NA_DATA_ANALYST_END -->
 
 _3 hidden as first_seen >180d. Full set in jobs.db._

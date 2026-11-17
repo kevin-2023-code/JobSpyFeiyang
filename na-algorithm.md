@@ -1,10 +1,13 @@
 # North America Algorithm Engineer Roles (算法岗)
 
-Last updated: **2026-11-17 07:25 UTC** · **475** active roles.
+Last updated: **2026-11-17 15:27 UTC** · **477** active roles.
 
 <!-- TABLE_SLICE_NA_ALGORITHM_START -->
 | Company | Position | Location | Salary | Posting | Age |
 |---|---|---|---|---|---|
+| <a href="https://simplify.jobs/c/TikTok"><strong>TikTok</strong></a> | Research Scientist Intern - Privacy Innovation Lab | San Jose, CA |  | <a href="https://lifeattiktok.com/search/7703923326767483141"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 0d |
+| <a href="https://simplify.jobs/c/Birdseye-Security-Solutions"><strong>Birdseye Security Solutions</strong></a> | Computer Vision Intern | Dallas, TX |  | <a href="https://birdseyeaccount.bamboohr.com/careers/290/"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 0d |
+| <a href="https://simplify.jobs/c/Birdseye-Security-Solutions"><strong>Birdseye Security Solutions</strong></a> | Computer Vision Intern | Mississauga, ON, Canada |  | <a href="https://birdseyeaccount.bamboohr.com/careers/289/"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 0d |
 | <a href="https://simplify.jobs/c/TikTok"><strong>TikTok</strong></a> | Client Security & Data Foundation Machine Learning Engineer Intern | San Jose, CA |  | <a href="https://lifeattiktok.com/search/7708750900450134325"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 1d |
 | <a href="https://simplify.jobs/c/Shopify"><strong>Shopify</strong></a> | Applied Machine Learning Engineer Intern | Montreal, QC, Canada · Toronto, ON, Canada · Ottawa, ON, Canada |  | <a href="https://www.shopify.com/careers/applied-machine-learning-engineering-internships-summer-2027_1d6b9bb9-a132-4ad9-b33f-3e55d2cfc536"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 1d |
 | <a href="https://openai.com/"><strong>OpenAI</strong></a> | Applied Scientist, Product Policy Research & Measurement | San Francisco, United States · US - Remote, United States |  | <a href="https://jobs.ashbyhq.com/openai/73875295-889e-4373-b20f-654e85c66ba4/application"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 3d |
@@ -101,7 +104,7 @@ Last updated: **2026-11-17 07:25 UTC** · **475** active roles.
 | <a href="https://openai.com/"><strong>OpenAI</strong></a> | Research Scientist / Research Engineer, Safety + Alignment, Search | San Francisco, United States |  | <a href="https://jobs.ashbyhq.com/openai/5ef10e09-2b3f-41de-b77c-829787302101/application"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 27d |
 | <a href="https://www.anthropic.com/"><strong>Anthropic</strong></a> | Research Engineer, Chip Design RL | San Francisco, CA |  | <a href="https://job-boards.greenhouse.io/anthropic/jobs/5459098008"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 27d |
 | <a href="https://simplify.jobs/c/Zurich-Insurance"><strong>Zurich Insurance</strong></a> | Machine Learning Engineer | Toronto, ON, Canada |  | <a href="https://www.careers.zurich.com/job/Waterloo-Machine-Learning-Engineer-ON/1375404257/?ats=successfactors"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 28d |
-| <a href="https://simplify.jobs/c/Micron-Technology"><strong>Micron Technology</strong></a> | Machine Learning Engineering Intern | Richardson, TX |  | <a href="https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Machine-Learning-Engineering_JR114750"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 28d |
+| **Micron Technology** | Machine Learning Engineering Intern | Richardson, TX |  | <a href="https://go.vansh.nyc/d6"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 28d |
 | <a href="https://www.anthropic.com/"><strong>Anthropic</strong></a> | Security Engineer / Research Engineer, RL Security | San Francisco, CA · New York City, NY · Seattle, WA |  | <a href="https://job-boards.greenhouse.io/anthropic/jobs/5458420008"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 28d |
 | **AeroVironment** | Machine Learning Engineering Intern | Centreville, VA |  | <a href="https://go.vansh.nyc/cz"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 28d |
 | <a href="https://simplify.jobs/c/Microsoft"><strong>Microsoft</strong></a> | Research Intern - Algorithms Group - Generative Modeling | Redmond, WA |  | <a href="https://apply.careers.microsoft.com/careers/job/1970393557043740"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 29d |
@@ -409,7 +412,7 @@ Last updated: **2026-11-17 07:25 UTC** · **475** active roles.
 | <a href="https://openai.com/"><strong>OpenAI</strong></a> | Research Scientist / Research Engineer - Foundations, Search | San Francisco, United States |  | <a href="https://jobs.ashbyhq.com/openai/020b2aae-8be0-408c-ab49-20eefa8541af/application"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 519d |
 | <a href="https://www.anthropic.com/"><strong>Anthropic</strong></a> | Staff+ Research Scientist, Multi-Agent | San Francisco, CA · New York City, NY · Seattle, WA |  | <a href="https://job-boards.greenhouse.io/anthropic/jobs/4017544008"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 939d |
 
-_273 live, 130 unverified_
+_274 live, 132 unverified_
 <!-- TABLE_SLICE_NA_ALGORITHM_END -->
 
-_72 hidden as first_seen >180d. Full set in jobs.db._
+_71 hidden as first_seen >180d. Full set in jobs.db._

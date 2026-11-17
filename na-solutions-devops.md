@@ -1,10 +1,11 @@
 # North America Solutions / Customer / DevOps Roles
 
-Last updated: **2026-11-17 07:25 UTC** · **136** active roles.
+Last updated: **2026-11-17 15:27 UTC** · **137** active roles.
 
 <!-- TABLE_SLICE_NA_SOLUTIONS_DEVOPS_START -->
 | Company | Position | Location | Salary | Posting | Age |
 |---|---|---|---|---|---|
+| **Sedaro** | DevOps Intern | Arlington, VA |  | <a href="https://go.vansh.nyc/1Be"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 0d |
 | <a href="https://openai.com/"><strong>OpenAI</strong></a> | Dedicated Support Engineering Lead | San Francisco, United States |  | <a href="https://jobs.ashbyhq.com/openai/e0e05de8-e313-4249-bb84-2a44b2ed6d8e/application"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 0d |
 | **Pacific Fusion** | HPC/DevOps Engineering Intern | San Leandro, CA |  | <a href="https://go.vansh.nyc/1Ao"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 1d |
 | <a href="https://sierraspace.com"><strong>Sierra Space</strong></a> | Software Engineer I - DevOps / DevSecOps | Louisville, CO +1 |  | <a href="https://sierraspace.wd1.myworkdayjobs.com/en-US/sierra_space_external_career_site/job/Louisville-CO/REQ-SWAP-Software-Engineer-I---DevOps---DevSecOps_R26535"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 4d |
@@ -136,7 +137,7 @@ Last updated: **2026-11-17 07:25 UTC** · **136** active roles.
 | <a href="https://simplify.jobs/c/Hendrick-Motorsports"><strong>Hendrick Motorsports</strong></a> | Project and Race Support Engineer Intern | Charlotte, NC |  | <a href="https://hendrick.wd5.myworkdayjobs.com/HMSCareers/job/Hendrick-Motorsports/Project-and-Race-Support-Engineer-Spring-2027---Internship_R-81647"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 141d |
 | <a href="https://www.anthropic.com/"><strong>Anthropic</strong></a> | Support Engineer | San Francisco, CA · New York City, NY · Seattle, WA |  | <a href="https://job-boards.greenhouse.io/anthropic/jobs/5228463008"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 179d |
 
-_36 live, 94 unverified_
+_36 live, 95 unverified_
 <!-- TABLE_SLICE_NA_SOLUTIONS_DEVOPS_END -->
 
 _6 hidden as first_seen >180d. Full set in jobs.db._

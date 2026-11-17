@@ -1,10 +1,11 @@
 # EMEA Quant & Trading Roles
 
-Last updated: **2026-11-17 07:25 UTC** · **26** active roles.
+Last updated: **2026-11-17 15:27 UTC** · **27** active roles.
 
 <!-- TABLE_SLICE_EMEA_QUANT_START -->
 | Company | Position | Location | Posting | Age |
 |---|---|---|---|---|
+| <a href="https://uk.indeed.com/cmp/Citi"><strong>Citi</strong></a> | Quantitative Developer - Assistant Vice President | London, ENG, GB | <a href="https://uk.indeed.com/viewjob?jk=aaf33b1e218faed3"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 0d |
 | <a href="https://de.indeed.com/cmp/Ostrom"><strong>Ostrom</strong></a> | Analytics Engineer - Power Trading | Berlin, BE, DE | <a href="https://de.indeed.com/viewjob?jk=6737ce7d8860b99f"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 1d |
 | <a href="https://simplify.jobs/c/Keyrock"><strong>Keyrock</strong></a> | Innovation Quant Developer Intern - DeFi/Corporate Development | London, UK · Brussels, Belgium | <a href="https://jobs.ashbyhq.com/keyrock/99a38fdd-4250-42b9-a92b-5c0f48d563fd/application?embed=true"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 1d |
 | <a href="https://cz.indeed.com/cmp/Ftmo"><strong>FTMO</strong></a> | Product Engineer (Python) - Trading Systems | Praha, A, CZ | <a href="https://cz.indeed.com/viewjob?jk=169c5ef1b79d4430"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 4d |
@@ -30,7 +31,7 @@ Last updated: **2026-11-17 07:25 UTC** · **26** active roles.
 | <a href="https://simplify.jobs/c/Xantium"><strong>Xantium</strong></a> | Quantitative Developer Intern | London, UK · NYC | <a href="https://job-boards.greenhouse.io/xantium/jobs/4360768009"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 92d |
 | <a href="https://simplify.jobs/c/GlobalFoundries"><strong>GlobalFoundries</strong></a> | New Graduate Heterogeneous Integration Engineer - Quantum Cryogenic 3D Packaging | Malta, NY · Burlington, VT · Leuven, Belgium | <a href="https://globalfoundries.wd1.myworkdayjobs.com/External/job/Leuven/NCG-3D-Heterogeneous-Integration-Engineer-Cryogenic-3D-packaging_JR-2601211"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> <sup title="not yet verified live — may be stale">(?)</sup> | 143d |
 
-_0 live, 24 unverified_
+_0 live, 25 unverified_
 <!-- TABLE_SLICE_EMEA_QUANT_END -->
 
 _2 hidden as first_seen >180d. Full set in jobs.db._
